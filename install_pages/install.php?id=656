@@ -1,0 +1,99 @@
+<div class="page" data-name="install" data-id="656" data-app-name="Barking Dog - Monitor & Control - Bark'n Mad">
+<div class="page-content">
+<center>
+<div class="content-block" style="width:100%;max-width:414px; text-align:left; margin-top:-16px; margin-bottom:0px;">
+<a href="#" class="back link"><i class="icon icon-back"></i><span> Back</span></a>
+<br><br>
+<div class="row">
+<div class="col-40">
+<img width="100%" style="border-radius:25%;" src="https://img.appvalley.vip/icon/656.png">
+</div>
+<div class="col-60">
+<h2 class="header" style="padding:0px;"><div id="#appName" style="overflow:hidden;">Barking Dog - Monitor & Control - Bark'n Mad</div><br><div style="margin-top:-35px; font-size:18px;"><small style="color:#6d6d72;">John Hall</small></div></h2>
+<a href="itms-services://?action=download-manifest&url=https://appvalley.vip/app/plists/656/install.plist" class="col button button-fill button-round external install"  data-id="656" data-app-name="Barking Dog - Monitor & Control - Bark'n Mad" style="background: #007AFF; color: #F0F1F6; font-weight:bold; width: 72px;">GET</a>
+</div>
+</div>
+</div>
+<div class="content-block" style="max-width:414px; text-align:left;">
+<h2 class="header">Preview</h2>
+<img style="border-radius:9px; max-width:414px;" src="https://img.appvalley.vip/screenshot/656.png" width="60%">
+<h2 class="header">Description</h2>Is your dog barking while you <div class="desc" style="display: none;">are out? Is the dog next door continually barking? Run monitoring sessions to record and control excessive barking. You can see the results immediately through the use of graphical displays. The lower graph shows you a visual summary of the entire monitoring session while the upper graph shows instantaneous barking activity.<br />
+<br />
+Was your dog disturbed? Was it lonely? Was it playing? See why your dog is barking with color analysis graphs which show the dog’s mood from the sounds in the bark.<br />
+<br />
+Your initial acquisition provides you with everything you need to monitor and control your dog(s) barking. Unlimited monitoring duration, playback of a recorded reprimand to check your dog when it barks followed up by praise when it stops. Fast review features save you time when you get home.<br />
+<br />
+You can monitor for well in excess of 12 hours as 'Bark'n Mad' has low storage and battery usage with background and screen-off recording.<br />
+<br />
+If your dog is a barker you have further optional facilities to help control it:<br />
+・ Whistles to attract your dog’s attention<br />
+・ Boost the volume of your reprimand and praise recordings<br />
+・ Fine-tune when your reprimand and praise recordings are replayed<br />
+・ Support for Bluetooth hands free devices for recording and playback of reprimands and praise<br />
+・ Remotely view the monitoring session graphs on your iPhone<br />
+・ Setup periodic email updates and barking alerts for monitoring sessions<br />
+・ Access session recordings from your computer.<br />
+<br />
+Additional features are available for raising or responding to complaints about barking:<br />
+・ Prove where the monitoring session was recorded<br />
+・ Email download links to recording copies<br />
+・ Email download links to guaranteed unaltered recording copies<br />
+・ Capture and email monitoring and playback summary graphs as required.<br />
+<br />
+Where barking complaints have occurred we recommend that both parties to the complaint (the neighbor and the owner) run Bark’n Mad to record barking and work together for a solution.<br />
+</div>
+<p>
+<a href="#" onclick="if ($$('.desc').css('display') == 'none'){$$('.desc').css('display', 'inline'); this.innerHTML='Less...'} else {$$('.desc').css('display', 'none'); this.innerHTML='More...'}" class="">More...</a>
+</p>
+<br>
+<div id="ad_container"></div>
+<br>
+<h2 class="header">Information</h2>
+<div class="list-block inset" style="margin:0px;">
+<ul>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Seller</div>
+<div class="item-after header">John Hall</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Size</div>
+<div class="item-after header">75.88 MB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Categories</div>
+<div class="item-after header">Paid and Other Apps</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Version</div>
+<div class="item-after header">3.6.11</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Report App</div>
+<div class="item-after header"><a class="email" title="email" href="#" onclick="javascript:window.location='mailto:report@appvalley.vip?subject=App Not Working&body=This app is not working: ' + document.getElementById('#appName').innerHTML;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVEhL7VJNKERRFH6xICsLKXsbC+Tdp4RIWYosZq0oysrCzsLKxkYW5t5nYzWpScpGFihSVhZTGt65T5MFSooSkZ/xnTuMmfdG0wxLt77eO98557vnnHus/5M9kXi6UkhvwpE6BsR/A6Fo2XF1pxEWUi84Sqf/CkLSq5B+l4Wbrh1Fb4WCysQToCxjSDqC+E6Os3RIesAo1oErFBvLCBtQAm2M4f/wmysOofQL8lzkT8G+N3y+MBN0i5kPtUt/GM6TPF8Qkt65Qlv5zaF3CgkbEgmS5hoXqcpR/jiCLoMxENqzo9Rhq2QD7P2gv7BwFrRlzaYrhHtRA6GZTDd0DMEB3qa2Ja/JzLNQ7k/CvDJocYRF25XXw0KtK6lavog7sZXuM/uv9Fqh/B9H4URpFMk27CRzqGy1JerXC/es+4vjZOGe1sG3YexchIRZVNIkHNPAc8B3F9x3VJzi6tHhZi4fEsYs5xG0ncsVA4+N83DxbpbPF6YDVHDzbZcKSkD83PxnhEmbEYQCSwdX//mds5yoHsQDPAaDygVEPX5o3iSLFx1zGhKujvwGjuv1966kqo3o/8kcy/oAk4ZYv9esbNMAAAAASUVORK5CYII="></a></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</center>
+</div>
+</div>

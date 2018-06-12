@@ -1,0 +1,98 @@
+<div class="page" data-name="install" data-id="649" data-app-name="Toca Tailor">
+<div class="page-content">
+<center>
+<div class="content-block" style="width:100%;max-width:414px; text-align:left; margin-top:-16px; margin-bottom:0px;">
+<a href="#" class="back link"><i class="icon icon-back"></i><span> Back</span></a>
+<br><br>
+<div class="row">
+<div class="col-40">
+<img width="100%" style="border-radius:25%;" src="https://img.appvalley.vip/icon/649.png">
+</div>
+<div class="col-60">
+<h2 class="header" style="padding:0px;"><div id="#appName" style="overflow:hidden;">Toca Tailor</div><br><div style="margin-top:-35px; font-size:18px;"><small style="color:#6d6d72;">Toca Boca AB</small></div></h2>
+<a href="itms-services://?action=download-manifest&url=https://appvalley.vip/app/plists/649/install.plist" class="col button button-fill button-round external install"  data-id="649" data-app-name="Toca Tailor" style="background: #007AFF; color: #F0F1F6; font-weight:bold; width: 72px;">GET</a>
+</div>
+</div>
+</div>
+<div class="content-block" style="max-width:414px; text-align:left;">
+<h2 class="header">Preview</h2>
+<img style="border-radius:9px; max-width:414px;" src="https://img.appvalley.vip/screenshot/649.png" width="60%">
+<h2 class="header">Description</h2>4 cute characters, more patter<div class="desc" style="display: none;">ns + loads of extra cool accessories! Design and style your own clothes!<br />
+<br />
+Time to get busy with those design skills! With Toca Tailor, you can create, combine and style fun outfits for four different characters. Choose between lots of clothing designs, then tailor them by adjusting hems and lengthening sleeves.<br />
+<br />
+Mix and match colours, prints and fabrics – or use the built-in fabric camera to create your very own unique patterns from things around you. You can also use pictures from your device’s Camera Roll! Then add buttons, pockets and other original details. Once your outfit looks good, add the finishing touches: hats, shoes and fun accessories. Like what you see? Take a snapshot of your creation, using your own room as a background!<br />
+<br />
+Toca Tailor recreates the feeling of a great dress-up party. It’s a good way of playing around with colours and patterns and allows unlimited creativity. Thanks to simple multi-touch gestures, it’s easy to move, rotate and adjust patterns and decorations to create completely unique designs.<br />
+<br />
+KEY FEATURES<br />
+- 4 fun characters to choose from<br />
+- Mix, match, rotate and adjust 24 different fabric patterns<br />
+- Create your own unique patterns with the camera feature<br />
+- Add 24 different clothing details – buttons, bows and much, much more<br />
+- Style characters with 30 cool accessories – glasses, moustaches, jewellery<br />
+- Use the built-in camera to create your own background for style snapshots<br />
+- Easy-to-use, kid-friendly interface with incredible creative possibilities<br />
+- Beautiful original graphics<br />
+- No rules, stress or time limits – play any way you want<br />
+- No third-party advertising<br />
+- No in-app purchases<br />
+<br />
+As with all Toca Boca toys, Toca Tailor presents a kid-friendly interface promoting creative, open-style play with no rules, time limits, third-party advertising or in-app purchases. Toca Tailor is suitable for ages 4 and up.<br />
+<br />
+** Please note that even though the app works for iPad 1, the camera feature does not due to the fact that iPad 1 doesn't have a camera. However, you can still use the photo album. **</div>
+<p>
+<a href="#" onclick="if ($$('.desc').css('display') == 'none'){$$('.desc').css('display', 'inline'); this.innerHTML='Less...'} else {$$('.desc').css('display', 'none'); this.innerHTML='More...'}" class="">More...</a>
+</p>
+<br>
+<div id="ad_container"></div>
+<br>
+<h2 class="header">Information</h2>
+<div class="list-block inset" style="margin:0px;">
+<ul>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Seller</div>
+<div class="item-after header">Toca Boca AB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Size</div>
+<div class="item-after header">44.98 MB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Categories</div>
+<div class="item-after header">Paid and Other Apps</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Version</div>
+<div class="item-after header">1.0.8</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Report App</div>
+<div class="item-after header"><a class="email" title="email" href="#" onclick="javascript:window.location='mailto:report@appvalley.vip?subject=App Not Working&body=This app is not working: ' + document.getElementById('#appName').innerHTML;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVEhL7VJNKERRFH6xICsLKXsbC+Tdp4RIWYosZq0oysrCzsLKxkYW5t5nYzWpScpGFihSVhZTGt65T5MFSooSkZ/xnTuMmfdG0wxLt77eO98557vnnHus/5M9kXi6UkhvwpE6BsR/A6Fo2XF1pxEWUi84Sqf/CkLSq5B+l4Wbrh1Fb4WCysQToCxjSDqC+E6Os3RIesAo1oErFBvLCBtQAm2M4f/wmysOofQL8lzkT8G+N3y+MBN0i5kPtUt/GM6TPF8Qkt65Qlv5zaF3CgkbEgmS5hoXqcpR/jiCLoMxENqzo9Rhq2QD7P2gv7BwFrRlzaYrhHtRA6GZTDd0DMEB3qa2Ja/JzLNQ7k/CvDJocYRF25XXw0KtK6lavog7sZXuM/uv9Fqh/B9H4URpFMk27CRzqGy1JerXC/es+4vjZOGe1sG3YexchIRZVNIkHNPAc8B3F9x3VJzi6tHhZi4fEsYs5xG0ncsVA4+N83DxbpbPF6YDVHDzbZcKSkD83PxnhEmbEYQCSwdX//mds5yoHsQDPAaDygVEPX5o3iSLFx1zGhKujvwGjuv1966kqo3o/8kcy/oAk4ZYv9esbNMAAAAASUVORK5CYII="></a></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</center>
+</div>
+</div>

@@ -1,0 +1,113 @@
+<div class="page" data-name="install" data-id="731" data-app-name="VocaLive">
+<div class="page-content">
+<center>
+<div class="content-block" style="width:100%;max-width:414px; text-align:left; margin-top:-16px; margin-bottom:0px;">
+<a href="#" class="back link"><i class="icon icon-back"></i><span> Back</span></a>
+<br><br>
+<div class="row">
+<div class="col-40">
+<img width="100%" style="border-radius:25%;" src="https://img.appvalley.vip/icon/731.png">
+</div>
+<div class="col-60">
+<h2 class="header" style="padding:0px;"><div id="#appName" style="overflow:hidden;">VocaLive</div><br><div style="margin-top:-35px; font-size:18px;"><small style="color:#6d6d72;">IK Multimedia</small></div></h2>
+<a href="itms-services://?action=download-manifest&url=https://appvalley.vip/app/plists/732/install.plist" class="col button button-fill button-round external install"  data-id="731" data-app-name="VocaLive" style="background: #007AFF; color: #F0F1F6; font-weight:bold; width: 72px;">GET</a>
+</div>
+</div>
+</div>
+<div class="content-block" style="max-width:414px; text-align:left;">
+<h2 class="header">Preview</h2>
+<img style="border-radius:9px; max-width:414px;" src="https://img.appvalley.vip/screenshot/731.png" width="60%">
+<h2 class="header">Description</h2>VocaLive provides singers and <div class="desc" style="display: none;">vocalists with a suite of 12 real-time professional vocal effects, along with a range of tools to help you practice, sing and record. The effects can be combined into a chain of 4 processors and saved as presets. A collection of 55 presets is included to get you up and running immediately. <br />
+<br />
+VocaLive for iPhone includes 12 vocal effects: Pitch Fix (for tuning or stylized FX), Choir, Morph, Reverb, De-Esser, Delay, Parametric EQ, Compressor, Chorus, Phazer and Envelope Filter plus a vocal Double effect available via registration. Together these effects provide unparalleled creative processing power.<br />
+<br />
+With VocaLive you can process your voice, sing along to any song in your iTunes Music library — its Voice Cancel feature lets you remove existing vocals — and warm up with helpful vocal warm-up tools. <br />
+<br />
+Use the new 2-track recorder to sing over backing tracks, or expand the studio section (available via in-app purchase) to record whole songs. <br />
+<br />
+With the optional Mic Room feature, VocaLive also gives you the sound and color of 20 classic and modern studio microphone emulations, for even more control over your vocal tone.<br />
+<br />
+Ready to perform? VocaLive’s new Live Mode offers an optimized GUI specifically for live use. See your entire chain at a glance, with all the settings and controls you need in an easy-to-read format designed for the stage. Plus VocaLive offers an optional 4-track looper to easily create songs, harmonies and more on the fly.<br />
+<br />
+For best quality, use VocaLive with IK’s iRig Mic range of microphones, from handheld to studio condenser mic. Or connect your favorite 3rd party mic using our iRig Pre interfaces. But you can also have fun with it and record quick ideas using the built-in microphone on your iPad or earbuds.<br />
+<br />
+Control your virtual rig just as easily as you would a traditional vocal multiFX with new iRig Stomp I/O integration, so you can change presets, control effects and more right from your feet. Or go wireless with iRig Blueboard, a wireless Bluetooth controller for basic control on the go.<br />
+<br />
+VocaLive also supports Core Audio and Core MIDI so you can use any compatible third-party interface or MIDI controller, and Audiobus and Inter-App Audio compatible, letting you use it alongside your favorite recording or songwriting apps.<br />
+<br />
+<br />
+VocaLive for iPhone features: <br />
+<br />
+• Real time vocal processor + recording app <br />
+• 4-processor vocal effects chain <br />
+• 12 professional studio-quality effects included<br />
+• Mic Room microphone with 20 classic and modern studio mic emulations*<br />
+• Includes metronome and vocal warm-up tools<br />
+• 4-track looper section*<br />
+• 2-track recorder (expandable to a full 8-track recording studio*)<br />
+• Import and play songs directly from your Music library or computer <br />
+• Voice Cancel lets you create sing-along backing tracks by removing the vocal track from existing recordings <br />
+• Simultaneous multi-track recording <br />
+• Studio section (included with Recorder) with waveform visualization and editing, touch-and-drag looping, normalization, punch-in/punch-out recording, simultaneous multi-track recording support and more<br />
+• AutoFreeze (allows each track to have its own full effects chain)<br />
+• Live Mode shows you your entire rig at a glance, with all the parameters you need on stage easily accessible <br />
+• 55 presets included with 4 Favorites for fast recall <br />
+• MIDI controllable and with built-in integration for iRig Stomp I/O, iRig Blueboard and other controllers<br />
+• Audiobus & Inter-App Audio support<br />
+<br />
+* available via in-app purchase</div>
+<p>
+<a href="#" onclick="if ($$('.desc').css('display') == 'none'){$$('.desc').css('display', 'inline'); this.innerHTML='Less...'} else {$$('.desc').css('display', 'none'); this.innerHTML='More...'}" class="">More...</a>
+</p>
+<br>
+<div id="ad_container"></div>
+<br>
+<h2 class="header">Information</h2>
+<div class="list-block inset" style="margin:0px;">
+<ul>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Seller</div>
+<div class="item-after header">IK Multimedia</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Size</div>
+<div class="item-after header">114.46 MB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Categories</div>
+<div class="item-after header">Paid and Other Apps</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Version</div>
+<div class="item-after header">3.0.2</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Report App</div>
+<div class="item-after header"><a class="email" title="email" href="#" onclick="javascript:window.location='mailto:report@appvalley.vip?subject=App Not Working&body=This app is not working: ' + document.getElementById('#appName').innerHTML;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVEhL7VJNKERRFH6xICsLKXsbC+Tdp4RIWYosZq0oysrCzsLKxkYW5t5nYzWpScpGFihSVhZTGt65T5MFSooSkZ/xnTuMmfdG0wxLt77eO98557vnnHus/5M9kXi6UkhvwpE6BsR/A6Fo2XF1pxEWUi84Sqf/CkLSq5B+l4Wbrh1Fb4WCysQToCxjSDqC+E6Os3RIesAo1oErFBvLCBtQAm2M4f/wmysOofQL8lzkT8G+N3y+MBN0i5kPtUt/GM6TPF8Qkt65Qlv5zaF3CgkbEgmS5hoXqcpR/jiCLoMxENqzo9Rhq2QD7P2gv7BwFrRlzaYrhHtRA6GZTDd0DMEB3qa2Ja/JzLNQ7k/CvDJocYRF25XXw0KtK6lavog7sZXuM/uv9Fqh/B9H4URpFMk27CRzqGy1JerXC/es+4vjZOGe1sG3YexchIRZVNIkHNPAc8B3F9x3VJzi6tHhZi4fEsYs5xG0ncsVA4+N83DxbpbPF6YDVHDzbZcKSkD83PxnhEmbEYQCSwdX//mds5yoHsQDPAaDygVEPX5o3iSLFx1zGhKujvwGjuv1966kqo3o/8kcy/oAk4ZYv9esbNMAAAAASUVORK5CYII="></a></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</center>
+</div>
+</div>

@@ -1,0 +1,94 @@
+<div class="page" data-name="install" data-id="689" data-app-name="Fliptastic Pro">
+<div class="page-content">
+<center>
+<div class="content-block" style="width:100%;max-width:414px; text-align:left; margin-top:-16px; margin-bottom:0px;">
+<a href="#" class="back link"><i class="icon icon-back"></i><span> Back</span></a>
+<br><br>
+<div class="row">
+<div class="col-40">
+<img width="100%" style="border-radius:25%;" src="https://img.appvalley.vip/icon/689.png">
+</div>
+<div class="col-60">
+<h2 class="header" style="padding:0px;"><div id="#appName" style="overflow:hidden;">Fliptastic Pro</div><br><div style="margin-top:-35px; font-size:18px;"><small style="color:#6d6d72;">Fliptastic</small></div></h2>
+<a href="itms-services://?action=download-manifest&url=https://appvalley.vip/app/plists/690/install.plist" class="col button button-fill button-round external install"  data-id="689" data-app-name="Fliptastic Pro" style="background: #007AFF; color: #F0F1F6; font-weight:bold; width: 72px;">GET</a>
+</div>
+</div>
+</div>
+<div class="content-block" style="max-width:414px; text-align:left;">
+<h2 class="header">Preview</h2>
+<img style="border-radius:9px; max-width:414px;" src="https://img.appvalley.vip/screenshot/689.png" width="60%">
+<h2 class="header">Description</h2>Loved by TUAW, AppAdvice, and <div class="desc" style="display: none;">more than 950,000 users! Create awesome slideshows that you can share on Instagram, Facebook, YouTube or via email. <br />
+<br />
+Turn your amazing photos into engaging flips with photo filters, transitions, and music, all in ONE app-- Fliptastic! <br />
+<br />
+"It has a lot of features that most competing apps don't have in one place." - Mel Martin, TUAW <br />
+<br />
+"Fliptastic is a really fun way to take a bunch of photos and make them into a digestible postable viewing experience.” - Robin Rhys, AppAdvice <br />
+<br />
+“My seven-year-old taught me how to use this app (no joke).” - Valerie Rice <br />
+<br />
+Features <br />
+• SELECT: Choose up to 100 photos from Instagram, photo albums or take a new picture using the camera <br />
+• PHOTO EDITOR: Crop, Add Caption or apply unique Filters to your photos! <br />
+• MUSIC: Add background music to your videos with Fliptastic soundtrack (over a dozen songs included), or use songs from your music library <br />
+• SPECIAL EFFECTS: Add Snow, Heart and Starry effects, only on Fliptastic! <br />
+• TRANSITIONS: Apply cool animated transitions including Crossfade, Slide, Light Saber and more<br />
+• SHARE: Upload to Instagram, Facebook, YouTube or save to your Camera Roll and share using other apps! <br />
+• INSTAGRAM: Simply tap on the Instagram logo to automagically optimize for Instagram video! <br />
+<br />
+Remember to hashtag #fliptastic for a chance to be featured on our Instagram account! </div>
+<p>
+<a href="#" onclick="if ($$('.desc').css('display') == 'none'){$$('.desc').css('display', 'inline'); this.innerHTML='Less...'} else {$$('.desc').css('display', 'none'); this.innerHTML='More...'}" class="">More...</a>
+</p>
+<br>
+<div id="ad_container"></div>
+<br>
+<h2 class="header">Information</h2>
+<div class="list-block inset" style="margin:0px;">
+<ul>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Seller</div>
+<div class="item-after header">Fliptastic</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Size</div>
+<div class="item-after header">106.58 MB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+ <div class="item-title">Categories</div>
+<div class="item-after header">Paid and Other Apps</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Version</div>
+<div class="item-after header">1.996.3</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Report App</div>
+<div class="item-after header"><a class="email" title="email" href="#" onclick="javascript:window.location='mailto:report@appvalley.vip?subject=App Not Working&body=This app is not working: ' + document.getElementById('#appName').innerHTML;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVEhL7VJNKERRFH6xICsLKXsbC+Tdp4RIWYosZq0oysrCzsLKxkYW5t5nYzWpScpGFihSVhZTGt65T5MFSooSkZ/xnTuMmfdG0wxLt77eO98557vnnHus/5M9kXi6UkhvwpE6BsR/A6Fo2XF1pxEWUi84Sqf/CkLSq5B+l4Wbrh1Fb4WCysQToCxjSDqC+E6Os3RIesAo1oErFBvLCBtQAm2M4f/wmysOofQL8lzkT8G+N3y+MBN0i5kPtUt/GM6TPF8Qkt65Qlv5zaF3CgkbEgmS5hoXqcpR/jiCLoMxENqzo9Rhq2QD7P2gv7BwFrRlzaYrhHtRA6GZTDd0DMEB3qa2Ja/JzLNQ7k/CvDJocYRF25XXw0KtK6lavog7sZXuM/uv9Fqh/B9H4URpFMk27CRzqGy1JerXC/es+4vjZOGe1sG3YexchIRZVNIkHNPAc8B3F9x3VJzi6tHhZi4fEsYs5xG0ncsVA4+N83DxbpbPF6YDVHDzbZcKSkD83PxnhEmbEYQCSwdX//mds5yoHsQDPAaDygVEPX5o3iSLFx1zGhKujvwGjuv1966kqo3o/8kcy/oAk4ZYv9esbNMAAAAASUVORK5CYII="></a></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</center>
+</div>
+</div>

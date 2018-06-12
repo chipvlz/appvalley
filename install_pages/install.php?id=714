@@ -1,0 +1,138 @@
+<div class="page" data-name="install" data-id="714" data-app-name="Sleep Sounds">
+<div class="page-content">
+<center>
+<div class="content-block" style="width:100%;max-width:414px; text-align:left; margin-top:-16px; margin-bottom:0px;">
+<a href="#" class="back link"><i class="icon icon-back"></i><span> Back</span></a>
+<br><br>
+<div class="row">
+<div class="col-40">
+<img width="100%" style="border-radius:25%;" src="https://img.appvalley.vip/icon/714.png">
+</div>
+<div class="col-60">
+<h2 class="header" style="padding:0px;"><div id="#appName" style="overflow:hidden;">Sleep Sounds</div><br><div style="margin-top:-35px; font-size:18px;"><small style="color:#6d6d72;">Dmitriy Pushkarev</small></div></h2>
+<a href="itms-services://?action=download-manifest&url=https://appvalley.vip/app/plists/715/install.plist" class="col button button-fill button-round external install"  data-id="714" data-app-name="Sleep Sounds" style="background: #007AFF; color: #F0F1F6; font-weight:bold; width: 72px;">GET</a>
+</div>
+</div>
+</div>
+<div class="content-block" style="max-width:414px; text-align:left;">
+<h2 class="header">Preview</h2>
+<img style="border-radius:9px; max-width:414px;" src="https://img.appvalley.vip/screenshot/714.png" width="60%">
+<h2 class="header">Description</h2>Sounds was recorded in most be<div class="desc" style="display: none;">autiful places around world. <br />
+<br />
+All sounds recorded with high quality stereo condenser microphones and preamps. (besides generated sounds: white pink brown noises and binaural beats)<br />
+<br />
+Additional features:<br />
+Auto off timer<br />
+Reliable alarm clock<br />
+<br />
+<br />
+Sounds:<br />
+white noise<br />
+pink noise<br />
+unicorn music box<br />
+teddy bear music box<br />
+ballerina music box<br />
+cat purring<br />
+morning forest<br />
+creek in forest<br />
+forest<br />
+tropical jungle with tree frogs<br />
+loro park<br />
+bonfire<br />
+heavy rain<br />
+heavy thunder<br />
+distant thunder<br />
+rain under umbrella<br />
+rain near window<br />
+light rain on street <br />
+rain on city street with traffic<br />
+sea with seagull<br />
+sand beach<br />
+baltic sea beach<br />
+underwater volcano<br />
+night sea<br />
+wind in open window<br />
+wind at the door<br />
+london train station <br />
+australian subway<br />
+moscow subway<br />
+chinese bus<br />
+highway<br />
+new york silent street<br />
+highway bridge<br />
+oscillating fan<br />
+3D printer<br />
+old radio tuning<br />
+old english clock<br />
+vacuum cleaner at work<br />
+wind chimes<br />
+gong 40"<br />
+gong 38"<br />
+binaural beat 1Hz lethargic<br />
+binaural beat 2Hz deep sleep<br />
+binaural beat 3Hz dreamless<br />
+binaural beat 4Hz drowsy<br />
+binaural beat 6Hz fantasy<br />
+binaural beat 8Hz relaxed<br />
+binaural beat 12Hz conscious<br />
+binaural beat 16Hz focus<br />
+binaural beat 24Hz active<br />
+Roscoff port<br />
+Amazon rainforest at night<br />
+Pazin, Istria (Croatia) at night<br />
+Eidar river (Iceland)</div>
+<p>
+<a href="#" onclick="if ($$('.desc').css('display') == 'none'){$$('.desc').css('display', 'inline'); this.innerHTML='Less...'} else {$$('.desc').css('display', 'none'); this.innerHTML='More...'}" class="">More...</a>
+</p>
+<br>
+<div id="ad_container"></div>
+<br>
+<h2 class="header">Information</h2>
+<div class="list-block inset" style="margin:0px;">
+<ul>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Seller</div>
+<div class="item-after header">Dmitriy Pushkarev</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Size</div>
+<div class="item-after header">21.04 MB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Categories</div>
+<div class="item-after header">Paid and Other Apps</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Version</div>
+<div class="item-after header">1.5.3</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Report App</div>
+<div class="item-after header"><a class="email" title="email" href="#" onclick="javascript:window.location='mailto:report@appvalley.vip?subject=App Not Working&body=This app is not working: ' + document.getElementById('#appName').innerHTML;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVEhL7VJNKERRFH6xICsLKXsbC+Tdp4RIWYosZq0oysrCzsLKxkYW5t5nYzWpScpGFihSVhZTGt65T5MFSooSkZ/xnTuMmfdG0wxLt77eO98557vnnHus/5M9kXi6UkhvwpE6BsR/A6Fo2XF1pxEWUi84Sqf/CkLSq5B+l4Wbrh1Fb4WCysQToCxjSDqC+E6Os3RIesAo1oErFBvLCBtQAm2M4f/wmysOofQL8lzkT8G+N3y+MBN0i5kPtUt/GM6TPF8Qkt65Qlv5zaF3CgkbEgmS5hoXqcpR/jiCLoMxENqzo9Rhq2QD7P2gv7BwFrRlzaYrhHtRA6GZTDd0DMEB3qa2Ja/JzLNQ7k/CvDJocYRF25XXw0KtK6lavog7sZXuM/uv9Fqh/B9H4URpFMk27CRzqGy1JerXC/es+4vjZOGe1sG3YexchIRZVNIkHNPAc8B3F9x3VJzi6tHhZi4fEsYs5xG0ncsVA4+N83DxbpbPF6YDVHDzbZcKSkD83PxnhEmbEYQCSwdX//mds5yoHsQDPAaDygVEPX5o3iSLFx1zGhKujvwGjuv1966kqo3o/8kcy/oAk4ZYv9esbNMAAAAASUVORK5CYII="></a></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</center>
+</div>
+</div>

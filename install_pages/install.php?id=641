@@ -1,0 +1,105 @@
+<div class="page" data-name="install" data-id="641" data-app-name="Travel Interpreter Phrasebook">
+<div class="page-content">
+<center>
+<div class="content-block" style="width:100%;max-width:414px; text-align:left; margin-top:-16px; margin-bottom:0px;">
+<a href="#" class="back link"><i class="icon icon-back"></i><span> Back</span></a>
+<br><br>
+<div class="row">
+<div class="col-40">
+<img width="100%" style="border-radius:25%;" src="https://img.appvalley.vip/icon/641.png">
+</div>
+<div class="col-60">
+<h2 class="header" style="padding:0px;"><div id="#appName" style="overflow:hidden;">Travel Interpreter Phrasebook</div><br><div style="margin-top:-35px; font-size:18px;"><small style="color:#6d6d72;">Jourist Verlags GmbH</small></div></h2>
+<a href="itms-services://?action=download-manifest&url=https://appvalley.vip/app/plists/639/install.plist" class="col button button-fill button-round external install"  data-id="641" data-app-name="Travel Interpreter Phrasebook" style="background: #007AFF; color: #F0F1F6; font-weight:bold; width: 72px;">GET</a>
+</div>
+</div>
+</div>
+<div class="content-block" style="max-width:414px; text-align:left;">
+<h2 class="header">Preview</h2>
+<img style="border-radius:9px; max-width:414px;" src="https://img.appvalley.vip/screenshot/641.png" width="60%">
+<h2 class="header">Description</h2>Turn your iPhone or iPad into <div class="desc" style="display: none;">a personal interpreter for 33 languages.<br />
+<br />
+The "Travel Interpreter" is a talking, illustrated phrasebook which translates English words and phrases into 33 languages. The programme offers you the unique opportunity to communicate abroad without any special language skills, as it can simply speak the translation as required. Easily understandable illustrations make communication even easier.<br />
+<br />
+You can use the "Travel Interpreter" to order plane tickets, book hotel rooms, take a car to be repaired or order a meal in a restaurant without any language skills at all. More than 2,200 phrases and words are included for each language, all of which are clearly categorised according to the respective topic, such as customs, hotel, service, driving, car services, sightseeing, entertainment, eating and drinking, sport and leisure.<br />
+<br />
+The integrated search function makes it even easier to find what you need. If, for example, you want to book a single room in a hotel, simply key in "single" and the phrase "I would like to book a single room" already appears on the screen.<br />
+<br />
+• More than 2,200 illustrated phrases and words with audio tracks are included per language.<br />
+<br />
+• 33 target languages: German, French, Spanish (Spain), Spanish (Latin America), Italian, Portuguese (Portugal), Portuguese (Brazil), Danish, Dutch, Finnish, Swedish, Norwegian, Polish, Czech, Slovak, Russian, Bulgarian, Greek, Hungarian, Romanian, Turkish, Chinese, Japanese, Korean, Arabic, Hebrew, Thai, Hindi, Vietnamese, Farsi, Catalan, Romanian, Croatioan and Ukrainian.<br />
+<br />
+• All phrases are spoken by native speakers.<br />
+<br />
+• Precise and simple categories organized into topics and sub-topics.<br />
+<br />
+• Fast full-text search function, including for partial words.<br />
+<br />
+• No internet connection required for use. All content stored on the device.<br />
+<br />
+• Each entry is illustrated, making communication even easier.<br />
+<br />
+• Very easy to use by young and old.<br />
+<br />
+• Includes phonetic spelling for the following languages: German, French, Spanish (Spain), Spanish (Latin America), Italian, Portuguese (Portugal), Portuguese (Brazil), Danish, Polish, Czech, Hungarian, Chinese, Japanese, Korean, Russian, Greek, Arabic, Hebrew, Hindi, Farsi and Thai.<br />
+<br />
+• Favorites category for saving words and phrases in to your own list.<br />
+<br />
+• Exercise based on the flashcard drill concept, so that you can learn words and phrases from your favorites list.<br />
+<br />
+• Function that allows you to slow down playback speed of foreign words and phrases.</div>
+<p>
+<a href="#" onclick="if ($$('.desc').css('display') == 'none'){$$('.desc').css('display', 'inline'); this.innerHTML='Less...'} else {$$('.desc').css('display', 'none'); this.innerHTML='More...'}" class="">More...</a>
+</p>
+<br>
+<div id="ad_container"></div>
+<br>
+<h2 class="header">Information</h2>
+<div class="list-block inset" style="margin:0px;">
+<ul>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Seller</div>
+<div class="item-after header">Jourist Verlags GmbH</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Size</div>
+<div class="item-after header">157.03 MB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Categories</div>
+<div class="item-after header">Paid and Other Apps</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Version</div>
+<div class="item-after header">3.2</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Report App</div>
+<div class="item-after header"><a class="email" title="email" href="#" onclick="javascript:window.location='mailto:report@appvalley.vip?subject=App Not Working&body=This app is not working: ' + document.getElementById('#appName').innerHTML;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVEhL7VJNKERRFH6xICsLKXsbC+Tdp4RIWYosZq0oysrCzsLKxkYW5t5nYzWpScpGFihSVhZTGt65T5MFSooSkZ/xnTuMmfdG0wxLt77eO98557vnnHus/5M9kXi6UkhvwpE6BsR/A6Fo2XF1pxEWUi84Sqf/CkLSq5B+l4Wbrh1Fb4WCysQToCxjSDqC+E6Os3RIesAo1oErFBvLCBtQAm2M4f/wmysOofQL8lzkT8G+N3y+MBN0i5kPtUt/GM6TPF8Qkt65Qlv5zaF3CgkbEgmS5hoXqcpR/jiCLoMxENqzo9Rhq2QD7P2gv7BwFrRlzaYrhHtRA6GZTDd0DMEB3qa2Ja/JzLNQ7k/CvDJocYRF25XXw0KtK6lavog7sZXuM/uv9Fqh/B9H4URpFMk27CRzqGy1JerXC/es+4vjZOGe1sG3YexchIRZVNIkHNPAc8B3F9x3VJzi6tHhZi4fEsYs5xG0ncsVA4+N83DxbpbPF6YDVHDzbZcKSkD83PxnhEmbEYQCSwdX//mds5yoHsQDPAaDygVEPX5o3iSLFx1zGhKujvwGjuv1966kqo3o/8kcy/oAk4ZYv9esbNMAAAAASUVORK5CYII="></a></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</center>
+</div>
+</div>

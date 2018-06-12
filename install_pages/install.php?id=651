@@ -1,0 +1,107 @@
+<div class="page" data-name="install" data-id="651" data-app-name="Toca Store">
+<div class="page-content">
+<center>
+<div class="content-block" style="width:100%;max-width:414px; text-align:left; margin-top:-16px; margin-bottom:0px;">
+<a href="#" class="back link"><i class="icon icon-back"></i><span> Back</span></a>
+<br><br>
+<div class="row">
+<div class="col-40">
+<img width="100%" style="border-radius:25%;" src="https://img.appvalley.vip/icon/651.png">
+</div>
+<div class="col-60">
+<h2 class="header" style="padding:0px;"><div id="#appName" style="overflow:hidden;">Toca Store</div><br><div style="margin-top:-35px; font-size:18px;"><small style="color:#6d6d72;">Toca Boca AB</small></div></h2>
+<a href="itms-services://?action=download-manifest&url=https://appvalley.vip/app/plists/651/install.plist" class="col button button-fill button-round external install"  data-id="651" data-app-name="Toca Store" style="background: #007AFF; color: #F0F1F6; font-weight:bold; width: 72px;">GET</a>
+</div>
+</div>
+</div>
+<div class="content-block" style="max-width:414px; text-align:left;">
+<h2 class="header">Preview</h2>
+<img style="border-radius:9px; max-width:414px;" src="https://img.appvalley.vip/screenshot/651.png" width="60%">
+<h2 class="header">Description</h2>Have your kids ever played sto<div class="desc" style="display: none;">re at home? <br />
+<br />
+Now you can turn your iPhone or iPad into a Store Play Set - without any of the cleaning up afterwards! It's the perfect toy for your kids to play together with you, their siblings or friends.<br />
+<br />
+PRESS QUOTES<br />
+"The app lets youngsters run their own Store by allowing them to be both storekeeper and customer. The end result is simply fantastic" - Bryan M Wolfe, AppAdvice<br />
+<br />
+"It’s an interactive app for multiple kids or can easily engage one child who gets to play both roles. Kids learn about making choices, counting, money, and also get the pleasure of selling their wares to their very special “customers”! - Jeana Lee Tahnk, Parenting.com<br />
+<br />
+"Toca Store is a wonderful app that gets your child interacting with their friends, setting up shop as well as making decisions on what they might like to buy!" - Maggie, Appsforipads<br />
+<br />
+YOUR KIDS WILL LEARN:<br />
+- turn taking<br />
+- cooperation<br />
+- negotiation<br />
+- basic mathematical skills<br />
+- resource management<br />
+<br />
+Toca Store is a Store Play Set that triggers your child´s imagination and inspires role-playing. We wanted to create a toy that can be included in children´s natural exploration of everyday life and help them to master social and mathematical skills. That´s Toca Store!<br />
+<br />
+FEATURES<br />
+- Choose between 34 different objects to sell in your store<br />
+- Set your own prices<br />
+- Invite friends to the store and let them start shopping!<br />
+- Cute animations guides along the way<br />
+- Beautiful original artwork<br />
+- Multiplayer fun!<br />
+- No rules or stress - play any way your kids want to! <br />
+- Kid-friendly interface! <br />
+- No third-party advertising <br />
+- No in-app purchases <br />
+<br />
+Toca Store lets the players try out the roles of storekeeper and customer. It is preferably played by two players, but works fine for a single child too. </div>
+<p>
+<a href="#" onclick="if ($$('.desc').css('display') == 'none'){$$('.desc').css('display', 'inline'); this.innerHTML='Less...'} else {$$('.desc').css('display', 'none'); this.innerHTML='More...'}" class="">More...</a>
+</p>
+<br>
+<div id="ad_container"></div>
+<br>
+<h2 class="header">Information</h2>
+<div class="list-block inset" style="margin:0px;">
+<ul>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Seller</div>
+<div class="item-after header">Toca Boca AB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Size</div>
+<div class="item-after header">60.14 MB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Categories</div>
+<div class="item-after header">Paid and Other Apps</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Version</div>
+<div class="item-after header">1.1.6</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Report App</div>
+<div class="item-after header"><a class="email" title="email" href="#" onclick="javascript:window.location='mailto:report@appvalley.vip?subject=App Not Working&body=This app is not working: ' + document.getElementById('#appName').innerHTML;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVEhL7VJNKERRFH6xICsLKXsbC+Tdp4RIWYosZq0oysrCzsLKxkYW5t5nYzWpScpGFihSVhZTGt65T5MFSooSkZ/xnTuMmfdG0wxLt77eO98557vnnHus/5M9kXi6UkhvwpE6BsR/A6Fo2XF1pxEWUi84Sqf/CkLSq5B+l4Wbrh1Fb4WCysQToCxjSDqC+E6Os3RIesAo1oErFBvLCBtQAm2M4f/wmysOofQL8lzkT8G+N3y+MBN0i5kPtUt/GM6TPF8Qkt65Qlv5zaF3CgkbEgmS5hoXqcpR/jiCLoMxENqzo9Rhq2QD7P2gv7BwFrRlzaYrhHtRA6GZTDd0DMEB3qa2Ja/JzLNQ7k/CvDJocYRF25XXw0KtK6lavog7sZXuM/uv9Fqh/B9H4URpFMk27CRzqGy1JerXC/es+4vjZOGe1sG3YexchIRZVNIkHNPAc8B3F9x3VJzi6tHhZi4fEsYs5xG0ncsVA4+N83DxbpbPF6YDVHDzbZcKSkD83PxnhEmbEYQCSwdX//mds5yoHsQDPAaDygVEPX5o3iSLFx1zGhKujvwGjuv1966kqo3o/8kcy/oAk4ZYv9esbNMAAAAASUVORK5CYII="></a></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</center>
+</div>
+</div>

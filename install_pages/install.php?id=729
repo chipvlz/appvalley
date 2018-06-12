@@ -1,0 +1,144 @@
+<div class="page" data-name="install" data-id="729" data-app-name="LIPRO">
+<div class="page-content">
+<center>
+<div class="content-block" style="width:100%;max-width:414px; text-align:left; margin-top:-16px; margin-bottom:0px;">
+<a href="#" class="back link"><i class="icon icon-back"></i><span> Back</span></a>
+<br><br>
+<div class="row">
+<div class="col-40">
+<img width="100%" style="border-radius:25%;" src="https://img.appvalley.vip/icon/729.png">
+</div>
+<div class="col-60">
+<h2 class="header" style="padding:0px;"><div id="#appName" style="overflow:hidden;">LIPRO</div><br><div style="margin-top:-35px; font-size:18px;"><small style="color:#6d6d72;">graf</small></div></h2>
+<a href="itms-services://?action=download-manifest&url=https://appvalley.vip/app/plists/730/install.plist" class="col button button-fill button-round external install"  data-id="729" data-app-name="LIPRO" style="background: #007AFF; color: #F0F1F6; font-weight:bold; width: 72px;">GET</a>
+</div>
+</div>
+</div>
+<div class="content-block" style="max-width:414px; text-align:left;">
+<h2 class="header">Preview</h2>
+<img style="border-radius:9px; max-width:414px;" src="https://img.appvalley.vip/screenshot/729.png" width="60%">
+<h2 class="header">Description</h2>LIPRO - For powerful photo-edi<div class="desc" style="display: none;">ting.<br />
+<br />
+It has all the features that match both the professional photographer and the snapper.<br />
+It comes with advanced color and image processing options not available in other mobile apps. <br />
+<br />
+● RAW<br />
+RAW formats gives more image information than JPEGs, You can make better results, and LIPRO offer more editing flexibility.<br />
+<br />
+● CONVEYER<br />
+This feature is especially for the heavy snapper who likes to edit their photo on-the-go. It saves you time when processing several images. Choose a preset, select the images and let ‘Conveyer’ do the rest.<br />
+<br />
+● STACK<br />
+You can on/off and change order of an effect to find out the best. It gives you more possibilities.<br />
+<br />
+● PRESET<br />
+LIPRO comes with a set of ready-to-use presets, without any additional charge. We also give you the tools for creating your own presets. You can register your own unique settings that can be saved as presets.<br />
+<br />
+● RGB MIXER<br />
+With the ‘RGB Mixer’ you can enhance every pixel of an image and create the color tones just as you wish.<br />
+<br />
+● CURVES<br />
+The 'Curves' tool is suitable for both the heavy user and the more casual user. This tool lets you adjust tones, either brighten, darken or add contrast but also shift colours.<br />
+It can be used for simple things as changing the overall master of the RGB channels.<br />
+<br />
+● LEVEL<br />
+Do it just like the professionals. Create detailed tones by adjusting not only the input & output values of RGB channels, but also each separate channel.<br />
+<br />
+● RGB<br />
+Using the ‘RGB Tool’ you can do detailed color grading, effortlessly. Adjust the intensity of Red, Green and Blue values through Master, Shadows, Mid Tones and Highlight, respectively.<br />
+<br />
+● HDR<br />
+Controlling details of shadows and highlights to create more gorgeous and vivid images has never been easier. It provides you with 5 unique options – FLAT, DEEP SHADOW, MIDTONE, VIVID AND CLEAR.<br />
+<br />
+● Circle MASK<br />
+Using the ‘Local Adjustment Mask’ you are able to target the circle areas of your image that require adjustment, while leaving other areas out. The more control over the area, the more you can do.<br />
+<br />
+● HSV<br />
+This tool lets you isolate a certain range of color and change the hue, chroma intensity and luminosity of it.<br />
+You are given great color management opportunity.<br />
+<br />
+● Lights<br />
+Used for adjust the characteristics of exposure, saturation, contrast and brightness, in a variety of ways.<br />
+<br />
+● Tones<br />
+‘Tones’ lets you adjust color tone by altering the color temperature and/or tint of the scene at specific ranges of tonal detail, making use of vibrance and white balance.<br />
+<br />
+● Dynamics<br />
+Create the perfect balance by adjusting amounts of shadow, highlight and gamma, to your liking.<br />
+<br />
+● Dehaze<br />
+‘Dehaze’ helps eliminate fog or haze from images, creating more clear images.<br />
+<br />
+● XProcess<br />
+This tools is for simulating photographic film in a chemical solution, intended for a different type of film.<br />
+<br />
+● SHADE<br />
+By adjusting start and end color properties you can create beautiful shades on your image.<br />
+<br />
+● Black & White<br />
+Process an endless variety of gray scale tones by adjusting the intensity of red, green and blue components. You are allowed detailed control over the B/W toning.<br />
+<br />
+● Spotlight<br />
+‘Spotlight’ works specific areas by adjusting intensities of inner and outer area, simulating natural highlights.<br />
+<br />
+● Focus<br />
+‘Focus’ helps create images simulating the visual from tilt-shift photography. In small- and medium-format cameras this effect refers to the use of “tilting”, creating a selective focus, often for simulating miniature scenes.<br />
+<br />
+● Vignette<br />
+Using this tool you can help draw attention to the center of the image, by darkening the corners. It has two types of effects, ‘Normal’ and ‘Deep’.<br />
+</div>
+<p>
+<a href="#" onclick="if ($$('.desc').css('display') == 'none'){$$('.desc').css('display', 'inline'); this.innerHTML='Less...'} else {$$('.desc').css('display', 'none'); this.innerHTML='More...'}" class="">More...</a>
+</p>
+<br>
+<div id="ad_container"></div>
+<br>
+<h2 class="header">Information</h2>
+<div class="list-block inset" style="margin:0px;">
+<ul>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Seller</div>
+<div class="item-after header">graf</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Size</div>
+<div class="item-after header">5.6 MB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Categories</div>
+<div class="item-after header">Paid and Other Apps</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Version</div>
+<div class="item-after header">1.4.2</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Report App</div>
+<div class="item-after header"><a class="email" title="email" href="#" onclick="javascript:window.location='mailto:report@appvalley.vip?subject=App Not Working&body=This app is not working: ' + document.getElementById('#appName').innerHTML;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVEhL7VJNKERRFH6xICsLKXsbC+Tdp4RIWYosZq0oysrCzsLKxkYW5t5nYzWpScpGFihSVhZTGt65T5MFSooSkZ/xnTuMmfdG0wxLt77eO98557vnnHus/5M9kXi6UkhvwpE6BsR/A6Fo2XF1pxEWUi84Sqf/CkLSq5B+l4Wbrh1Fb4WCysQToCxjSDqC+E6Os3RIesAo1oErFBvLCBtQAm2M4f/wmysOofQL8lzkT8G+N3y+MBN0i5kPtUt/GM6TPF8Qkt65Qlv5zaF3CgkbEgmS5hoXqcpR/jiCLoMxENqzo9Rhq2QD7P2gv7BwFrRlzaYrhHtRA6GZTDd0DMEB3qa2Ja/JzLNQ7k/CvDJocYRF25XXw0KtK6lavog7sZXuM/uv9Fqh/B9H4URpFMk27CRzqGy1JerXC/es+4vjZOGe1sG3YexchIRZVNIkHNPAc8B3F9x3VJzi6tHhZi4fEsYs5xG0ncsVA4+N83DxbpbPF6YDVHDzbZcKSkD83PxnhEmbEYQCSwdX//mds5yoHsQDPAaDygVEPX5o3iSLFx1zGhKujvwGjuv1966kqo3o/8kcy/oAk4ZYv9esbNMAAAAASUVORK5CYII="></a></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</center>
+</div>
+</div>

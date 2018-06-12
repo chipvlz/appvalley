@@ -1,0 +1,146 @@
+<div class="page" data-name="install" data-id="720" data-app-name="Easy FTP">
+<div class="page-content">
+<center>
+<div class="content-block" style="width:100%;max-width:414px; text-align:left; margin-top:-16px; margin-bottom:0px;">
+<a href="#" class="back link"><i class="icon icon-back"></i><span> Back</span></a>
+<br><br>
+<div class="row">
+<div class="col-40">
+<img width="100%" style="border-radius:25%;" src="https://img.appvalley.vip/icon/720.png">
+</div>
+<div class="col-60">
+<h2 class="header" style="padding:0px;"><div id="#appName" style="overflow:hidden;">Easy FTP</div><br><div style="margin-top:-35px; font-size:18px;"><small style="color:#6d6d72;"> Juan Ramon Rivero</small></div></h2>
+<a href="itms-services://?action=download-manifest&url=https://appvalley.vip/app/plists/721/install.plist" class="col button button-fill button-round external install"  data-id="720" data-app-name="Easy FTP" style="background: #007AFF; color: #F0F1F6; font-weight:bold; width: 72px;">GET</a>
+</div>
+</div>
+</div>
+<div class="content-block" style="max-width:414px; text-align:left;">
+<h2 class="header">Preview</h2>
+<img style="border-radius:9px; max-width:414px;" src="https://img.appvalley.vip/screenshot/720.png" width="60%">
+<h2 class="header">Description</h2>It offers all the features of <div class="desc" style="display: none;">a desktop client. Make changes to your website from anywhere!! Includes text editor with color coding: html, php, perl, python... and printing, images and documents viewer, extract ZIP, 7-zip and RAR files, web browser, audio player, mp4, avi,... video player, Dropbox, Google Drive, OneDrive, Box, Mega and WebDAV, also helps you to access files on your remote computer (Mac, Windows, Linux), NAS Servers, and more... <br />
+<br />
+Main Feature list: <br />
+√ Bookmarks, export and import them in a text file or Import Filezilla bookmarks. <br />
+√ Support: FTP/FTPES/FTPS/SFTP. <br />
+√ Save and get pictures or videos from the Photo Library, also upload them directly to a server. <br />
+√ Includes text editor with color coding: html, perl, python...<br />
+√ Web Browser with multiple tabs, Bookmarks, Download files, Modify the type of browser detected... <br />
+√ WebDAV: download and upload files and folders, rename, create folders, view photos...<br />
+√ Dropbox, Google Drive, OneDrive, Box and Mega: Add multiple accounts, upload and download files and folders, rename, create folders, file sharing links, view photos...<br />
+√ Computer shared files (SMB). Upload and download files, access with credentials, photo viewer...<br />
+√ Include a console to see the sent commands and received from the server. <br />
+√ 3D touch support: Peek at documents, photos and Audio files, Quick Actions for FTP/SFTP bookmarks.<br />
+√ FXP: connect to two servers at the same time and transfers files between them.<br />
+√ Search and open files from spotlight. <br />
+<br />
+• FTP <br />
+√ Support SSL/TSL over FTP (explicit or implicit mode). Support TLS session resumption.<br />
+√ Support list format in UNIX and Windows server. <br />
+√ Support file list with different text encodings. <br />
+√ Delete or create folders, delete folders with files and folders inside.<br />
+√ Download and Upload files and folders with files inside.<br />
+√ Search files and folders in a FTP server. <br />
+√ Set one or more files permission.<br />
+√ Support for PRET.<br />
+√ Send FTP Commands.<br />
+<br />
+• SFTP <br />
+√ Browse, upload, download, delete and rename files from any SFTP server. <br />
+√ Download and Upload folders with files.<br />
+√ Delete or create folders. <br />
+√ Search files and folders on the server. <br />
+√ Set one or more files permission. <br />
+√ Send SSH Commands. <br />
+<br />
+• Viewers<br />
+√ Word,Excel,Powerpoint,Numbers,Pages,documents:rtf,txt,c,h... <br />
+√ PDF viewer with paging, zoom, bookmarks, page preview... <br />
+√ Includes an image viewer and image editor with zoom and tools to crop, resize, and rotate. <br />
+√ Audio Player that displays the cover, also artist, title, genre and album.<br />
+√ Video player: avi, divx, xvid, wmv, mpg, mkv, flv, mov, mp4, m4v, 3gp. Also, it supports srt subtitle files and audio track selection.<br />
+<br />
+• Compression tools <br />
+√ Unzip zip files, also password protected files. <br />
+√ Unzip 7zip files, also password protected files. <br />
+√ Make new ZIP archives with the stored files. <br />
+√ Decompress RAR files, including multipart and password protected files. <br />
+<br />
+• Text Editor <br />
+√ Supports 30 different text encodings, also auto-detect encoding. <br />
+√ Newline character management, auto-detect included: Windows or Linux/MAC/UNIX.<br />
+√ Color coding: html, php, perl, python... Dark and light theme.<br />
+√ Printing.<br />
+√ Edit text files from the server with the editor and re-upload your changes. <br />
+√ Unknow files can be opened as text. <br />
+<br />
+• File Manager <br />
+√ Open, Rename, Move, Delete, Create Folder, sort files,... <br />
+√ Displays thumbnail of images, video, and song’s covers. <br />
+√ Supports downloading attachments from mail app. <br />
+√ App can Save and Open files with other apps. <br />
+<br />
+• Sharing<br />
+√ Share access to the stored files from a web browser, also upload files. <br />
+√ FTP server. <br />
+√ you can protect the access with a password. <br />
+√ USB File Sharing via iTunes. <br />
+√ Email Files as Attachments. <br />
+<br />
+• Other Features<br />
+√ A pin code, pattern or Touch ID can be set to restrict the access to the application. <br />
+</div>
+<p>
+<a href="#" onclick="if ($$('.desc').css('display') == 'none'){$$('.desc').css('display', 'inline'); this.innerHTML='Less...'} else {$$('.desc').css('display', 'none'); this.innerHTML='More...'}" class="">More...</a>
+</p>
+<br>
+<div id="ad_container"></div>
+<br>
+<h2 class="header">Information</h2>
+<div class="list-block inset" style="margin:0px;">
+<ul>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Seller</div>
+<div class="item-after header"> Juan Ramon Rivero</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Size</div>
+<div class="item-after header">30.48 MB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Categories</div>
+<div class="item-after header">Paid and Other Apps</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Version</div>
+<div class="item-after header">7.4</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Report App</div>
+<div class="item-after header"><a class="email" title="email" href="#" onclick="javascript:window.location='mailto:report@appvalley.vip?subject=App Not Working&body=This app is not working: ' + document.getElementById('#appName').innerHTML;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVEhL7VJNKERRFH6xICsLKXsbC+Tdp4RIWYosZq0oysrCzsLKxkYW5t5nYzWpScpGFihSVhZTGt65T5MFSooSkZ/xnTuMmfdG0wxLt77eO98557vnnHus/5M9kXi6UkhvwpE6BsR/A6Fo2XF1pxEWUi84Sqf/CkLSq5B+l4Wbrh1Fb4WCysQToCxjSDqC+E6Os3RIesAo1oErFBvLCBtQAm2M4f/wmysOofQL8lzkT8G+N3y+MBN0i5kPtUt/GM6TPF8Qkt65Qlv5zaF3CgkbEgmS5hoXqcpR/jiCLoMxENqzo9Rhq2QD7P2gv7BwFrRlzaYrhHtRA6GZTDd0DMEB3qa2Ja/JzLNQ7k/CvDJocYRF25XXw0KtK6lavog7sZXuM/uv9Fqh/B9H4URpFMk27CRzqGy1JerXC/es+4vjZOGe1sG3YexchIRZVNIkHNPAc8B3F9x3VJzi6tHhZi4fEsYs5xG0ncsVA4+N83DxbpbPF6YDVHDzbZcKSkD83PxnhEmbEYQCSwdX//mds5yoHsQDPAaDygVEPX5o3iSLFx1zGhKujvwGjuv1966kqo3o/8kcy/oAk4ZYv9esbNMAAAAASUVORK5CYII="></a></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</center>
+</div>
+</div>
