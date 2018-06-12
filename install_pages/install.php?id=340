@@ -1,0 +1,115 @@
+<div class="page" data-name="install" data-id="340" data-app-name="Brutal Street 2">
+<div class="page-content">
+<center>
+<div class="content-block" style="width:100%;max-width:414px; text-align:left; margin-top:-16px; margin-bottom:0px;">
+<a href="#" class="back link"><i class="icon icon-back"></i><span> Back</span></a>
+<br><br>
+<div class="row">
+<div class="col-40">
+<img width="100%" style="border-radius:25%;" src="https://img.appvalley.vip/icon/340.png">
+</div>
+<div class="col-60">
+<h2 class="header" style="padding:0px;"><div id="#appName" style="overflow:hidden;">Brutal Street 2</div><br><div style="margin-top:-35px; font-size:18px;"><small style="color:#6d6d72;">Black Pearl Games Limited</small></div></h2>
+<a href="itms-services://?action=download-manifest&url=https://appvalley.vip/app/plists/335/install.plist" class="col button button-fill button-round external install"  data-id="340" data-app-name="Brutal Street 2" style="background: #007AFF; color: #F0F1F6; font-weight:bold; width: 72px;">GET</a>
+</div>
+</div>
+</div>
+<div class="content-block" style="max-width:414px; text-align:left;">
+<h2 class="header">Preview</h2>
+<img style="border-radius:9px; max-width:414px;" src="https://img.appvalley.vip/screenshot/340.png" width="60%">
+<h2 class="header">Description</h2>Brutal Street's sequel has fin<div class="desc" style="display: none;">ally come to fruition!<br />
+Five years is a long wait, but now that wait is overâ€”the bloodiest gangster battles have returned!<br />
+This isn't just some casual game to kill time. Nor is it one of those pay-to-win games that have been flooding the market.<br />
+What we offer is a single guaranteeâ€”that this is THE game that'll revive all those nostalgic memories and allow you to relive the classic arcade games you grew up on!<br />
+[Game Features]<br />
+- Simple, classic controls have been made even better!<br />
+Move, dodge, and attack enemies via simple "tap-and-slides".<br />
+Using skills has also become more free, more agile, and more accurateâ€”whether they affect a circle, straight line, or fan-shaped area!<br />
+<br />
+- Classic arcade elements are back!<br />
+Thugs chillin' in corners will suddenly come out and kick you.<br />
+Enemies will arrive in vans, subways, or even from the sky! They'll jump you when you least expect it.<br />
+Remember to destroy obstacles on the battlefields and pick up HP potions and weapons.<br />
+Don't let the masked thief get away! He doesn't show up very often, but when he does, show him who's in charge! Plenty of great equipment awaits!<br />
+<br />
+- 8 characters for you to choose from, dozens of active skills, and 100+ passive skills!<br />
+5 major blocks, 3 different difficulty levels, and 80+ stages!<br />
+Protect Hostages, Survival Mode, Limited-Time Missionsâ€”various game modes, unlimited fun!<br />
+<br />
+- 2P Modeâ€”collaborative teamwork where you fight the boss together! It's the kind of fun that brings you back to the good ol' 90s!<br />
+<br />
+- Unique and original weapons' ultimate skill system!<br />
+Your character will have different ultimates when equipped with different weapons.<br />
+More powerful attack skills? More stalwart defense skills? AoE or single-target skills? Protecting allies or further enhancing your attack? Well, we'll leave the choice for you, the players, to decide!<br />
+<br />
+- Another unique system: Dual-Weapon Setting<br />
+Each hero has 2 different kinds of weapons. Choosing different weapons will change your character's normal attacks, ultimates, and even their appearance!<br />
+Gloves or knuckles? Dual guns or a shotgun? Tachi or blades? They don't just look different, they come with whole different attack methods!<br />
+<br />
+- Accumulate skill points to activate set skills.<br />
+There are a total of more than 50 sets, each with more than 3 varieties. Choose your own combinations freely and activate more than 100 different set skills!<br />
+<br />
+- Evolved avatar systemâ€”change costumes from head to toe!<br />
+Gangster outfit, ninja suit... every kind you can think of!<br />
+<br />
+- Tougher bosses & more distinguished enemies!<br />
+A grandpa who knows Wing Chun, a heavy-built local gangster, the leader of Bosozoku... More than 10 cunning bosses will stop you from conquering their streets!<br />
+<br />
+- Smoother action and more breathtaking close-up shots of ultimate skills!<br />
+<br />
+- The highly-acclaimed talent point allocation system with its high degree of freedom has returned, only even better!</div>
+<p>
+<a href="#" onclick="if ($$('.desc').css('display') == 'none'){$$('.desc').css('display', 'inline'); this.innerHTML='Less...'} else {$$('.desc').css('display', 'none'); this.innerHTML='More...'}" class="">More...</a>
+</p>
+<br>
+<div id="ad_container"></div>
+<br>
+<h2 class="header">Information</h2>
+<div class="list-block inset" style="margin:0px;">
+<ul>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Seller</div>
+<div class="item-after header">Black Pearl Games Limited</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Size</div>
+<div class="item-after header">254.01 MB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Categories</div>
+<div class="item-after header">Paid and Other Games</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Version</div>
+<div class="item-after header">1.0.0</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Report App</div>
+<div class="item-after header"><a class="email" title="email" href="#" onclick="javascript:window.location='mailto:report@appvalley.vip?subject=App Not Working&body=This app is not working: ' + document.getElementById('#appName').innerHTML;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVEhL7VJNKERRFH6xICsLKXsbC+Tdp4RIWYosZq0oysrCzsLKxkYW5t5nYzWpScpGFihSVhZTGt65T5MFSooSkZ/xnTuMmfdG0wxLt77eO98557vnnHus/5M9kXi6UkhvwpE6BsR/A6Fo2XF1pxEWUi84Sqf/CkLSq5B+l4Wbrh1Fb4WCysQToCxjSDqC+E6Os3RIesAo1oErFBvLCBtQAm2M4f/wmysOofQL8lzkT8G+N3y+MBN0i5kPtUt/GM6TPF8Qkt65Qlv5zaF3CgkbEgmS5hoXqcpR/jiCLoMxENqzo9Rhq2QD7P2gv7BwFrRlzaYrhHtRA6GZTDd0DMEB3qa2Ja/JzLNQ7k/CvDJocYRF25XXw0KtK6lavog7sZXuM/uv9Fqh/B9H4URpFMk27CRzqGy1JerXC/es+4vjZOGe1sG3YexchIRZVNIkHNPAc8B3F9x3VJzi6tHhZi4fEsYs5xG0ncsVA4+N83DxbpbPF6YDVHDzbZcKSkD83PxnhEmbEYQCSwdX//mds5yoHsQDPAaDygVEPX5o3iSLFx1zGhKujvwGjuv1966kqo3o/8kcy/oAk4ZYv9esbNMAAAAASUVORK5CYII="></a></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</center>
+</div>
+</div>

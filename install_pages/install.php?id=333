@@ -1,0 +1,104 @@
+<div class="page" data-name="install" data-id="333" data-app-name="Pixomatic photo editor">
+<div class="page-content">
+<center>
+<div class="content-block" style="width:100%;max-width:414px; text-align:left; margin-top:-16px; margin-bottom:0px;">
+<a href="#" class="back link"><i class="icon icon-back"></i><span> Back</span></a>
+<br><br>
+<div class="row">
+<div class="col-40">
+<img width="100%" style="border-radius:25%;" src="https://img.appvalley.vip/icon/333.png">
+</div>
+<div class="col-60">
+<h2 class="header" style="padding:0px;"><div id="#appName" style="overflow:hidden;">Pixomatic photo editor</div><br><div style="margin-top:-35px; font-size:18px;"><small style="color:#6d6d72;">Qube LLC</small></div></h2>
+<a href="itms-services://?action=download-manifest&url=https://appvalley.vip/app/plists/328/install.plist" class="col button button-fill button-round external install"  data-id="333" data-app-name="Pixomatic photo editor" style="background: #007AFF; color: #F0F1F6; font-weight:bold; width: 72px;">GET</a>
+</div>
+</div>
+</div>
+<div class="content-block" style="max-width:414px; text-align:left;">
+<h2 class="header">Preview</h2>
+<img style="border-radius:9px; max-width:414px;" src="https://img.appvalley.vip/screenshot/333.png" width="60%">
+<h2 class="header">Description</h2>J.R. Bookwalter, Macworld: â�<div class="desc" style="display: none;">��œDesktop-quality image masking and editing tools. For extracting objects from images and repurposing them in a variety of different ways, Pixomatic 3 has no equal on smartphones or tablets.â€ <br />
+Awesome Cutouts<br />
+â€¢ Cut out, replace, and remove image elements<br />
+â€¢ Select, mask and easily cut out even the trickiest hair (first time ever on iPhone and iPad)<br />
+â€¢ Pixomatic also makes it easy to save your cutouts and edits in a dedicated album for future use<br />
+<br />
+Hundreds of photo stickers<br />
+â€¢ Intentionally photobomb friendsâ€™ pics by adding funny animal stickers to them<br />
+â€¢ Play pranks on friends through editing their photos with one of the hand stickers<br />
+â€¢ Choose from a variety of holiday stickers and spooky backgrounds in the â€œPacksâ€ section<br />
+<br />
+Double Exposure<br />
+â€¢ Fuse two photos together to create amazing surrealistic creations<br />
+â€¢ Overlay two pics and use the â€œBlendâ€ effect to merge them<br />
+â€¢ Add color, resize, and refine your artwork to achieve even more awesome results<br />
+<br />
+Smart Photo Tools<br />
+â€¢ Blur backgrounds for depth of field<br />
+â€¢ Use the â€œDistortâ€ tool to reshape specific elements<br />
+â€¢ Clone as many pics as you want<br />
+â€¢ Add shadows, blur them or play with their shape and opacity<br />
+â€¢ Flip horizontally or vertically or simply change the image perspective<br />
+<br />
+Duo and Art Filters<br />
+â€¢ Seamlessly transform your photos into artistic creations<br />
+â€¢ Feel like a painter through experimenting with the awesome artistic style transfer filters<br />
+<br />
+Standard Effects<br />
+â€¢ Adjust a whole lot of features like warmth, contrast, hue, exposure, shadow etc.<br />
+â€¢ Add text, change the fonts, text color, alignment as well as shadows and opacity</div>
+<p>
+<a href="#" onclick="if ($$('.desc').css('display') == 'none'){$$('.desc').css('display', 'inline'); this.innerHTML='Less...'} else {$$('.desc').css('display', 'none'); this.innerHTML='More...'}" class="">More...</a>
+</p>
+<br>
+<div id="ad_container"></div>
+<br>
+<h2 class="header">Information</h2>
+<div class="list-block inset" style="margin:0px;">
+<ul>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Seller</div>
+<div class="item-after header">Qube LLC</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Size</div>
+<div class="item-after header">72.8 MB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Categories</div>
+<div class="item-after header">Paid and Other Apps</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Version</div>
+<div class="item-after header">3.5.3</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Report App</div>
+<div class="item-after header"><a class="email" title="email" href="#" onclick="javascript:window.location='mailto:report@appvalley.vip?subject=App Not Working&body=This app is not working: ' + document.getElementById('#appName').innerHTML;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVEhL7VJNKERRFH6xICsLKXsbC+Tdp4RIWYosZq0oysrCzsLKxkYW5t5nYzWpScpGFihSVhZTGt65T5MFSooSkZ/xnTuMmfdG0wxLt77eO98557vnnHus/5M9kXi6UkhvwpE6BsR/A6Fo2XF1pxEWUi84Sqf/CkLSq5B+l4Wbrh1Fb4WCysQToCxjSDqC+E6Os3RIesAo1oErFBvLCBtQAm2M4f/wmysOofQL8lzkT8G+N3y+MBN0i5kPtUt/GM6TPF8Qkt65Qlv5zaF3CgkbEgmS5hoXqcpR/jiCLoMxENqzo9Rhq2QD7P2gv7BwFrRlzaYrhHtRA6GZTDd0DMEB3qa2Ja/JzLNQ7k/CvDJocYRF25XXw0KtK6lavog7sZXuM/uv9Fqh/B9H4URpFMk27CRzqGy1JerXC/es+4vjZOGe1sG3YexchIRZVNIkHNPAc8B3F9x3VJzi6tHhZi4fEsYs5xG0ncsVA4+N83DxbpbPF6YDVHDzbZcKSkD83PxnhEmbEYQCSwdX//mds5yoHsQDPAaDygVEPX5o3iSLFx1zGhKujvwGjuv1966kqo3o/8kcy/oAk4ZYv9esbNMAAAAASUVORK5CYII="></a></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</center>
+</div>
+</div>

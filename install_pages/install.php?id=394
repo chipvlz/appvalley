@@ -1,0 +1,103 @@
+<div class="page" data-name="install" data-id="394" data-app-name="Junk Jack">
+<div class="page-content">
+<center>
+<div class="content-block" style="width:100%;max-width:414px; text-align:left; margin-top:-16px; margin-bottom:0px;">
+<a href="#" class="back link"><i class="icon icon-back"></i><span> Back</span></a>
+<br><br>
+<div class="row">
+<div class="col-40">
+<img width="100%" style="border-radius:25%;" src="https://img.appvalley.vip/icon/394.png">
+</div>
+<div class="col-60">
+<h2 class="header" style="padding:0px;"><div id="#appName" style="overflow:hidden;">Junk Jack</div><br><div style="margin-top:-35px; font-size:18px;"><small style="color:#6d6d72;">Pixbits</small></div></h2>
+<a href="itms-services://?action=download-manifest&url=https://appvalley.vip/app/plists/389/install.plist" class="col button button-fill button-round external install"  data-id="394" data-app-name="Junk Jack" style="background: #007AFF; color: #F0F1F6; font-weight:bold; width: 72px;">GET</a>
+</div>
+</div>
+</div>
+<div class="content-block" style="max-width:414px; text-align:left;">
+<h2 class="header">Preview</h2>
+<img style="border-radius:9px; max-width:414px;" src="https://img.appvalley.vip/screenshot/394.png" width="60%">
+<h2 class="header">Description</h2>We are glad to deliver you the<div class="desc" style="display: none;"> best Junk Jack experience ever imagined! A sequel which brings the game to a whole new level with multiplayer, multiple planets, creative mode, liquids, plenty of equipment to customize your character and much more! Plus all the features you loved from Junk Jack Retro (and, we hope, less features you hated!)<br />
+<br />
+This is not a freemium game, buy it once and enjoy the full game experience!<br />
+<br />
+Features:<br />
+- local multiplayer up to 4 players and online multiplayer up to 2 players<br />
+- a creative mode to unleash your creativity and build everything you can imagine<br />
+- a fully featured equip system with more than 400 different wearable items to enhance your adventures or just to make your friends envy!<br />
+- polished pixel graphics, full retina support<br />
+- combat Uber Mobs and obtain their loot by destroying rare world altars!<br />
+- a fully fledged electronics engine allows the creation of complex widgets, even complete CPUs!<br />
+- tenths of wonderful music tracks by Bright Primate<br />
+- intuitive controls: swipe to move and tap to interact with everything<br />
+- an adventure mode that will let you travel between 12 multiple planets with different and intriguing environments<br />
+- liquids to enhance or impede your explorations: avoid dangerous lava or go for a swim in a surface lake!<br />
+- infinite procedurally generated worlds to make every adventure always different<br />
+- a dynamic day/night cycle that blends with wonderful skies in parallax<br />
+- a vibrant coloured lighting engine that will make you enjoy every minute spent in Junk Jack worlds<br />
+- character customization, you can play also as a female!<br />
+- a rewarding exploration thanks to treasure chests full of cool things<br />
+- tamable dogs, cats and many other animals that will follow you around<br />
+- more than 1000 crafts to be built<br />
+- more than 2000 treasures<br />
+- more than 440 placeable items<br />
+- more than 270 different creatures and monsters<br />
+- explosives, shelves, signs, dyes and all the features you liked in Junk Jack Retro<br />
+- a complete farming system with more than 70 plants, even many alien and exotic plants<br />
+- an in game guide that will teach you how to play<br />
+- two ways of crafting to accommodate even needs of casual users</div>
+<p>
+<a href="#" onclick="if ($$('.desc').css('display') == 'none'){$$('.desc').css('display', 'inline'); this.innerHTML='Less...'} else {$$('.desc').css('display', 'none'); this.innerHTML='More...'}" class="">More...</a>
+</p>
+<br>
+<div id="ad_container"></div>
+<br>
+<h2 class="header">Information</h2>
+<div class="list-block inset" style="margin:0px;">
+<ul>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Seller</div>
+<div class="item-after header">Pixbits</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Size</div>
+<div class="item-after header">59.18 MB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Categories</div>
+<div class="item-after header">Paid and Other Games</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Version</div>
+<div class="item-after header">3.1.6</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Report App</div>
+<div class="item-after header"><a class="email" title="email" href="#" onclick="javascript:window.location='mailto:report@appvalley.vip?subject=App Not Working&body=This app is not working: ' + document.getElementById('#appName').innerHTML;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVEhL7VJNKERRFH6xICsLKXsbC+Tdp4RIWYosZq0oysrCzsLKxkYW5t5nYzWpScpGFihSVhZTGt65T5MFSooSkZ/xnTuMmfdG0wxLt77eO98557vnnHus/5M9kXi6UkhvwpE6BsR/A6Fo2XF1pxEWUi84Sqf/CkLSq5B+l4Wbrh1Fb4WCysQToCxjSDqC+E6Os3RIesAo1oErFBvLCBtQAm2M4f/wmysOofQL8lzkT8G+N3y+MBN0i5kPtUt/GM6TPF8Qkt65Qlv5zaF3CgkbEgmS5hoXqcpR/jiCLoMxENqzo9Rhq2QD7P2gv7BwFrRlzaYrhHtRA6GZTDd0DMEB3qa2Ja/JzLNQ7k/CvDJocYRF25XXw0KtK6lavog7sZXuM/uv9Fqh/B9H4URpFMk27CRzqGy1JerXC/es+4vjZOGe1sG3YexchIRZVNIkHNPAc8B3F9x3VJzi6tHhZi4fEsYs5xG0ncsVA4+N83DxbpbPF6YDVHDzbZcKSkD83PxnhEmbEYQCSwdX//mds5yoHsQDPAaDygVEPX5o3iSLFx1zGhKujvwGjuv1966kqo3o/8kcy/oAk4ZYv9esbNMAAAAASUVORK5CYII="></a></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</center>
+</div>
+</div>

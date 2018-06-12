@@ -1,0 +1,86 @@
+<div class="page" data-name="install" data-id="420" data-app-name="Little Kitten App">
+<div class="page-content">
+<center>
+<div class="content-block" style="width:100%;max-width:414px; text-align:left; margin-top:-16px; margin-bottom:0px;">
+<a href="#" class="back link"><i class="icon icon-back"></i><span> Back</span></a>
+<br><br>
+<div class="row">
+<div class="col-40">
+<img width="100%" style="border-radius:25%;" src="https://img.appvalley.vip/icon/420.png">
+</div>
+<div class="col-60">
+<h2 class="header" style="padding:0px;"><div id="#appName" style="overflow:hidden;">Little Kitten App</div><br><div style="margin-top:-35px; font-size:18px;"><small style="color:#6d6d72;">Fox and Sheep GmbH</small></div></h2>
+<a href="itms-services://?action=download-manifest&url=https://appvalley.vip/app/plists/415/install.plist" class="col button button-fill button-round external install"  data-id="420" data-app-name="Little Kitten App" style="background: #007AFF; color: #F0F1F6; font-weight:bold; width: 72px;">GET</a>
+</div>
+</div>
+</div>
+<div class="content-block" style="max-width:414px; text-align:left;">
+<h2 class="header">Preview</h2>
+<img style="border-radius:9px; max-width:414px;" src="https://img.appvalley.vip/screenshot/420.png" width="60%">
+<h2 class="header">Description</h2>Little Kitten is every child's<div class="desc" style="display: none;"> dream - a cheeky, funny and adorable little pet. Take a ride on the airplane, shoot some hoops, play hide & seek and bed trampoline or get creative with paw painting - you can always have a great time with your best kitten friend! Explore the kittens world and discover cute animations, laugh with and care for your sweet furry pal.<br />
+The unique game-design encourages children to explore the room with minimal use of icons or menus. The 7 mini-games offer a wide variety of interactions and are designed so they appeal to a wide age range. The philosophy is not about winning, losing or competition, it's about having fun in a child friendly environment and learning without even realizing it! Great Mini-Games with purpose!:<br />
+<br />
+Compatibility: The App doesn't support iPad2, iPhone 4s, iPad Mini1, iPod5 with iOS9<br />
+<br />
+1) Kitten Hide&Seek - encourages focus and attention.<br />
+2) Paw Painting - creativity unleashed! Mix red, yellow, blue to get every imaginable color - your child will learn realistic paint mixing, then come up with your own master piece using a paw print or a standard brush.<br />
+3) Mouse & Cheese - Memorize where the zones are to sneak mouse past little kitten over to the cheese. Or just have some laughs seeing what happens when little kitten catches the mouse!<br />
+4) Bed Trampoline - Discover all little kitten's hidden tricks and moves!<br />
+5) Animal Puzzle - Mix and match funny animal combinations to earn biscuits that you can then feed to your little kitten.<br />
+6) Feeding - Each time you play a mini-game you receive cat food snacks, children love feeding little kitten and watching it licking it's lips and purr after a good feed!<br />
+7) Cat-in-the-box educational mini game </div>
+<p>
+<a href="#" onclick="if ($$('.desc').css('display') == 'none'){$$('.desc').css('display', 'inline'); this.innerHTML='Less...'} else {$$('.desc').css('display', 'none'); this.innerHTML='More...'}" class="">More...</a>
+</p>
+<br>
+<div id="ad_container"></div>
+<br>
+<h2 class="header">Information</h2>
+<div class="list-block inset" style="margin:0px;">
+<ul>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Seller</div>
+<div class="item-after header">Fox and Sheep GmbH</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Size</div>
+<div class="item-after header">793.09 MB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Categories</div>
+<div class="item-after header">Paid and Other Apps</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Version</div>
+<div class="item-after header">1.70</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Report App</div>
+<div class="item-after header"><a class="email" title="email" href="#" onclick="javascript:window.location='mailto:report@appvalley.vip?subject=App Not Working&body=This app is not working: ' + document.getElementById('#appName').innerHTML;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVEhL7VJNKERRFH6xICsLKXsbC+Tdp4RIWYosZq0oysrCzsLKxkYW5t5nYzWpScpGFihSVhZTGt65T5MFSooSkZ/xnTuMmfdG0wxLt77eO98557vnnHus/5M9kXi6UkhvwpE6BsR/A6Fo2XF1pxEWUi84Sqf/CkLSq5B+l4Wbrh1Fb4WCysQToCxjSDqC+E6Os3RIesAo1oErFBvLCBtQAm2M4f/wmysOofQL8lzkT8G+N3y+MBN0i5kPtUt/GM6TPF8Qkt65Qlv5zaF3CgkbEgmS5hoXqcpR/jiCLoMxENqzo9Rhq2QD7P2gv7BwFrRlzaYrhHtRA6GZTDd0DMEB3qa2Ja/JzLNQ7k/CvDJocYRF25XXw0KtK6lavog7sZXuM/uv9Fqh/B9H4URpFMk27CRzqGy1JerXC/es+4vjZOGe1sG3YexchIRZVNIkHNPAc8B3F9x3VJzi6tHhZi4fEsYs5xG0ncsVA4+N83DxbpbPF6YDVHDzbZcKSkD83PxnhEmbEYQCSwdX//mds5yoHsQDPAaDygVEPX5o3iSLFx1zGhKujvwGjuv1966kqo3o/8kcy/oAk4ZYv9esbNMAAAAASUVORK5CYII="></a></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</center>
+</div>
+</div>

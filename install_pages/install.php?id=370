@@ -1,0 +1,124 @@
+<div class="page" data-name="install" data-id="370" data-app-name="Affinity Photo">
+<div class="page-content">
+<center>
+<div class="content-block" style="width:100%;max-width:414px; text-align:left; margin-top:-16px; margin-bottom:0px;">
+<a href="#" class="back link"><i class="icon icon-back"></i><span> Back</span></a>
+<br><br>
+<div class="row">
+<div class="col-40">
+<img width="100%" style="border-radius:25%;" src="https://img.appvalley.vip/icon/370.png">
+</div>
+<div class="col-60">
+<h2 class="header" style="padding:0px;"><div id="#appName" style="overflow:hidden;">Affinity Photo</div><br><div style="margin-top:-35px; font-size:18px;"><small style="color:#6d6d72;">Seriflabs</small></div></h2>
+<a href="itms-services://?action=download-manifest&url=https://appvalley.vip/app/plists/365/install.plist" class="col button button-fill button-round external install"  data-id="370" data-app-name="Affinity Photo" style="background: #007AFF; color: #F0F1F6; font-weight:bold; width: 72px;">GET</a>
+</div>
+</div>
+</div>
+<div class="content-block" style="max-width:414px; text-align:left;">
+<h2 class="header">Preview</h2>
+<img style="border-radius:9px; max-width:414px;" src="https://img.appvalley.vip/screenshot/370.png" width="60%">
+<h2 class="header">Description</h2>** Affinity Photo for iPad sup<div class="desc" style="display: none;">ports iPad Pro, iPad Air 2 and iPad (early 2017). Please note that older iPads are not supported. **<br />
+<br />
+Affinity Photo is the first fully featured, truly professional photo editing tool for iPad - built from exactly the same back-end as our award-winning desktop version and fully optimised to harness the power of iPad’s hardware and touch capabilities.<br />
+<br />
+Photo for iPad offers an incredibly fast, powerful and immersive experience whether you are at home, in the studio, or on the move. With meticulous attention to detail each tool, panel and control has been completely reimagined for touch. All rendering, adjustments, brushes and filters have been fully hardware accelerated using Metal. The result is an all-new way to interact with your images, with performance you will find hard to believe.<br />
+<br />
+Unsurpassed productivity<br />
+• Full support for unlimited layers, layer groups, adjustment layers, filter layers and masks<br />
+• Resize layers without any loss of quality. Lock, hide, duplicate and merge layers easily<br />
+• Edit live filters, adjustments, effects, blend modes and masks non-destructively<br />
+• Undo history can be saved with the document so you can always undo your changes<br />
+• Task-focused workspaces for developing, post-processing, tone mapping and liquify<br />
+<br />
+Professional image processing<br />
+• Open RAW and other images in a dedicated pre-processing workspace<br />
+• Adjust exposure, blackpoint, clarity, vibrance, white balance, shadows, highlights and much more<br />
+• Recover detail thought to be lost by editing in an unbounded linear color space<br />
+• Advanced lens corrections including chromatic aberration, defringe, vignette and best-in-class noise reduction<br />
+• View histograms, blown highlights, shadows and tones as well as EXIF information<br />
+• Focus Merge, HDR Merge and Tone mapping for advanced image processing<br />
+• 360° image support including full projected image editing <br />
+• Panorama stitching including full perspective corrections and lighting adjustments<br />
+• Full support for image channels<br />
+• Massive collection of effects available, including blurs, distortions, tilt-shift, shadows, glows, lighting and many more<br />
+<br />
+Quality retouching and correction tools<br />
+• Intuitive selection brush and refinement makes selections simple, even down to strands of hair<br />
+• Instantly remove unwanted objects with an incredibly advanced Inpainting brush<br />
+• Dodge, burn, clone, patch, blemish and red eye tools<br />
+• Smooth and retouch skin with built-in frequency separation<br />
+• Apply high quality single-plane and dual-plane perspective correction as well as fully customisable mesh warps - all in real time<br />
+• Dedicated Liquify persona gives freehand control over warps, twirls, pinch, punch and turbulence<br />
+<br />
+Advanced brush engine<br />
+• Huge library of painting, drawing, textures and professional DAUB® Brushes included<br />
+• Create custom brushes and nozzles with full control over advanced dynamics<br />
+• Extensive collection of brush tools including Paint, Mixer, Pixel, Color Replacement, Blur, Smudge, Sharpen and Undo brushes<br />
+<br />
+Engineered for Professionals<br />
+• Open, edit and save Photoshop® PSD files<br />
+• RGB, CMYK, HDR, Greyscale and LAB colour spaces<br />
+• End-to-end CMYK workflow with ICC colour management and OCIO support<br />
+• Full 16 and 32-bit per channel editing<br />
+• Work with all standard formats like PNG, TIFF, JPG, GIF, SVG, EPS, EXR, HDR, PSD and PDF<br />
+• Cross-platform compatibility with iOS, macOS and Windows® with 100% file compatibility<br />
+<br />
+Optimised for iPad<br />
+• Metal accelerated to achieve blazing-fast performance, even when editing large images<br />
+• Sensitive to pressure, tilt and angle, Affinity Photo harnesses the full power and precision of Apple Pencil<br />
+• Full iCloud drive integration allows for seamless file management, storage and sharing</div>
+<p>
+<a href="#" onclick="if ($$('.desc').css('display') == 'none'){$$('.desc').css('display', 'inline'); this.innerHTML='Less...'} else {$$('.desc').css('display', 'none'); this.innerHTML='More...'}" class="">More...</a>
+</p>
+<br>
+<div id="ad_container"></div>
+<br>
+<h2 class="header">Information</h2>
+<div class="list-block inset" style="margin:0px;">
+<ul>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Seller</div>
+<div class="item-after header">Seriflabs</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Size</div>
+<div class="item-after header">419.68 MB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Categories</div>
+<div class="item-after header">Paid and Other Apps</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Version</div>
+<div class="item-after header">1.6.5</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Report App</div>
+<div class="item-after header"><a class="email" title="email" href="#" onclick="javascript:window.location='mailto:report@appvalley.vip?subject=App Not Working&body=This app is not working: ' + document.getElementById('#appName').innerHTML;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVEhL7VJNKERRFH6xICsLKXsbC+Tdp4RIWYosZq0oysrCzsLKxkYW5t5nYzWpScpGFihSVhZTGt65T5MFSooSkZ/xnTuMmfdG0wxLt77eO98557vnnHus/5M9kXi6UkhvwpE6BsR/A6Fo2XF1pxEWUi84Sqf/CkLSq5B+l4Wbrh1Fb4WCysQToCxjSDqC+E6Os3RIesAo1oErFBvLCBtQAm2M4f/wmysOofQL8lzkT8G+N3y+MBN0i5kPtUt/GM6TPF8Qkt65Qlv5zaF3CgkbEgmS5hoXqcpR/jiCLoMxENqzo9Rhq2QD7P2gv7BwFrRlzaYrhHtRA6GZTDd0DMEB3qa2Ja/JzLNQ7k/CvDJocYRF25XXw0KtK6lavog7sZXuM/uv9Fqh/B9H4URpFMk27CRzqGy1JerXC/es+4vjZOGe1sG3YexchIRZVNIkHNPAc8B3F9x3VJzi6tHhZi4fEsYs5xG0ncsVA4+N83DxbpbPF6YDVHDzbZcKSkD83PxnhEmbEYQCSwdX//mds5yoHsQDPAaDygVEPX5o3iSLFx1zGhKujvwGjuv1966kqo3o/8kcy/oAk4ZYv9esbNMAAAAASUVORK5CYII="></a></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</center>
+</div>
+</div>
