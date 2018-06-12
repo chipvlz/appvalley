@@ -1,0 +1,127 @@
+<div class="page" data-name="install" data-id="506" data-app-name="Tunable - Music Practice Tools">
+<div class="page-content">
+<center>
+<div class="content-block" style="width:100%;max-width:414px; text-align:left; margin-top:-16px; margin-bottom:0px;">
+<a href="#" class="back link"><i class="icon icon-back"></i><span> Back</span></a>
+<br><br>
+<div class="row">
+<div class="col-40">
+<img width="100%" style="border-radius:25%;" src="https://img.appvalley.vip/icon/506.png">
+</div>
+<div class="col-60">
+<h2 class="header" style="padding:0px;"><div id="#appName" style="overflow:hidden;">Tunable - Music Practice Tools</div><br><div style="margin-top:-35px; font-size:18px;"><small style="color:#6d6d72;">Affinityblue</small></div></h2>
+<a href="itms-services://?action=download-manifest&url=https://appvalley.vip/app/plists/500/install.plist" class="col button button-fill button-round external install"  data-id="506" data-app-name="Tunable - Music Practice Tools" style="background: #007AFF; color: #F0F1F6; font-weight:bold; width: 72px;">GET</a>
+</div>
+</div>
+</div>
+<div class="content-block" style="max-width:414px; text-align:left;">
+<h2 class="header">Preview</h2>
+<img style="border-radius:9px; max-width:414px;" src="https://img.appvalley.vip/screenshot/506.png" width="60%">
+<h2 class="header">Description</h2>MAIN FEATURES<br />
+<br />
+TUNER<br />
+• La<div class="desc" style="display: none;">rge, colorful tuning indicator clearly shows when in tune (green fills the screen)<br />
+• Clear, visual tuner with note, octave, cents (+\-), and frequency (Hz) display<br />
+• Unique Sustained Pitch History™ tuning display to see how well you’re sustaining notes over time<br />
+• Especially suited for wind instruments and strings with note detection from Tuba to Piccolo<br />
+• Horizontal and vertical tuning displays (pick what you prefer)<br />
+• Adjustable A=440 reference tone<br />
+• Change between Equal, Just, Pythagorean, and 18 other tuning temperaments<br />
+<br />
+TONE AND CHORD GENERATOR<br />
+• Chromatic Tone Generator with multiple tone options<br />
+• Play and sustain single notes and chords<br />
+• Auto Octave rounding for easy note access<br />
+<br />
+METRONOME<br />
+• Large number display with optional visual flash to see the downbeat and each subdivision<br />
+• Adjust tempo, beats per measure, and subdivision to fit your needs<br />
+• Select from over 30 metronome sounds<br />
+• See tempo markings to quickly jump between standard tempos<br />
+• Tempo Tap (tap metronome center to set a tempo)<br />
+• Continues to play when screen is locked or in the background<br />
+<br />
+RECORD<br />
+• Record and save unlimited recordings<br />
+• Share recordings through e-mail, SoundCloud, DropBox, and more<br />
+<br />
+AND MORE...<br />
+• Highly accurate and responsive<br />
+• Transpose notes to any instrument<br />
+• AppleTV/AirPlay mirroring to an HDMI projector or TV on iPad2, iPhone4S, iPhone5<br />
+• Background Audio enables the metronome to continue playing when the screen is locked or closed.<br />
+• Dark and light themes<br />
+<br />
+Tunable is especially great with voice, wind, and string instruments including:<br />
+• Guitar, Ukelele<br />
+• Piccolo, Flute<br />
+• Oboe, English Horn, Bassoon<br />
+• Eb, Bb/A Soprano Clarinet, Bass Clarinet<br />
+• Soprano, Alto, Tenor, and Baritone Saxophone<br />
+• Trumpet and Cornet<br />
+• French Horn<br />
+• Tenor and Bass Trombone<br />
+• Euphonium and Tuba<br />
+• Violin, Viola, Chello, and Bass<br />
+• Voice<br />
+<br />
+TESTIMONIALS<br />
+• "The best tuner, metronome, and recorder on iOS and a pitch-perfect bargain for any musician." — MacLife<br />
+• "A versatile swiss army knife of music apps" — Gizmodo<br />
+• "Tunable shows musicians what pitch-perfect means as they play." — Engadget<br />
+• "Tunable doesn't just tell you how you sound -- it shows you." — FastCoDesign</div>
+<p>
+<a href="#" onclick="if ($$('.desc').css('display') == 'none'){$$('.desc').css('display', 'inline'); this.innerHTML='Less...'} else {$$('.desc').css('display', 'none'); this.innerHTML='More...'}" class="">More...</a>
+</p>
+<br>
+<div id="ad_container"></div>
+<br>
+<h2 class="header">Information</h2>
+<div class="list-block inset" style="margin:0px;">
+<ul>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Seller</div>
+<div class="item-after header">Affinityblue</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Size</div>
+<div class="item-after header">18.88 MB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Categories</div>
+<div class="item-after header">Paid and Other Apps</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Version</div>
+<div class="item-after header">2.1.4</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Report App</div>
+<div class="item-after header"><a class="email" title="email" href="#" onclick="javascript:window.location='mailto:report@appvalley.vip?subject=App Not Working&body=This app is not working: ' + document.getElementById('#appName').innerHTML;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVEhL7VJNKERRFH6xICsLKXsbC+Tdp4RIWYosZq0oysrCzsLKxkYW5t5nYzWpScpGFihSVhZTGt65T5MFSooSkZ/xnTuMmfdG0wxLt77eO98557vnnHus/5M9kXi6UkhvwpE6BsR/A6Fo2XF1pxEWUi84Sqf/CkLSq5B+l4Wbrh1Fb4WCysQToCxjSDqC+E6Os3RIesAo1oErFBvLCBtQAm2M4f/wmysOofQL8lzkT8G+N3y+MBN0i5kPtUt/GM6TPF8Qkt65Qlv5zaF3CgkbEgmS5hoXqcpR/jiCLoMxENqzo9Rhq2QD7P2gv7BwFrRlzaYrhHtRA6GZTDd0DMEB3qa2Ja/JzLNQ7k/CvDJocYRF25XXw0KtK6lavog7sZXuM/uv9Fqh/B9H4URpFMk27CRzqGy1JerXC/es+4vjZOGe1sG3YexchIRZVNIkHNPAc8B3F9x3VJzi6tHhZi4fEsYs5xG0ncsVA4+N83DxbpbPF6YDVHDzbZcKSkD83PxnhEmbEYQCSwdX//mds5yoHsQDPAaDygVEPX5o3iSLFx1zGhKujvwGjuv1966kqo3o/8kcy/oAk4ZYv9esbNMAAAAASUVORK5CYII="></a></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</center>
+</div>
+</div>

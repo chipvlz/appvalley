@@ -1,0 +1,96 @@
+<div class="page" data-name="install" data-id="471" data-app-name="Voice4u (日本語版) 絵カード">
+<div class="page-content">
+<center>
+<div class="content-block" style="width:100%;max-width:414px; text-align:left; margin-top:-16px; margin-bottom:0px;">
+<a href="#" class="back link"><i class="icon icon-back"></i><span> Back</span></a>
+<br><br>
+<div class="row">
+<div class="col-40">
+<img width="100%" style="border-radius:25%;" src="https://img.appvalley.vip/icon/471.png">
+</div>
+<div class="col-60">
+<h2 class="header" style="padding:0px;"><div id="#appName" style="overflow:hidden;">Voice4u (日本語版) 絵カード</div><br><div style="margin-top:-35px; font-size:18px;"><small style="color:#6d6d72;">Spectrum Visions LLC</small></div></h2>
+<a href="itms-services://?action=download-manifest&url=https://appvalley.vip/app/plists/465/install.plist" class="col button button-fill button-round external install"  data-id="471" data-app-name="Voice4u (日本語版) 絵カード" style="background: #007AFF; color: #F0F1F6; font-weight:bold; width: 72px;">GET</a>
+</div>
+</div>
+</div>
+<div class="content-block" style="max-width:414px; text-align:left;">
+<h2 class="header">Preview</h2>
+<img style="border-radius:9px; max-width:414px;" src="https://img.appvalley.vip/screenshot/471.png" width="60%">
+<h2 class="header">Description</h2>The app is developed through c<div class="desc" style="display: none;">ollaboration with professionals, such as, speech language pathologists, special education teachers, parents of special needs individuals, and researchers. Voice4u has been used in 100+ countries around the world since 2009.<br />
+<br />
+----- FEATURES ------<br />
+- Over 180 symbols (icons), consisting of specially designed graphics and clear, easy-to-listen audios.<br />
+- You can add your own symbols (icons) as many as 10,000 depending on the storage space of your device.<br />
+- You can add a new symbol (icon) as fast as 5 seconds by taking advantage of machine learning algorithms.<br />
+- Voice4u can generate voice in 30 different languages (instead of you record your own voice).<br />
+- Switch Accessible: You can control Voice4u with Bluetooth Switch Interface from RJ Cooper & Associates.<br />
+- You can wirelessly backup your data and synchronize your data between all devices you own.<br />
+- Voice4u can be used off-line.<br />
+<br />
+Voice4u PRO upgrades your experience and gives you more extended features for $4.99 a month (monthly subscription) or $49.99 a year (annual subscription) through auto-renewing subscription. Subscriptions will be charged to your credit card associated with your Apple ID. You subscription will automatically renew unless cancelled at least 24 hours before the end of the present period. You will not be able to cancel a subscription during the active period. You can manage your subscriptions in the Account Settings after purchase. <br />
+<br />
+Terms of Use: http://voice4uaac.com/terms<br />
+Privacy Policy: http://voice4uaac.com/privacy<br />
+<br />
+----- WITH VOICE4U YOU CAN -----<br />
+- Create a visual schedule<br />
+- Create a visual social story<br />
+- Be able to tell stories, explain an event or occasion<br />
+- Make and share delicious visual recipes<br />
+- Use for both adult and children</div>
+<p>
+<a href="#" onclick="if ($$('.desc').css('display') == 'none'){$$('.desc').css('display', 'inline'); this.innerHTML='Less...'} else {$$('.desc').css('display', 'none'); this.innerHTML='More...'}" class="">More...</a>
+</p>
+<br>
+<div id="ad_container"></div>
+<br>
+<h2 class="header">Information</h2>
+<div class="list-block inset" style="margin:0px;">
+<ul>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Seller</div>
+<div class="item-after header">Spectrum Visions LLC</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Size</div>
+<div class="item-after header">81.95 MB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Categories</div>
+<div class="item-after header">Paid and Other Apps</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Version</div>
+<div class="item-after header">3.8.3</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Report App</div>
+<div class="item-after header"><a class="email" title="email" href="#" onclick="javascript:window.location='mailto:report@appvalley.vip?subject=App Not Working&body=This app is not working: ' + document.getElementById('#appName').innerHTML;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVEhL7VJNKERRFH6xICsLKXsbC+Tdp4RIWYosZq0oysrCzsLKxkYW5t5nYzWpScpGFihSVhZTGt65T5MFSooSkZ/xnTuMmfdG0wxLt77eO98557vnnHus/5M9kXi6UkhvwpE6BsR/A6Fo2XF1pxEWUi84Sqf/CkLSq5B+l4Wbrh1Fb4WCysQToCxjSDqC+E6Os3RIesAo1oErFBvLCBtQAm2M4f/wmysOofQL8lzkT8G+N3y+MBN0i5kPtUt/GM6TPF8Qkt65Qlv5zaF3CgkbEgmS5hoXqcpR/jiCLoMxENqzo9Rhq2QD7P2gv7BwFrRlzaYrhHtRA6GZTDd0DMEB3qa2Ja/JzLNQ7k/CvDJocYRF25XXw0KtK6lavog7sZXuM/uv9Fqh/B9H4URpFMk27CRzqGy1JerXC/es+4vjZOGe1sG3YexchIRZVNIkHNPAc8B3F9x3VJzi6tHhZi4fEsYs5xG0ncsVA4+N83DxbpbPF6YDVHDzbZcKSkD83PxnhEmbEYQCSwdX//mds5yoHsQDPAaDygVEPX5o3iSLFx1zGhKujvwGjuv1966kqo3o/8kcy/oAk4ZYv9esbNMAAAAASUVORK5CYII="></a></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</center>
+</div>
+</div>

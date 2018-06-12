@@ -1,0 +1,136 @@
+<div class="page" data-name="install" data-id="444" data-app-name="Artstudio Pro">
+<div class="page-content">
+<center>
+<div class="content-block" style="width:100%;max-width:414px; text-align:left; margin-top:-16px; margin-bottom:0px;">
+<a href="#" class="back link"><i class="icon icon-back"></i><span> Back</span></a>
+<br><br>
+<div class="row">
+<div class="col-40">
+<img width="100%" style="border-radius:25%;" src="https://img.appvalley.vip/icon/444.png">
+</div>
+<div class="col-60">
+<h2 class="header" style="padding:0px;"><div id="#appName" style="overflow:hidden;">Artstudio Pro</div><br><div style="margin-top:-35px; font-size:18px;"><small style="color:#6d6d72;">Luckyclan</small></div></h2>
+<a href="itms-services://?action=download-manifest&url=https://appvalley.vip/app/plists/438/install.plist" class="col button button-fill button-round external install"  data-id="444" data-app-name="Artstudio Pro" style="background: #007AFF; color: #F0F1F6; font-weight:bold; width: 72px;">GET</a>
+</div>
+</div>
+</div>
+<div class="content-block" style="max-width:414px; text-align:left;">
+<h2 class="header">Preview</h2>
+<img style="border-radius:9px; max-width:414px;" src="https://img.appvalley.vip/screenshot/444.png" width="60%">
+<h2 class="header">Description</h2>New engine<br />
+The powerful GPU a<div class="desc" style="display: none;">ccelerated ArtEngine developed by Lucky Clan is 5-10 times faster than the previous engine. It allows working with multiple documents, supports large canvas sizes and an unlimited number of layers. Incredible optimization ensures smooth work even with large canvases.<br />
+• Multiple open documents<br />
+• Canvas size: 64Mpix (iPad Air 2 or newer, iPhone 6s or newer), 48Mpix (older devices)<br />
+• Unlimited layers<br />
+• 27 tools: Move, Select, Crop, Eyedropper, Paint, Wet Paint, Eraser, Bucket/Pattern/Gradient Fill, Smudge, Dodge, Burn, Sponge, Text, Heal, Clone, and more<br />
+<br />
+Flexible layer system<br />
+Artstudio Pro introduces a new layer system with grouping, non-destructive layer effects, and adjustment layers.<br />
+• Groups<br />
+• Masks, clipping masks<br />
+• 13 adjustment layers: Brightness/Contrast, Levels, Curves, Exposure/Gamma, Shadows/Highlights, Vibrance, Hue/Saturation, Color Balance, Temperature/Tint, Black and White and more<br />
+• 9 layer effects: Bevel/Emboss, Stroke, Inner Shadow, Inner Glow, Outer Glow, Color/Gradient/Pattern Overlay, Drop Shadow<br />
+• 27 blending modes<br />
+• Text layers<br />
+• Transform multiple layers simultaneously<br />
+<br />
+Advanced Brush engine<br />
+Perfectly optimized, lag free mechanism generating smooth, real looking strokes, making the most of Apple Pencil.<br />
+• Brush size up to 4000x4000<br />
+• 64-bit painting with pattern, double stamp, wet brush, dynamics<br />
+• Brush editor with 80 customizable settings<br />
+• Over 100 built-in brushes divided into a few groups: Painting, Sketching, Markers, Inking, Dots & Specks, and more<br />
+• Symmetric painting with custom symmetry line<br />
+<br />
+Professional photo editor<br />
+Photo editing options developed in cooperation with professional photographers. Each feature was tested in several scenarios and light conditions.<br />
+• 13 adjustments available as non-destructive layer or simple adjustment (list above)<br />
+• 4 auto adjustments: Auto Contrast, Levels, Lightness, Saturation<br />
+• Dozens of filters with realtime preview and the ability to generate seamless patterns<br />
+• Inpaint function<br />
+• Retouching tools: Heal, Dodge, Burn, Sponge and more<br />
+• Image resize with 5 interpolations: Nearest, Linear, Cubic Smooth, Cubic Sharp, and Cubic Sharper<br />
+• Crop using special tool, crop from selection, trim transparent areas<br />
+<br />
+Full iCloud integration<br />
+• Save and load images on iCloud Drive or local disk<br />
+• View, load, share, delete, move documents in internal gallery or iOS Files app<br />
+• Sort documents into folders<br />
+<br />
+Import/Export<br />
+We have implemented many parsers from the most popular assets/images formats and we are especially proud of our ABR/TPL parser which not only reads brush stamps and patterns, but also most settings which are converted to Artstudio Pro brush engine values.<br />
+Import<br />
+• Images - PNG, JPEG, PSD, HEIC, TIFF<br />
+• Brushes - ABR, TPL<br />
+• Color swatches - ASE, ACO<br />
+• Patterns - PAT<br />
+• Gradients - GRD<br />
+• Fonts - TTF, OTF<br />
+Export<br />
+• Images - PNG, JPEG, PSD, TIFF<br />
+<br />
+Other features<br />
+• Screen recording<br />
+• All features available on both iPad and iPhone<br />
+• Selection displayed as marching ants, quick mask or invisible<br />
+• Snapping to guidelines, dynamic guidelines, grid<br />
+• Canvas rotation<br />
+• Support of iPad Drag and Drop, Split View, Sharing Extension, Open In, Clipboard<br />
+<br />
+Minimum System Requirements<br />
+Artstudio Pro for iOS requires iPhone or iPad running iOS 10 or above</div>
+<p>
+<a href="#" onclick="if ($$('.desc').css('display') == 'none'){$$('.desc').css('display', 'inline'); this.innerHTML='Less...'} else {$$('.desc').css('display', 'none'); this.innerHTML='More...'}" class="">More...</a>
+</p>
+<br>
+<div id="ad_container"></div>
+<br>
+<h2 class="header">Information</h2>
+<div class="list-block inset" style="margin:0px;">
+<ul>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Seller</div>
+<div class="item-after header">Luckyclan</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Size</div>
+<div class="item-after header">46.98 MB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Categories</div>
+<div class="item-after header">Paid and Other Apps</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Version</div>
+<div class="item-after header">1.2.3</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Report App</div>
+<div class="item-after header"><a class="email" title="email" href="#" onclick="javascript:window.location='mailto:report@appvalley.vip?subject=App Not Working&body=This app is not working: ' + document.getElementById('#appName').innerHTML;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVEhL7VJNKERRFH6xICsLKXsbC+Tdp4RIWYosZq0oysrCzsLKxkYW5t5nYzWpScpGFihSVhZTGt65T5MFSooSkZ/xnTuMmfdG0wxLt77eO98557vnnHus/5M9kXi6UkhvwpE6BsR/A6Fo2XF1pxEWUi84Sqf/CkLSq5B+l4Wbrh1Fb4WCysQToCxjSDqC+E6Os3RIesAo1oErFBvLCBtQAm2M4f/wmysOofQL8lzkT8G+N3y+MBN0i5kPtUt/GM6TPF8Qkt65Qlv5zaF3CgkbEgmS5hoXqcpR/jiCLoMxENqzo9Rhq2QD7P2gv7BwFrRlzaYrhHtRA6GZTDd0DMEB3qa2Ja/JzLNQ7k/CvDJocYRF25XXw0KtK6lavog7sZXuM/uv9Fqh/B9H4URpFMk27CRzqGy1JerXC/es+4vjZOGe1sG3YexchIRZVNIkHNPAc8B3F9x3VJzi6tHhZi4fEsYs5xG0ncsVA4+N83DxbpbPF6YDVHDzbZcKSkD83PxnhEmbEYQCSwdX//mds5yoHsQDPAaDygVEPX5o3iSLFx1zGhKujvwGjuv1966kqo3o/8kcy/oAk4ZYv9esbNMAAAAASUVORK5CYII="></a></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</center>
+</div>
+</div>

@@ -1,0 +1,119 @@
+<div class="page" data-name="install" data-id="487" data-app-name="Camera+ for iPhone">
+<div class="page-content">
+<center>
+<div class="content-block" style="width:100%;max-width:414px; text-align:left; margin-top:-16px; margin-bottom:0px;">
+<a href="#" class="back link"><i class="icon icon-back"></i><span> Back</span></a>
+<br><br>
+<div class="row">
+<div class="col-40">
+<img width="100%" style="border-radius:25%;" src="https://img.appvalley.vip/icon/487.png">
+</div>
+<div class="col-60">
+<h2 class="header" style="padding:0px;"><div id="#appName" style="overflow:hidden;">Camera+ for iPhone</div><br><div style="margin-top:-35px; font-size:18px;"><small style="color:#6d6d72;">Taptaptap</small></div></h2>
+<a href="itms-services://?action=download-manifest&url=https://appvalley.vip/app/plists/481/install.plist" class="col button button-fill button-round external install"  data-id="487" data-app-name="Camera+ for iPhone" style="background: #007AFF; color: #F0F1F6; font-weight:bold; width: 72px;">GET</a>
+</div>
+</div>
+</div>
+<div class="content-block" style="max-width:414px; text-align:left;">
+<h2 class="header">Preview</h2>
+<img style="border-radius:9px; max-width:414px;" src="https://img.appvalley.vip/screenshot/487.png" width="60%">
+<h2 class="header">Description</h2>It’s all about one thing... <div class="desc" style="display: none;">great photos!<br />
+<br />
+Whether you’re a seasoned photographer or someone who’s barely touched a camera, Camera+ will make you love taking photos.<br />
+<br />
+Touch Exposure & Focus<br />
+Set exposure separately from focus. You can now easily control how light or dark your shots come out.<br />
+<br />
+Shooting Modes<br />
+Use the Stabilizer to steady your iPhone and get the sharpest photos you can. There are countless uses for the Timer including taking the highest-quailty self-portraits. Capture all the action by using Burst to take rapid streams of shots.<br />
+<br />
+Digital Zoom<br />
+Up to 6× zoom with advanced digital processing provides you with quality that simply blows away the competition.<br />
+<br />
+Front Flash<br />
+How many times have you wanted to take a pic of yourself in a dark room but couldn’t. Well, now you can!<br />
+<br />
+Horizon Level<br />
+Use the Horizon Level to eliminate taking crooked shots.<br />
+<br />
+Clarity<br />
+Clarity is one of the biggest breakthroughs to happen to image processing in a long time. Clarity analyzes your photos and makes several intelligent adjustments that magically bring out details and breathe life into dull photos. With Clarity, you’ll stop throwing out bad photos… you’ll be amazed to see what it can do to photos that you’d typically consider unusable, like shots that came out too dark.<br />
+<br />
+Scene Modes<br />
+Most modern digital cameras all have scene modes to help you get the best photos for your particular situation. With Camera+, you get to choose from several scene modes including Food, Sunset, Night, Portrait, Beach, and many more.<br />
+<br />
+Effects<br />
+Professional photographer, Lisa Bettany created a slew of stunningly beautiful effects. Make your photos shimmer with “HDR”… get down and dirty with “Grunge”… fill your pics with emotion and despair with “So Emo”. And this is just the tip of the iceberg… there are dozens of 1-touch effects for you to experiment with.<br />
+<br />
+Lightbox<br />
+All the pics you take in Camera+ go in the innovative Lightbox where you can quickly and easily skim through them and get rid of bad shots. You save only the photos you’re satisfied with so that your camera roll stays neat and clean.<br />
+<br />
+Sharing<br />
+Whether you want to show your results to your friends and family or the whole world, Camera+ has got you covered. Proudly share your photos on Facebook, Twitter, and Flickr. Or go the more personal route and email or message them from right within the app.<br />
+<br />
+iCloud Lightbox sync<br />
+Automatically sync your Camera+ photos between all of your devices. Shoot all day on your iPhone… and then edit at night on your iPad. <br />
+<br />
+Crops<br />
+If you didn’t line-up your shot perfectly when you took it, you can easily fix that with Camera+. And when you want to get a bit creative, we setup a bunch of popular crop sizes for you. With a single tap, you can make your pics square, 4×6, 8×10, and more.<br />
+<br />
+Borders<br />
+With Camera+ you get several great border designs, from simple black and white borders to more gritty designs, you’ll be able to add wonderful finishing touches.<br />
+<br />
+Captions<br />
+Have some fun with your photos by putting captions on them. It’s a great way to really personalize your favorite shots.</div>
+<p>
+<a href="#" onclick="if ($$('.desc').css('display') == 'none'){$$('.desc').css('display', 'inline'); this.innerHTML='Less...'} else {$$('.desc').css('display', 'none'); this.innerHTML='More...'}" class="">More...</a>
+</p>
+<br>
+<div id="ad_container"></div>
+<br>
+<h2 class="header">Information</h2>
+<div class="list-block inset" style="margin:0px;">
+<ul>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Seller</div>
+<div class="item-after header">Taptaptap</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Size</div>
+<div class="item-after header">51.19 MB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Categories</div>
+<div class="item-after header">Paid and Other Apps</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Version</div>
+<div class="item-after header">10.12</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Report App</div>
+<div class="item-after header"><a class="email" title="email" href="#" onclick="javascript:window.location='mailto:report@appvalley.vip?subject=App Not Working&body=This app is not working: ' + document.getElementById('#appName').innerHTML;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVEhL7VJNKERRFH6xICsLKXsbC+Tdp4RIWYosZq0oysrCzsLKxkYW5t5nYzWpScpGFihSVhZTGt65T5MFSooSkZ/xnTuMmfdG0wxLt77eO98557vnnHus/5M9kXi6UkhvwpE6BsR/A6Fo2XF1pxEWUi84Sqf/CkLSq5B+l4Wbrh1Fb4WCysQToCxjSDqC+E6Os3RIesAo1oErFBvLCBtQAm2M4f/wmysOofQL8lzkT8G+N3y+MBN0i5kPtUt/GM6TPF8Qkt65Qlv5zaF3CgkbEgmS5hoXqcpR/jiCLoMxENqzo9Rhq2QD7P2gv7BwFrRlzaYrhHtRA6GZTDd0DMEB3qa2Ja/JzLNQ7k/CvDJocYRF25XXw0KtK6lavog7sZXuM/uv9Fqh/B9H4URpFMk27CRzqGy1JerXC/es+4vjZOGe1sG3YexchIRZVNIkHNPAc8B3F9x3VJzi6tHhZi4fEsYs5xG0ncsVA4+N83DxbpbPF6YDVHDzbZcKSkD83PxnhEmbEYQCSwdX//mds5yoHsQDPAaDygVEPX5o3iSLFx1zGhKujvwGjuv1966kqo3o/8kcy/oAk4ZYv9esbNMAAAAASUVORK5CYII="></a></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</center>
+</div>
+</div>

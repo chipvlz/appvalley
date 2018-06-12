@@ -1,0 +1,116 @@
+<div class="page" data-name="install" data-id="511" data-app-name="Pocket Casts [iOS 10]">
+<div class="page-content">
+<center>
+<div class="content-block" style="width:100%;max-width:414px; text-align:left; margin-top:-16px; margin-bottom:0px;">
+<a href="#" class="back link"><i class="icon icon-back"></i><span> Back</span></a>
+<br><br>
+<div class="row">
+<div class="col-40">
+<img width="100%" style="border-radius:25%;" src="https://img.appvalley.vip/icon/511.png">
+</div>
+<div class="col-60">
+<h2 class="header" style="padding:0px;"><div id="#appName" style="overflow:hidden;">Pocket Casts [iOS 10]</div><br><div style="margin-top:-35px; font-size:18px;"><small style="color:#6d6d72;">ShiftyJelly PTY LTD</small></div></h2>
+<a href="itms-services://?action=download-manifest&url=https://appvalley.vip/app/plists/505/install.plist" class="col button button-fill button-round external install"  data-id="511" data-app-name="Pocket Casts [iOS 10]" style="background: #007AFF; color: #F0F1F6; font-weight:bold; width: 72px;">GET</a>
+</div>
+</div>
+</div>
+<div class="content-block" style="max-width:414px; text-align:left;">
+<h2 class="header">Preview</h2>
+<img style="border-radius:9px; max-width:414px;" src="https://img.appvalley.vip/screenshot/511.png" width="60%">
+<h2 class="header">Description</h2>Pocket Casts is a premium podc<div class="desc" style="display: none;">asting app for iPhone and iPad. <br />
+Wired: "Pocket Casts Is the Podcast App Every iPhone User Needs"<br />
+iMore: "Pocket Casts is the best podcast app for iPhone"<br />
+<br />
+With a unique set of simple, yet powerful features and a limitless podcast database, you're sure to find something for you:<br />
+<br />
+WE SWEAT THE DETAILS<br />
+Design: Easily listen to, manage and find new podcasts.<br />
+Themes: Whether you're a dark theme or light theme person we've got you covered.<br />
+Universal: Custom but familiar iPad interface, supporting Slide Over, Split View and Picture in Picture.<br />
+Everywhere: CarPlay, AirPlay, Chromecast and Sonos. Listen to your podcasts in more places than ever before.<br />
+<br />
+POWERFUL PLAYBACK <br />
+Up next: Automatically build a playback queue from your favorite shows.<br />
+Trim silence: Cut silences from episodes so you finish them faster, saving hours.<br />
+Variable speed: Change the play speed from anywhere between 0.5 to 3x.<br />
+Volume boost: Increase the volume of voices, while decreasing background noise.<br />
+Stream: Play episodes on the fly.<br />
+Chapters: Jump between chapters easily, and enjoy embedded artwork that the author has added (we support MP3 and M4A chapter formats).<br />
+Audio & video: Play all of your favorite episodes, toggle video to audio.<br />
+Skip playback: Skip episode intros, jump through episodes with custom skip intervals.<br />
+Apple Watch: Control playback from our Apple Watch app or pick a different episode to play, all without ever touching your phone.<br />
+Sleep timer: We'll pause your episode so you can rest your weary head.<br />
+Airplay & Chromecast: Send episodes straight to your TV with a single tap.<br />
+Sonos: Browse and play your podcast collection directly from the Sonos app (currently in beta).<br />
+CarPlay: When you're in the car, so are we.<br />
+<br />
+SMART TOOLS <br />
+Sync: Subscriptions, playback and filters are all securely stored in the cloud. You can pick up where you left off on another device and even the web.<br />
+Refresh: Let our servers check for new episodes, so you can get on with your day.<br />
+Notifications: We'll let you know when new episodes arrive, if you like.<br />
+Auto download: Automatically download episodes for offline playback.<br />
+Filters: Custom filters will organize your episodes.<br />
+Storage: All the tools you need to keep your podcasts tamed.<br />
+<br />
+ALL YOUR FAVORITES <br />
+Discover: Subscribe to any podcast in iTunes and more. Browse by charts, networks and categories.<br />
+Share: Spread the word with podcast and episode sharing.<br />
+OPML: Jump on board without any hassle with OPML import. Export your collection at any time.<br />
+<br />
+There are many more powerful, straight-forward features that make Pocket Casts the perfect podcasting app for you. So what are you waiting for?<br />
+</div>
+<p>
+<a href="#" onclick="if ($$('.desc').css('display') == 'none'){$$('.desc').css('display', 'inline'); this.innerHTML='Less...'} else {$$('.desc').css('display', 'none'); this.innerHTML='More...'}" class="">More...</a>
+</p>
+<br>
+<div id="ad_container"></div>
+<br>
+<h2 class="header">Information</h2>
+<div class="list-block inset" style="margin:0px;">
+<ul>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Seller</div>
+<div class="item-after header">ShiftyJelly PTY LTD</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Size</div>
+<div class="item-after header">13.25 MB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Categories</div>
+<div class="item-after header">Paid and Other Apps</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Version</div>
+<div class="item-after header">6.9.4</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Report App</div>
+<div class="item-after header"><a class="email" title="email" href="#" onclick="javascript:window.location='mailto:report@appvalley.vip?subject=App Not Working&body=This app is not working: ' + document.getElementById('#appName').innerHTML;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVEhL7VJNKERRFH6xICsLKXsbC+Tdp4RIWYosZq0oysrCzsLKxkYW5t5nYzWpScpGFihSVhZTGt65T5MFSooSkZ/xnTuMmfdG0wxLt77eO98557vnnHus/5M9kXi6UkhvwpE6BsR/A6Fo2XF1pxEWUi84Sqf/CkLSq5B+l4Wbrh1Fb4WCysQToCxjSDqC+E6Os3RIesAo1oErFBvLCBtQAm2M4f/wmysOofQL8lzkT8G+N3y+MBN0i5kPtUt/GM6TPF8Qkt65Qlv5zaF3CgkbEgmS5hoXqcpR/jiCLoMxENqzo9Rhq2QD7P2gv7BwFrRlzaYrhHtRA6GZTDd0DMEB3qa2Ja/JzLNQ7k/CvDJocYRF25XXw0KtK6lavog7sZXuM/uv9Fqh/B9H4URpFMk27CRzqGy1JerXC/es+4vjZOGe1sG3YexchIRZVNIkHNPAc8B3F9x3VJzi6tHhZi4fEsYs5xG0ncsVA4+N83DxbpbPF6YDVHDzbZcKSkD83PxnhEmbEYQCSwdX//mds5yoHsQDPAaDygVEPX5o3iSLFx1zGhKujvwGjuv1966kqo3o/8kcy/oAk4ZYv9esbNMAAAAASUVORK5CYII="></a></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</center>
+</div>
+</div>

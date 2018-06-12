@@ -1,0 +1,138 @@
+<div class="page" data-name="install" data-id="438" data-app-name="LightX">
+<div class="page-content">
+<center>
+<div class="content-block" style="width:100%;max-width:414px; text-align:left; margin-top:-16px; margin-bottom:0px;">
+<a href="#" class="back link"><i class="icon icon-back"></i><span> Back</span></a>
+<br><br>
+<div class="row">
+<div class="col-40">
+<img width="100%" style="border-radius:25%;" src="https://img.appvalley.vip/icon/438.png">
+</div>
+<div class="col-60">
+<h2 class="header" style="padding:0px;"><div id="#appName" style="overflow:hidden;">LightX</div><br><div style="margin-top:-35px; font-size:18px;"><small style="color:#6d6d72;">Andor</small></div></h2>
+<a href="itms-services://?action=download-manifest&url=https://appvalley.vip/app/plists/433/install.plist" class="col button button-fill button-round external install"  data-id="438" data-app-name="LightX" style="background: #007AFF; color: #F0F1F6; font-weight:bold; width: 72px;">GET</a>
+</div>
+</div>
+</div>
+<div class="content-block" style="max-width:414px; text-align:left;">
+<h2 class="header">Preview</h2>
+<img style="border-radius:9px; max-width:414px;" src="https://img.appvalley.vip/screenshot/438.png" width="60%">
+<h2 class="header">Description</h2>LightX offers:<br />
+<br />
+1.	Backgroun<div class="desc" style="display: none;">d remover<br />
+•	Lasso tool to recognise similar regions <br />
+•	Smart erase tool to remove unwanted regions<br />
+•	Finer control to get perfect cutout <br />
+<br />
+2.	Selective Editing<br />
+•	Selectively edit your image to give different effects to different regions in your image<br />
+•	Improve your photo with various adjustment tools to change brightness, contrast, exposure, hue, saturation, intensity, shadows, mid tones, highlights, temperature, tint and color <br />
+•	Powerful brush to selectively edit images<br />
+<br />
+3.	Unlimited social fun<br />
+•	Create your own stickers and cartoonize them<br />
+•	Superimpose stickers on different background images to wow your friends<br />
+•	Instantly share on Facebook,Twitter, WhatsApp, WeChat,Instagram and other social networks<br />
+<br />
+4.	Be Creative<br />
+•	Blend multiple images to create impressive surreal effects<br />
+•	Multiple blending modes like darken, lighten to create double exposure, multiple exposure and numerous other effects<br />
+<br />
+5.	Professional Tools for image adjustment<br />
+•	Curve Tone: Adjust tonality of your image using multiple control points in all color channels<br />
+•	Levels: Adjust image histogram to get desired effects in different color channels.<br />
+•	Color Balance: Adjust tonal range in shadows, midtones and highlight regions in all color channels<br />
+<br />
+6.	Create Selfie to look your best <br />
+•	Smoothen and rejuvenate your skin<br />
+•	Sharpen your selfie<br />
+•	Remove spots and marks like pimples and blemishes from your face<br />
+•	Change hair color and apply different shades<br />
+•	Whiten your teeth<br />
+•	Reshape your face, body <br />
+<br />
+7.	Edit your photos with free, custom designed filters<br />
+•	Daily filters: Different instant filters like Clarity, Grunge, Punch, Lomo, XPro and others<br />
+•	Paper filters: To create different texture and paper looks<br />
+•	Vintage filters: Add different vintage shades to your image<br />
+•	Retro filters: Apply retro shades and different scratch effects to your images <br />
+•	Drama: Give different drama effects to your photos<br />
+•	Glow: Give Glow effects to your photos <br />
+•	B&W: Get classic B&W look in your images<br />
+<br />
+8.	Advanced Photo Transform tools<br />
+•	Crop image to preferred aspect ratio<br />
+•	Rotate your image at desired angle<br />
+•	Apply perspective transform to your images and auto fill the regions<br />
+<br />
+9.	Artistic<br />
+•	Convert your image into artistic pieces<br />
+•	Create urban/modern artistic image by blending predefined modern arts with your image<br />
+•	Apply amazing water paint,oil paint effect to your image<br />
+•	Add Black and White artistic effects to your image by using stunning black and white photo conversion tool<br />
+•	Add artistic touch to your image by adjusting image intensity, saturation and hue in your image<br />
+<br />
+10.	Standard Editing<br />
+•	Apply global adjustments to your image by changing lighting, tonality and color of your image<br />
+•	Apply different focus effects like lens blur, tilt shift and mask blur<br />
+•	Add texts to your image<br />
+<br />
+11.	Shape Manipulation<br />
+•	Refine shape of your image using symmetric and point selection<br />
+•	Reshape specific part of your image touch and pinch<br />
+•	Adjust perspective of your image as if taken from different angle</div>
+<p>
+<a href="#" onclick="if ($$('.desc').css('display') == 'none'){$$('.desc').css('display', 'inline'); this.innerHTML='Less...'} else {$$('.desc').css('display', 'none'); this.innerHTML='More...'}" class="">More...</a>
+</p>
+<br>
+<div id="ad_container"></div>
+<br>
+<h2 class="header">Information</h2>
+<div class="list-block inset" style="margin:0px;">
+<ul>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Seller</div>
+<div class="item-after header">Andor</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Size</div>
+<div class="item-after header">33.83 MB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Categories</div>
+<div class="item-after header">Paid and Other Apps</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Version</div>
+<div class="item-after header">2.6</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Report App</div>
+<div class="item-after header"><a class="email" title="email" href="#" onclick="javascript:window.location='mailto:report@appvalley.vip?subject=App Not Working&body=This app is not working: ' + document.getElementById('#appName').innerHTML;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVEhL7VJNKERRFH6xICsLKXsbC+Tdp4RIWYosZq0oysrCzsLKxkYW5t5nYzWpScpGFihSVhZTGt65T5MFSooSkZ/xnTuMmfdG0wxLt77eO98557vnnHus/5M9kXi6UkhvwpE6BsR/A6Fo2XF1pxEWUi84Sqf/CkLSq5B+l4Wbrh1Fb4WCysQToCxjSDqC+E6Os3RIesAo1oErFBvLCBtQAm2M4f/wmysOofQL8lzkT8G+N3y+MBN0i5kPtUt/GM6TPF8Qkt65Qlv5zaF3CgkbEgmS5hoXqcpR/jiCLoMxENqzo9Rhq2QD7P2gv7BwFrRlzaYrhHtRA6GZTDd0DMEB3qa2Ja/JzLNQ7k/CvDJocYRF25XXw0KtK6lavog7sZXuM/uv9Fqh/B9H4URpFMk27CRzqGy1JerXC/es+4vjZOGe1sG3YexchIRZVNIkHNPAc8B3F9x3VJzi6tHhZi4fEsYs5xG0ncsVA4+N83DxbpbPF6YDVHDzbZcKSkD83PxnhEmbEYQCSwdX//mds5yoHsQDPAaDygVEPX5o3iSLFx1zGhKujvwGjuv1966kqo3o/8kcy/oAk4ZYv9esbNMAAAAASUVORK5CYII="></a></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</center>
+</div>
+</div>

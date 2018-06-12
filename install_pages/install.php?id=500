@@ -1,0 +1,117 @@
+<div class="page" data-name="install" data-id="500" data-app-name="Aprende inglés - MosaLingua">
+<div class="page-content">
+<center>
+<div class="content-block" style="width:100%;max-width:414px; text-align:left; margin-top:-16px; margin-bottom:0px;">
+<a href="#" class="back link"><i class="icon icon-back"></i><span> Back</span></a>
+<br><br>
+<div class="row">
+<div class="col-40">
+<img width="100%" style="border-radius:25%;" src="https://img.appvalley.vip/icon/500.png">
+</div>
+<div class="col-60">
+<h2 class="header" style="padding:0px;"><div id="#appName" style="overflow:hidden;">Aprende inglés - MosaLingua</div><br><div style="margin-top:-35px; font-size:18px;"><small style="color:#6d6d72;">Mosalingua</small></div></h2>
+<a href="itms-services://?action=download-manifest&url=https://appvalley.vip/app/plists/494/install.plist" class="col button button-fill button-round external install"  data-id="500" data-app-name="Aprende inglés - MosaLingua" style="background: #007AFF; color: #F0F1F6; font-weight:bold; width: 72px;">GET</a>
+</div>
+</div>
+</div>
+<div class="content-block" style="max-width:414px; text-align:left;">
+<h2 class="header">Preview</h2>
+<img style="border-radius:9px; max-width:414px;" src="https://img.appvalley.vip/screenshot/500.png" width="60%">
+<h2 class="header">Description</h2>¡Aprender o mejorar tu inglé<div class="desc" style="display: none;">s, a pesar de tener poco tiempo, es posible! Gracias a un método eficaz, memorizarás en tiempo récord un contenido práctico con vocabulario y frases útiles. Aprendiendo e interactuando con diferentes diálogos, desarrollarás tu comprensión oral rápidamente.<br />
+<br />
+Un método basado en estudios científicos y concebido por nuestro equipo de políglotas provenientes de los 5 continentes, que han estado bajo la supervisión de un profesor de inglés. Para conocer más acerca de nuestras aplicaciones y de nuestro método para aprender inglés, te invitamos a ver nuestro vídeo explicativo: http://www.mosalingua.com/es<br />
+<br />
+¿Sabías que unas 500 palabras bien seleccionadas pueden ser suficientes para desenvolverse durante un viaje? ¿Posees las bases de vocabulario que aprendiste hace algún tiempo pero necesitas practicar? Gracias a este método, necesitarás solamente 10 minutos al día durante dos meses para aprender 600 palabras y frases en inglés.<br />
+<br />
+Aprende el 20% de vocabulario que te servirá en el 80% de los casos. Especialízate en diferentes temas (viajes, deporte, trabajo, informática, etc) o prepárate para obtener los certificados ESOL, TOEFL y TOEIC. Mosalingua se adapta a tu tiempo y a tus dificultades con sesiones de revisión variadas y gracias a una planificación de aprendizaje basado en tus respuestas.<br />
+<br />
+CONTENIDO:<br />
+► 3.000 tarjetas de aprendizaje seleccionadas que incluyen palabras y frases en inglés.<br />
+► Voces de nativos en las tarjetas de aprendizaje y en los diálogos.<br />
+► 14 categorías que incluyen vocabulario indispensable relacionado con alojamiento, transporte, turismo, compras, social, informática, urgencia, etc.<br />
+► 10 niveles de dificultad desde el básico hasta el especializado.<br />
+► 37 diálogos en diferentes situaciones comunes y durante un viaje.<br />
+► Lecciones y consejos que te motivarán a seguir aprendiendo.<br />
+► Más de 100 bonificaciones que desbloquearás durante tu progresión.<br />
+► Posibilidad de agregar tus propias tarjetas en la aplicación<br />
+<br />
+APRENDE EL 20% DEL VOCABULARIO QUE TE GARANTIZARÁ UN 80% DE RESULTADOS:<br />
+► Aprenderás las palabras más útiles y simples para hablar inglés.<br />
+► Memorizarás un vocabulario práctico y especializado.<br />
+<br />
+MÉTODO DE APRENDIZAJE MUY PRÁCTICO.<br />
+El método de MosaLingua está basado en el Sistema de Repetición por Espacios (Spaced Repetition System) : la aplicación ha sido creada teniendo en cuenta los resultados de varios años de investigación científica. Para saber más sobre este método visita http://www.mosalingua.com/es<br />
+► Calcula las tarjetas de aprendizaje que vas aprendiendo en función de tus dificultades y para asegurarte una memorización duradera.<br />
+► No perderás tiempo. Aprovecha tu tiempo dedicándote a las tareas útiles y pasa menos tiempo en las tareas difíciles.<br />
+► Se adapta a tus dificultades y a tu ritmo.<br />
+► Ejercita tu capacidad de memoria visual y auditiva.<br />
+► Te ayuda a desarrollar un aprendizaje duradero en tu memoria de largo plazo.<br />
+<br />
+APRENDIZAJE EN TU MÓVIL<br />
+► Sesiones de aprendizaje variable según tu tiempo libre. Puedes practicar las tarjetas aprendidas dedicando de 2 a 30 minutos.<br />
+► Se adapta automáticamente a tu ritmo y a tus dificultades.<br />
+► Puedes parar las sesiones de aprendizaje y retomarlas en cualquier momento.<br />
+► No necesitas conexión a internet.<br />
+<br />
+APRENDE MIENTRAS TE DIVIERTES<br />
+► Ganarás bonos a medida que aumenta tu progresión en el aprendizaje (diálogos, chistes, informaciones insólitas, proverbios y consejos).<br />
+► Los diálogos se basan en situaciones reales, por lo que serán muy útiles para tus viajes.<br />
+► La rapidez con la que memorizarás nuevas palabras te motivará a aprender más y más.<br />
+► Las estadísticas de tu aprendizaje te ayudarán a conocer tu progreso y a seguir motivado.<br />
+<br />
+MosaLingua sigue en constante evolución. Si necesitas ayuda o tienes sugerencias sobre nuestro trabajo, puedes contactarnos por medio del enlace de servicio al cliente. ¡Estaremos encantados de atenderte!</div>
+<p>
+<a href="#" onclick="if ($$('.desc').css('display') == 'none'){$$('.desc').css('display', 'inline'); this.innerHTML='Less...'} else {$$('.desc').css('display', 'none'); this.innerHTML='More...'}" class="">More...</a>
+</p>
+<br>
+<div id="ad_container"></div>
+<br>
+<h2 class="header">Information</h2>
+<div class="list-block inset" style="margin:0px;">
+<ul>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Seller</div>
+<div class="item-after header">Mosalingua</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Size</div>
+<div class="item-after header">26.48 MB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Categories</div>
+<div class="item-after header">Paid and Other Apps</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Version</div>
+<div class="item-after header">10.0</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Report App</div>
+<div class="item-after header"><a class="email" title="email" href="#" onclick="javascript:window.location='mailto:report@appvalley.vip?subject=App Not Working&body=This app is not working: ' + document.getElementById('#appName').innerHTML;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVEhL7VJNKERRFH6xICsLKXsbC+Tdp4RIWYosZq0oysrCzsLKxkYW5t5nYzWpScpGFihSVhZTGt65T5MFSooSkZ/xnTuMmfdG0wxLt77eO98557vnnHus/5M9kXi6UkhvwpE6BsR/A6Fo2XF1pxEWUi84Sqf/CkLSq5B+l4Wbrh1Fb4WCysQToCxjSDqC+E6Os3RIesAo1oErFBvLCBtQAm2M4f/wmysOofQL8lzkT8G+N3y+MBN0i5kPtUt/GM6TPF8Qkt65Qlv5zaF3CgkbEgmS5hoXqcpR/jiCLoMxENqzo9Rhq2QD7P2gv7BwFrRlzaYrhHtRA6GZTDd0DMEB3qa2Ja/JzLNQ7k/CvDJocYRF25XXw0KtK6lavog7sZXuM/uv9Fqh/B9H4URpFMk27CRzqGy1JerXC/es+4vjZOGe1sG3YexchIRZVNIkHNPAc8B3F9x3VJzi6tHhZi4fEsYs5xG0ncsVA4+N83DxbpbPF6YDVHDzbZcKSkD83PxnhEmbEYQCSwdX//mds5yoHsQDPAaDygVEPX5o3iSLFx1zGhKujvwGjuv1966kqo3o/8kcy/oAk4ZYv9esbNMAAAAASUVORK5CYII="></a></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</center>
+</div>
+</div>

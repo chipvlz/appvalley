@@ -1,0 +1,106 @@
+<div class="page" data-name="install" data-id="450" data-app-name="Photo Scanner Plus">
+<div class="page-content">
+<center>
+<div class="content-block" style="width:100%;max-width:414px; text-align:left; margin-top:-16px; margin-bottom:0px;">
+<a href="#" class="back link"><i class="icon icon-back"></i><span> Back</span></a>
+<br><br>
+<div class="row">
+<div class="col-40">
+<img width="100%" style="border-radius:25%;" src="https://img.appvalley.vip/icon/450.png">
+</div>
+<div class="col-60">
+<h2 class="header" style="padding:0px;"><div id="#appName" style="overflow:hidden;">Photo Scanner Plus</div><br><div style="margin-top:-35px; font-size:18px;"><small style="color:#6d6d72;">Photomyne</small></div></h2>
+<a href="itms-services://?action=download-manifest&url=https://appvalley.vip/app/plists/444/install.plist" class="col button button-fill button-round external install"  data-id="450" data-app-name="Photo Scanner Plus" style="background: #007AFF; color: #F0F1F6; font-weight:bold; width: 72px;">GET</a>
+</div>
+</div>
+</div>
+<div class="content-block" style="max-width:414px; text-align:left;">
+<h2 class="header">Preview</h2>
+<img style="border-radius:9px; max-width:414px;" src="https://img.appvalley.vip/screenshot/450.png" width="60%">
+<h2 class="header">Description</h2>Meet the ultimate solution for<div class="desc" style="display: none;"> preserving your old photos. Photomyne is the fastest and easiest way to turn photographs into live digital records, and to share them with others. Download to see the magic of powerful scanning action, built with cutting edge AI technology.<br />
+<br />
+SIMPLY HOLD & CAPTURE - SCANNER WILL DO THE REST<br />
+* Scan multiple analog photographs in a single shot<br />
+* Scan an entire photo album in minutes<br />
+* Photo scanner auto-detects picture boundaries, auto-rotates sideways pics, crops and saves them into a digital album<br />
+<br />
+EDIT & RESTORE NEWLY SCANNED PHOTOS<br />
+* Edit photos - add tags of location, dates and names<br />
+* Apply your choice of photo filters <br />
+* Add the story behind the photos: Give albums a title and/or date range<br />
+<br />
+SAVE & SHARE YOUR REDISCOVERED MEMORIES<br />
+* Save photos to your phone or computer<br />
+* Share as many photos as you want via email, text message and more<br />
+* Share an entire album as-is with another Photomyne user<br />
+* Explore Discover - a visual history feed of other Photomyne users’ photos and their stories<br />
+<br />
+This paid app version offers the full utility power of Photomyne on one iOS device. You will need to subscribe to a Photomyne account (in-app subscription) to access your photos on other devices or online, and to enjoy supporting cloud services.<br />
+<br />
+==<br />
+<br />
+OPTIONAL IN-APP SUBSCRIPTION:<br />
+<br />
+Enjoy additional features when you subscribe to Photomyne** (recurring annual subscription account)<br />
+<br />
+* Unlimited photo saving to your iOS device<br />
+* Unlimited albums<br />
+* Unlimited photo backup<br />
+* Photomyne account sync across multiple mobile devices<br />
+* Online photo access on the Photomyne website<br />
+* Free up space on your device while keeping photos safe and backed-up on the cloud</div>
+<p>
+<a href="#" onclick="if ($$('.desc').css('display') == 'none'){$$('.desc').css('display', 'inline'); this.innerHTML='Less...'} else {$$('.desc').css('display', 'none'); this.innerHTML='More...'}" class="">More...</a>
+</p>
+<br>
+<div id="ad_container"></div>
+<br>
+<h2 class="header">Information</h2>
+<div class="list-block inset" style="margin:0px;">
+<ul>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Seller</div>
+<div class="item-after header">Photomyne</div>
+</div>
+</div>
+</li>
+ <li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Size</div>
+<div class="item-after header">93.71 MB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Categories</div>
+<div class="item-after header">Paid and Other Apps</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Version</div>
+<div class="item-after header">10.2</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Report App</div>
+<div class="item-after header"><a class="email" title="email" href="#" onclick="javascript:window.location='mailto:report@appvalley.vip?subject=App Not Working&body=This app is not working: ' + document.getElementById('#appName').innerHTML;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVEhL7VJNKERRFH6xICsLKXsbC+Tdp4RIWYosZq0oysrCzsLKxkYW5t5nYzWpScpGFihSVhZTGt65T5MFSooSkZ/xnTuMmfdG0wxLt77eO98557vnnHus/5M9kXi6UkhvwpE6BsR/A6Fo2XF1pxEWUi84Sqf/CkLSq5B+l4Wbrh1Fb4WCysQToCxjSDqC+E6Os3RIesAo1oErFBvLCBtQAm2M4f/wmysOofQL8lzkT8G+N3y+MBN0i5kPtUt/GM6TPF8Qkt65Qlv5zaF3CgkbEgmS5hoXqcpR/jiCLoMxENqzo9Rhq2QD7P2gv7BwFrRlzaYrhHtRA6GZTDd0DMEB3qa2Ja/JzLNQ7k/CvDJocYRF25XXw0KtK6lavog7sZXuM/uv9Fqh/B9H4URpFMk27CRzqGy1JerXC/es+4vjZOGe1sG3YexchIRZVNIkHNPAc8B3F9x3VJzi6tHhZi4fEsYs5xG0ncsVA4+N83DxbpbPF6YDVHDzbZcKSkD83PxnhEmbEYQCSwdX//mds5yoHsQDPAaDygVEPX5o3iSLFx1zGhKujvwGjuv1966kqo3o/8kcy/oAk4ZYv9esbNMAAAAASUVORK5CYII="></a></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</center>
+</div>
+</div>

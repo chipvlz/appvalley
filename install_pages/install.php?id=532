@@ -1,0 +1,132 @@
+<div class="page" data-name="install" data-id="532" data-app-name="EDM - Browse and Receive Files">
+<div class="page-content">
+<center>
+<div class="content-block" style="width:100%;max-width:414px; text-align:left; margin-top:-16px; margin-bottom:0px;">
+<a href="#" class="back link"><i class="icon icon-back"></i><span> Back</span></a>
+<br><br>
+<div class="row">
+<div class="col-40">
+<img width="100%" style="border-radius:25%;" src="https://img.appvalley.vip/icon/532.png">
+</div>
+<div class="col-60">
+<h2 class="header" style="padding:0px;"><div id="#appName" style="overflow:hidden;">EDM - Browse and Receive Files</div><br><div style="margin-top:-35px; font-size:18px;"><small style="color:#6d6d72;">Ali Tourchi</small></div></h2>
+<a href="itms-services://?action=download-manifest&url=https://appvalley.vip/app/plists/526/install.plist" class="col button button-fill button-round external install"  data-id="532" data-app-name="EDM - Browse and Receive Files" style="background: #007AFF; color: #F0F1F6; font-weight:bold; width: 72px;">GET</a>
+</div>
+</div>
+</div>
+<div class="content-block" style="max-width:414px; text-align:left;">
+<h2 class="header">Preview</h2>
+<img style="border-radius:9px; max-width:414px;" src="https://img.appvalley.vip/screenshot/532.png" width="60%">
+<h2 class="header">Description</h2>EDM has an easy to use file ma<div class="desc" style="display: none;">nager which can handle many type of files , play and preview documents, musics and videos or decompress zip and rar files.<br />
+<br />
+FEATURES<br />
+<br />
+▸▸ General<br />
+√ First and unique app with safari extension to download<br />
+√ Only download manager not rated as +17<br />
+√ 8 different color themes, including night mode<br />
+√ Localization for English and Persian languages<br />
+√ Fluent and standard user interface (UI)<br />
+<br />
+▸▸ Download Manager<br />
+√ Downloading files seamlessly in Background<br />
+√ Arbitrary pause download and resume on your decision<br />
+√ Download progress bar and speed indicator.<br />
+√ Queueing Downloads<br />
+√ Scheduling start time for download task<br />
+√ Multi-parted, Accelerated Downloading<br />
+√ Download speed history chart<br />
+√ Viewing download details such as speed, progress and server support for resuming<br />
+√ Notification after downloading completion<br />
+√ User agent spoofing<br />
+√ Authentication support for downloads<br />
+√ Allowing or prohibition of use cellular connection to save data plan<br />
+<br />
+▸▸ Browsers(includes Safari) Extension<br />
+√ The Only App in Appstore with Extension support for download<br />
+√ Supports Safari, Google Chrome, Opera Mini, Dolphin, Twitter and etc.<br />
+√ Downloads the viewing page itself or hyperlinks in webpage you are browsing<br />
+√ Lists frequent file types for downloading separately<br />
+√ No interruption in your browsing experience on Safari<br />
+√ Option to start download immediately or postpone it<br />
+<br />
+▸▸ File Manager<br />
+√ Folders support<br />
+√ File operations: Creating folder, Rename, Copy, Move, Delete, …<br />
+√ Connecting to WebDAV, FTP and Dropbox as Remote Folder<br />
+√ Drag and Drop files and images from and to other apps (iOS 11.0+)<br />
+√ Integration with Files app (iOS 11.0+)<br />
+√ Browse zip files like normal folder<br />
+√ Searching files within folder<br />
+√ Create note for file<br />
+√ 3d Touch to preview folders and files contents<br />
+√ Viewing all iOS supported documents (doc, xls, ppt, pdf, pages, …) <br />
+√ PDF Reader<br />
+√ Playback media files (avi, mpeg, mp3, mpeg4, aac, mkv, ogg, webm, …) <br />
+√ Picture-in-Picture while playing videos<br />
+√ Compressing files to zip and 7z archive (Normal and Password-protected)<br />
+√ Extracting zip, rar, 7z(lzma), tar and gz archives, including password-protected<br />
+√ Import files from other apps.<br />
+√ Opening files in another app.<br />
+√ Information of Files, Folders and Disk<br />
+√ Thumbnail of images, videos, Office/iWork and pdf files<br />
+√ Importing from and Save to Cloud (iCloud, Google Drive, Dropbox, …)<br />
+√ Sharing files via AirDrop, Mail, iMessage and iTunes<br />
+√ Transfering files to and from computer in Wi-Fi network using Browser or WebDAV<br />
+√ Touch ID lock for files<br />
+√ Spotlight integration</div>
+<p>
+<a href="#" onclick="if ($$('.desc').css('display') == 'none'){$$('.desc').css('display', 'inline'); this.innerHTML='Less...'} else {$$('.desc').css('display', 'none'); this.innerHTML='More...'}" class="">More...</a>
+</p>
+<br>
+<div id="ad_container"></div>
+<br>
+<h2 class="header">Information</h2>
+<div class="list-block inset" style="margin:0px;">
+<ul>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Seller</div>
+<div class="item-after header">Ali Tourchi</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Size</div>
+<div class="item-after header">45.83 MB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Categories</div>
+<div class="item-after header">Paid and Other Apps</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Version</div>
+<div class="item-after header">9.0</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Report App</div>
+<div class="item-after header"><a class="email" title="email" href="#" onclick="javascript:window.location='mailto:report@appvalley.vip?subject=App Not Working&body=This app is not working: ' + document.getElementById('#appName').innerHTML;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVEhL7VJNKERRFH6xICsLKXsbC+Tdp4RIWYosZq0oysrCzsLKxkYW5t5nYzWpScpGFihSVhZTGt65T5MFSooSkZ/xnTuMmfdG0wxLt77eO98557vnnHus/5M9kXi6UkhvwpE6BsR/A6Fo2XF1pxEWUi84Sqf/CkLSq5B+l4Wbrh1Fb4WCysQToCxjSDqC+E6Os3RIesAo1oErFBvLCBtQAm2M4f/wmysOofQL8lzkT8G+N3y+MBN0i5kPtUt/GM6TPF8Qkt65Qlv5zaF3CgkbEgmS5hoXqcpR/jiCLoMxENqzo9Rhq2QD7P2gv7BwFrRlzaYrhHtRA6GZTDd0DMEB3qa2Ja/JzLNQ7k/CvDJocYRF25XXw0KtK6lavog7sZXuM/uv9Fqh/B9H4URpFMk27CRzqGy1JerXC/es+4vjZOGe1sG3YexchIRZVNIkHNPAc8B3F9x3VJzi6tHhZi4fEsYs5xG0ncsVA4+N83DxbpbPF6YDVHDzbZcKSkD83PxnhEmbEYQCSwdX//mds5yoHsQDPAaDygVEPX5o3iSLFx1zGhKujvwGjuv1966kqo3o/8kcy/oAk4ZYv9esbNMAAAAASUVORK5CYII="></a></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</center>
+</div>
+</div>

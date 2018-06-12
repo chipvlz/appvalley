@@ -1,0 +1,130 @@
+<div class="page" data-name="install" data-id="504" data-app-name="MosaLingua Business Spanish">
+<div class="page-content">
+<center>
+<div class="content-block" style="width:100%;max-width:414px; text-align:left; margin-top:-16px; margin-bottom:0px;">
+<a href="#" class="back link"><i class="icon icon-back"></i><span> Back</span></a>
+<br><br>
+<div class="row">
+<div class="col-40">
+<img width="100%" style="border-radius:25%;" src="https://img.appvalley.vip/icon/504.png">
+</div>
+<div class="col-60">
+<h2 class="header" style="padding:0px;"><div id="#appName" style="overflow:hidden;">MosaLingua Business Spanish</div><br><div style="margin-top:-35px; font-size:18px;"><small style="color:#6d6d72;">Mosalingua</small></div></h2>
+<a href="itms-services://?action=download-manifest&url=https://appvalley.vip/app/plists/498/install.plist" class="col button button-fill button-round external install"  data-id="504" data-app-name="MosaLingua Business Spanish" style="background: #007AFF; color: #F0F1F6; font-weight:bold; width: 72px;">GET</a>
+</div>
+</div>
+</div>
+<div class="content-block" style="max-width:414px; text-align:left;">
+<h2 class="header">Preview</h2>
+<img style="border-radius:9px; max-width:414px;" src="https://img.appvalley.vip/screenshot/504.png" width="60%">
+<h2 class="header">Description</h2>Learning Spanish specifically <div class="desc" style="display: none;">for the workplace is now possible thanks to a highly effective method designed for people without countless hours to spend learning another language. <br />
+By strategically helping you memorize key phrases, vocabulary and expressions in your speciality, MosaLingua gives you the tools to naturally speak Spanish in a professional context. And with its integrated dialogues, the app exposes you to business Spanish, naturally improving your oral comprehension and speaking skills. <br />
+<br />
+► Tested and praised by many website and blogs<br />
+► Reviewed by over 6,000 users, with an average score of 4.5/5!<br />
+<br />
+AN EFFICIENT, PRAGMATIC AND USEFUL APPROACH TO PREPARE FOR A PROFESSIONAL SETTING<br />
+► Easily express yourself over the phone<br />
+► Write emails<br />
+► Socialize with partners, colleagues and clients<br />
+► Lead or participate in a meeting<br />
+► Make a CV and succeed at a job interview<br />
+► Negotiate<br />
+► Participate at a public event, expo, conference, etc.<br />
+► Motivate a team<br />
+► Lead a project<br />
+<br />
+CONTENT THAT TARGETS THE SPECIALIZED VOCABULARY OF YOUR FIELD<br />
+► Customer service<br />
+► Human resources<br />
+► Sales/purchasing<br />
+► Finances, accounting<br />
+► Advertising, marketing<br />
+► Information technology<br />
+► Logistics, production<br />
+► Management, administration<br />
+<br />
+A HIGHLY EFFECTIVE LEARNING METHOD BASED ON RESEARCH<br />
+MosaLingua Business Spanish uses the spaced repetition system. See the video here: http://mosalingua.com<br />
+► learn business Spanish with a concrete, effective method: each revision flashcard is predetermined according to your specific difficulties<br />
+► stop wasting time: spend more time on what’s useful and stop spending time on what you already know<br />
+► constantly adapts to your issues and according to your speed (it’s like having a personal Spanish professor in your pocket!)<br />
+► uses your audio and visual memory<br />
+► reinforced concrete learning (long-term memorization)<br />
+<br />
+MOBILE LEARNING (GREAT FOR VACATION OR COMMUTES)<br />
+► Spanish sessions of varying durations (whether you have 2 or 30 minutes free)<br />
+► automatically adjust towards your speed and where you have difficulties<br />
+► no need for an Internet connection; it’s all offline!<br />
+<br />
+CONTENT<br />
+► more than 2,500 cards containing words and phrases pronounced by native speakers<br />
+► numerous suggestions written by experts to help you in your professional life, along with numerous language tips<br />
+► 18 main categories (finding a job, on the phone, letters/emails, meetings, presentations, sales, marketing, finances, etc.)<br />
+► over 100 specialized categories (breaking the ice, writing an agenda or the minutes of a meeting, organizing a work dinner, etc.) <br />
+► 10 available levels, covering key skills for the Spanish of your profession)<br />
+► 7 dialogues of the most common situations in the workplace<br />
+► More than 100 bonuses to unlock<br />
+► online Spanish dictionary<br />
+► (exclusive) ability to add your own flashcards<br />
+<br />
+MosaLingua Business Spanish is ideal for those with a basic level of Spanish and/or those who want to target Spanish in a professional context. If you are a total beginner, we recommend you our general Spanish app, MosaLingua Spanish. <br />
+<br />
+<br />
+The app constantly evolves: we implement the comments, suggestions and needs of our users and schedule regular updates for free!<br />
+If you need any help or have a suggestion, please use the support link below – response guaranteed!</div>
+<p>
+<a href="#" onclick="if ($$('.desc').css('display') == 'none'){$$('.desc').css('display', 'inline'); this.innerHTML='Less...'} else {$$('.desc').css('display', 'none'); this.innerHTML='More...'}" class="">More...</a>
+</p>
+<br>
+<div id="ad_container"></div>
+<br>
+<h2 class="header">Information</h2>
+<div class="list-block inset" style="margin:0px;">
+<ul>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Seller</div>
+<div class="item-after header">Mosalingua</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Size</div>
+<div class="item-after header">23.52 MB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Categories</div>
+<div class="item-after header">Paid and Other Apps</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Version</div>
+<div class="item-after header">10.0</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Report App</div>
+<div class="item-after header"><a class="email" title="email" href="#" onclick="javascript:window.location='mailto:report@appvalley.vip?subject=App Not Working&body=This app is not working: ' + document.getElementById('#appName').innerHTML;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVEhL7VJNKERRFH6xICsLKXsbC+Tdp4RIWYosZq0oysrCzsLKxkYW5t5nYzWpScpGFihSVhZTGt65T5MFSooSkZ/xnTuMmfdG0wxLt77eO98557vnnHus/5M9kXi6UkhvwpE6BsR/A6Fo2XF1pxEWUi84Sqf/CkLSq5B+l4Wbrh1Fb4WCysQToCxjSDqC+E6Os3RIesAo1oErFBvLCBtQAm2M4f/wmysOofQL8lzkT8G+N3y+MBN0i5kPtUt/GM6TPF8Qkt65Qlv5zaF3CgkbEgmS5hoXqcpR/jiCLoMxENqzo9Rhq2QD7P2gv7BwFrRlzaYrhHtRA6GZTDd0DMEB3qa2Ja/JzLNQ7k/CvDJocYRF25XXw0KtK6lavog7sZXuM/uv9Fqh/B9H4URpFMk27CRzqGy1JerXC/es+4vjZOGe1sG3YexchIRZVNIkHNPAc8B3F9x3VJzi6tHhZi4fEsYs5xG0ncsVA4+N83DxbpbPF6YDVHDzbZcKSkD83PxnhEmbEYQCSwdX//mds5yoHsQDPAaDygVEPX5o3iSLFx1zGhKujvwGjuv1966kqo3o/8kcy/oAk4ZYv9esbNMAAAAASUVORK5CYII="></a></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</center>
+</div>
+</div>

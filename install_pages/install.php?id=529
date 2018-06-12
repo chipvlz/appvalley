@@ -1,0 +1,92 @@
+<div class="page" data-name="install" data-id="529" data-app-name="SpeedClock">
+<div class="page-content">
+<center>
+<div class="content-block" style="width:100%;max-width:414px; text-align:left; margin-top:-16px; margin-bottom:0px;">
+<a href="#" class="back link"><i class="icon icon-back"></i><span> Back</span></a>
+<br><br>
+<div class="row">
+<div class="col-40">
+<img width="100%" style="border-radius:25%;" src="https://img.appvalley.vip/icon/529.png">
+</div>
+<div class="col-60">
+<h2 class="header" style="padding:0px;"><div id="#appName" style="overflow:hidden;">SpeedClock</div><br><div style="margin-top:-35px; font-size:18px;"><small style="color:#6d6d72;">Sten Kaiser</small></div></h2>
+<a href="itms-services://?action=download-manifest&url=https://appvalley.vip/app/plists/523/install.plist" class="col button button-fill button-round external install"  data-id="529" data-app-name="SpeedClock" style="background: #007AFF; color: #F0F1F6; font-weight:bold; width: 72px;">GET</a>
+</div>
+</div>
+</div>
+<div class="content-block" style="max-width:414px; text-align:left;">
+<h2 class="header">Preview</h2>
+<img style="border-radius:9px; max-width:414px;" src="https://img.appvalley.vip/screenshot/529.png" width="60%">
+<h2 class="header">Description</h2>The iPhone speed radar - easy-<div class="desc" style="display: none;">to-use speed measurement in your pocket, anytime, anywhere!<br />
+<br />
+A unique, advanced app designed to easily measure the speed of cars, boats, skaters, skiers, cyclists, animals, models, footballs, tennis serves, etc. The system is based on motion detection, enabling you to track a moving object using a hand-held device alone. SpeedClock includes three separate speed measurement tools and two distance estimation tools.   <br />
+<br />
+Speed Radar  <br />
+SpeedClock uses the camera to detect and analyze motion, and a reference distance to calculate the speed of an object. Define the distance to the object of interest, hold the iPhone still and let the object pass across the the screen. The speed is displayed automatically. SpeedClock is also able to automatically measure the speed and save an image of passing objects. The measurement can be initiated from an Apple Watch and the speed displayed on the watch face.<br />
+<br />
+  High Speed Video Recording <br />
+An additional speed tool records and processes a video, which enables SpeedClock to track small, fast object, such as flying balls, that can be difficult to catch with regular motion detection.   It also calculates additional parameters like acceleration.<br />
+<br />
+Synchronized Timing Gates <br />
+A third speed instrument uses two iPhone/iPads equipped with motion detection to start and stop the timer and measure the speed. The distance between the devices is used as reference, and the speed is calculated based on the time taken by the object to travel between the 'Start' and 'Stop' devices. The time is transmitted wirelessly over WiFi or Bluetooth.<br />
+<br />
+  Distance Measurement <br />
+ The stadimeter uses the size of a known object, e.g. a car, to calculate the distance.  The clinometer uses your own height as reference, along with the angle of the iPhone, to estimate the distance to a point on the ground.  The distances obtained from either tool can then be used to calculate the speed.  <br />
+<br />
+See a demo video at the application website (www.appmaker.se/speedClock)<br />
+</div>
+<p>
+<a href="#" onclick="if ($$('.desc').css('display') == 'none'){$$('.desc').css('display', 'inline'); this.innerHTML='Less...'} else {$$('.desc').css('display', 'none'); this.innerHTML='More...'}" class="">More...</a>
+</p>
+<br>
+<div id="ad_container"></div>
+<br>
+<h2 class="header">Information</h2>
+<div class="list-block inset" style="margin:0px;">
+<ul>
+<li>
+<div class="item-content">
+ <div class="item-inner">
+<div class="item-title">Seller</div>
+<div class="item-after header">Sten Kaiser</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Size</div>
+<div class="item-after header">10.56 MB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Categories</div>
+<div class="item-after header">Paid and Other Apps</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Version</div>
+<div class="item-after header">10.6</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Report App</div>
+<div class="item-after header"><a class="email" title="email" href="#" onclick="javascript:window.location='mailto:report@appvalley.vip?subject=App Not Working&body=This app is not working: ' + document.getElementById('#appName').innerHTML;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVEhL7VJNKERRFH6xICsLKXsbC+Tdp4RIWYosZq0oysrCzsLKxkYW5t5nYzWpScpGFihSVhZTGt65T5MFSooSkZ/xnTuMmfdG0wxLt77eO98557vnnHus/5M9kXi6UkhvwpE6BsR/A6Fo2XF1pxEWUi84Sqf/CkLSq5B+l4Wbrh1Fb4WCysQToCxjSDqC+E6Os3RIesAo1oErFBvLCBtQAm2M4f/wmysOofQL8lzkT8G+N3y+MBN0i5kPtUt/GM6TPF8Qkt65Qlv5zaF3CgkbEgmS5hoXqcpR/jiCLoMxENqzo9Rhq2QD7P2gv7BwFrRlzaYrhHtRA6GZTDd0DMEB3qa2Ja/JzLNQ7k/CvDJocYRF25XXw0KtK6lavog7sZXuM/uv9Fqh/B9H4URpFMk27CRzqGy1JerXC/es+4vjZOGe1sG3YexchIRZVNIkHNPAc8B3F9x3VJzi6tHhZi4fEsYs5xG0ncsVA4+N83DxbpbPF6YDVHDzbZcKSkD83PxnhEmbEYQCSwdX//mds5yoHsQDPAaDygVEPX5o3iSLFx1zGhKujvwGjuv1966kqo3o/8kcy/oAk4ZYv9esbNMAAAAASUVORK5CYII="></a></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</center>
+</div>
+</div>
