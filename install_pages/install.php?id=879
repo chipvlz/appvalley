@@ -1,0 +1,106 @@
+<div class="page" data-name="install" data-id="879" data-app-name="MyTopFans Pro - Social Tracker">
+<div class="page-content">
+<center>
+<div class="content-block" style="width:100%;max-width:414px; text-align:left; margin-top:-16px; margin-bottom:0px;">
+<a href="#" class="back link"><i class="icon icon-back"></i><span> Back</span></a>
+<br><br>
+<div class="row">
+<div class="col-40">
+<img width="100%" style="border-radius:25%;" src="https://img.appvalley.vip/icon/879.png">
+</div>
+<div class="col-60">
+<h2 class="header" style="padding:0px;"><div id="#appName" style="overflow:hidden;">MyTopFans Pro - Social Tracker</div><br><div style="margin-top:-35px; font-size:18px;"><small style="color:#6d6d72;">Dixapp</small></div></h2>
+<a href="itms-services://?action=download-manifest&url=https://appvalley.vip/app/plists/868/install.plist" class="col button button-fill button-round external install"  data-id="879" data-app-name="MyTopFans Pro - Social Tracker" style="background: #007AFF; color: #F0F1F6; font-weight:bold; width: 72px;">GET</a>
+</div>
+</div>
+</div>
+<div class="content-block" style="max-width:414px; text-align:left;">
+<h2 class="header">Preview</h2>
+<img style="border-radius:9px; max-width:414px;" src="https://img.appvalley.vip/screenshot/879.png" width="60%">
+<h2 class="header">Description</h2>***** FEATURES *****<br />
+<br />
+• RA<div class="desc" style="display: none;">NKING CHARTS: look at the chart with pictures, rank position and quick details about each of your top 20 fans, kept up-to-date with the latest info from Facebook.<br />
+<br />
+• FILTERS: filter your fans by such categories as new, climbing and falling.<br />
+<br />
+• POSITION TRACKER: track the movement of your fans in the Top 20.<br />
+<br />
+• FANBAR: see how much your fans care about you.<br />
+<br />
+• FANMATRIX: generate an awesome collage with the pics of your top 20 fans, your biggest fans will have the biggest pics.<br />
+<br />
+• FANSMARTDIARY: discover what binds you and your fans together.<br />
+<br />
+• MYTOPSTORIES: browse your best stories from Facebook, tracking their movements in the chart.<br />
+<br />
+• COLLAGE: create and share multiple photos at once in a beautiful collage on Facebook or Messenger.<br />
+<br />
+<br />
+***** SUBSCRIPTIONS *****<br />
+<br />
+• Medium list ($3.49, 7 days)<br />
+• Full list + MyTopStories ($3.99, 7 days)<br />
+<br />
+Payment will be charged to your iTunes Account at confirmation of purchase.<br />
+Your subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period.<br />
+Your account will be charged for renewal within 24 hours prior to the end of the current period, for the same duration and at the current subscription rate for that product.<br />
+You can manage your subscription and turn off the auto-renewal by accessing your Account Settings after purchase (https://support.apple.com/HT202039).<br />
+You cannot cancel the current subscription during the active subscription period.<br />
+Any unused portion of a free trial period, if offered, will be forfeited if you purchase a subscription.<br />
+Prices are susceptible to change at any time but products will be charged based on the rates in effect at the time of confirmation of the order.<br />
+</div>
+<p>
+<a href="#" onclick="if ($$('.desc').css('display') == 'none'){$$('.desc').css('display', 'inline'); this.innerHTML='Less...'} else {$$('.desc').css('display', 'none'); this.innerHTML='More...'}" class="">More...</a>
+</p>
+<br>
+<div id="ad_container"></div>
+<br>
+<h2 class="header">Information</h2>
+<div class="list-block inset" style="margin:0px;">
+<ul>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Seller</div>
+<div class="item-after header">Dixapp</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Size</div>
+<div class="item-after header">9.52 MB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Categories</div>
+<div class="item-after header">Paid and Other Apps</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Version</div>
+<div class="item-after header">4.21</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Report App</div>
+<div class="item-after header"><a class="email" title="email" href="#" onclick="javascript:window.location='mailto:report@appvalley.vip?subject=App Not Working&body=This app is not working: ' + document.getElementById('#appName').innerHTML;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVEhL7VJNKERRFH6xICsLKXsbC+Tdp4RIWYosZq0oysrCzsLKxkYW5t5nYzWpScpGFihSVhZTGt65T5MFSooSkZ/xnTuMmfdG0wxLt77eO98557vnnHus/5M9kXi6UkhvwpE6BsR/A6Fo2XF1pxEWUi84Sqf/CkLSq5B+l4Wbrh1Fb4WCysQToCxjSDqC+E6Os3RIesAo1oErFBvLCBtQAm2M4f/wmysOofQL8lzkT8G+N3y+MBN0i5kPtUt/GM6TPF8Qkt65Qlv5zaF3CgkbEgmS5hoXqcpR/jiCLoMxENqzo9Rhq2QD7P2gv7BwFrRlzaYrhHtRA6GZTDd0DMEB3qa2Ja/JzLNQ7k/CvDJocYRF25XXw0KtK6lavog7sZXuM/uv9Fqh/B9H4URpFMk27CRzqGy1JerXC/es+4vjZOGe1sG3YexchIRZVNIkHNPAc8B3F9x3VJzi6tHhZi4fEsYs5xG0ncsVA4+N83DxbpbPF6YDVHDzbZcKSkD83PxnhEmbEYQCSwdX//mds5yoHsQDPAaDygVEPX5o3iSLFx1zGhKujvwGjuv1966kqo3o/8kcy/oAk4ZYv9esbNMAAAAASUVORK5CYII="></a></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</center>
+</div>
+</div>

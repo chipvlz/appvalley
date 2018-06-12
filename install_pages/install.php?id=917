@@ -1,0 +1,128 @@
+<div class="page" data-name="install" data-id="917" data-app-name="Chess Tiger Pro">
+<div class="page-content">
+<center>
+<div class="content-block" style="width:100%;max-width:414px; text-align:left; margin-top:-16px; margin-bottom:0px;">
+<a href="#" class="back link"><i class="icon icon-back"></i><span> Back</span></a>
+<br><br>
+<div class="row">
+<div class="col-40">
+<img width="100%" style="border-radius:25%;" src="https://img.appvalley.vip/icon/917.png">
+</div>
+<div class="col-60">
+<h2 class="header" style="padding:0px;"><div id="#appName" style="overflow:hidden;">Chess Tiger Pro</div><br><div style="margin-top:-35px; font-size:18px;"><small style="color:#6d6d72;">Chesstiger</small></div></h2>
+<a href="itms-services://?action=download-manifest&url=https://appvalley.vip/app/plists/906/install.plist" class="col button button-fill button-round external install"  data-id="917" data-app-name="Chess Tiger Pro" style="background: #007AFF; color: #F0F1F6; font-weight:bold; width: 72px;">GET</a>
+</div>
+</div>
+</div>
+<div class="content-block" style="max-width:414px; text-align:left;">
+<h2 class="header">Preview</h2>
+<img style="border-radius:9px; max-width:414px;" src="https://img.appvalley.vip/screenshot/917.png" width="60%">
+<h2 class="header">Description</h2>How does it work? It's really <div class="desc" style="display: none;">simple: you just play! The coach shows you the moves a Grandmaster would pick. Not just one move, but the 4 best moves.<br />
+<br />
+Sounds silly? Well think about it... How did you learn to talk when you were a child? Did you take grammar and spelling lessons? Of course not. You just went with the flow! Because that's the most effective way to learn!<br />
+<br />
+Chess Tiger Pro allows you to do just that, AND IT WORKS!<br />
+<br />
+In two minutes you start learning effortlessly. You start having fun immediately, and notice after just a few games that the right moves come to your mind naturally, as if they were obvious.<br />
+<br />
+If it still sounds incredible, please read the reviews. Chess Tiger Pro has one of the highest customer satisfaction of the App Store!<br />
+<br />
+Also, Chess Tiger Pro is the only chess app that analyzes your games to show you how to improve, and is also one of the MOST COMPLETE apps for players of all levels.<br />
+<br />
+<br />
+FOR BEGINNERS:<br />
+<br />
+• The rules of chess are included and easily accessible.<br />
+• Just tap on a piece to see its legal moves.<br />
+• A move is not allowed? The app tells you why.<br />
+• Suggestions: can watch over your shoulder and suggest 4 moves.<br />
+• Can tell you when you can mate your opponent, so you can look for the winning move by yourself.<br />
+• Can warn you when your opponent is about to play a very dangerous move.<br />
+• Provides 50 trainer levels of increasing difficulty. No big jump between levels.<br />
+• Knows and applies perfectly all the official rules of chess.<br />
+• Contains a very high quality chess engine, the guarantee to learn from a good professor.<br />
+• Finds interesting positions in your own games and shows you how to improve.<br />
+<br />
+<br />
+FOR EXPERTS:<br />
+<br />
+• Both USCF and FIDE rating scales are supported.<br />
+• Chess Tiger Pro has one of the strongest chess engines for mobile devices.<br />
+• On current devices, as incredible as it sounds, it plays at the world champion level.<br />
+• Chess Tiger has been ranked twice as the strongest chess engine on the SSDF list (the worldwide recognized and independent computer rating list).<br />
+• You can set up any position.<br />
+• You can save your games in collections and replay them later.<br />
+• You can exchange games with your friends very easily by email (send and receive).<br />
+• You can import game collections in PGN format.<br />
+• The chess engine displays its thinking, up to 20 plies ahead.<br />
+• You can analyze a game by replaying it. Chess Tiger Pro tells you when a bad move has been played by coloring it in red. The 4 best moves in every position are colored in green.<br />
+• Chess Tiger Pro supports variations and allows you to test "What if..." scenarios without erasing your current game.<br />
+<br />
+<br />
+OTHER FEATURES INCLUDE:<br />
+<br />
+• The coach can comment your game while you are playing (optional).<br />
+• When a game is finished, the coach can analyze it for you and show you how to improve.<br />
+• 15 gorgeous predefined visual themes that you can customize.<br />
+• 9 chess pieces sets (wood, ebony & ivory, metal, glass, …).<br />
+• 14 board styles (marble, blue marble, wood, metal, stone, …).<br />
+• A collection of more than 6000 famous games of the greatest players of all times.<br />
+• "Reload last game" allows you to retrieve the most recent game, even if you have forgotten to save it.<br />
+• 4 different playing styles, ranging from the quiet to suicidal, which you can apply to all the levels.<br />
+• Includes an opening book of more than one million moves (can be turned off).<br />
+• Many customization options (graphics, sounds, engine output…).</div>
+<p>
+<a href="#" onclick="if ($$('.desc').css('display') == 'none'){$$('.desc').css('display', 'inline'); this.innerHTML='Less...'} else {$$('.desc').css('display', 'none'); this.innerHTML='More...'}" class="">More...</a>
+</p>
+<br>
+<div id="ad_container"></div>
+<br>
+<h2 class="header">Information</h2>
+<div class="list-block inset" style="margin:0px;">
+<ul>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Seller</div>
+<div class="item-after header">Chesstiger</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Size</div>
+<div class="item-after header">30.38 MB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Categories</div>
+<div class="item-after header">Paid and Other Apps</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Version</div>
+<div class="item-after header">2018.06</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Report App</div>
+<div class="item-after header"><a class="email" title="email" href="#" onclick="javascript:window.location='mailto:report@appvalley.vip?subject=App Not Working&body=This app is not working: ' + document.getElementById('#appName').innerHTML;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVEhL7VJNKERRFH6xICsLKXsbC+Tdp4RIWYosZq0oysrCzsLKxkYW5t5nYzWpScpGFihSVhZTGt65T5MFSooSkZ/xnTuMmfdG0wxLt77eO98557vnnHus/5M9kXi6UkhvwpE6BsR/A6Fo2XF1pxEWUi84Sqf/CkLSq5B+l4Wbrh1Fb4WCysQToCxjSDqC+E6Os3RIesAo1oErFBvLCBtQAm2M4f/wmysOofQL8lzkT8G+N3y+MBN0i5kPtUt/GM6TPF8Qkt65Qlv5zaF3CgkbEgmS5hoXqcpR/jiCLoMxENqzo9Rhq2QD7P2gv7BwFrRlzaYrhHtRA6GZTDd0DMEB3qa2Ja/JzLNQ7k/CvDJocYRF25XXw0KtK6lavog7sZXuM/uv9Fqh/B9H4URpFMk27CRzqGy1JerXC/es+4vjZOGe1sG3YexchIRZVNIkHNPAc8B3F9x3VJzi6tHhZi4fEsYs5xG0ncsVA4+N83DxbpbPF6YDVHDzbZcKSkD83PxnhEmbEYQCSwdX//mds5yoHsQDPAaDygVEPX5o3iSLFx1zGhKujvwGjuv1966kqo3o/8kcy/oAk4ZYv9esbNMAAAAASUVORK5CYII="></a></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</center>
+</div>
+</div>

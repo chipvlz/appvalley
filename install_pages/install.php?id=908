@@ -1,0 +1,104 @@
+<div class="page" data-name="install" data-id="908" data-app-name="Renegade">
+<div class="page-content">
+<center>
+<div class="content-block" style="width:100%;max-width:414px; text-align:left; margin-top:-16px; margin-bottom:0px;">
+<a href="#" class="back link"><i class="icon icon-back"></i><span> Back</span></a>
+<br><br>
+<div class="row">
+<div class="col-40">
+<img width="100%" style="border-radius:25%;" src="https://img.appvalley.vip/icon/908.png">
+</div>
+<div class="col-60">
+<h2 class="header" style="padding:0px;"><div id="#appName" style="overflow:hidden;">Renegade</div><br><div style="margin-top:-35px; font-size:18px;"><small style="color:#6d6d72;">Vectorunit</small></div></h2>
+<a href="itms-services://?action=download-manifest&url=https://appvalley.vip/app/plists/897/install.plist" class="col button button-fill button-round external install"  data-id="908" data-app-name="Renegade" style="background: #007AFF; color: #F0F1F6; font-weight:bold; width: 72px;">GET</a>
+</div>
+</div>
+</div>
+<div class="content-block" style="max-width:414px; text-align:left;">
+<h2 class="header">Preview</h2>
+<img style="border-radius:9px; max-width:414px;" src="https://img.appvalley.vip/screenshot/908.png" width="60%">
+<h2 class="header">Description</h2>Experience the future of illic<div class="desc" style="display: none;">it hydrojet racing, where armored riders kick out death-defying stunts over massive waterfalls, dodge cops through public waterways, and boost at breakneck speeds across surging waves.<br />
+<br />
+You are a hydrojet rider, framed and cast out from the Riptide GP league, forced to race illegally through city waterways, flooded ruins, and churning factory machinery in an effort to reclaim your reputation and your title. Play through the single player career to unlock new vehicles, playable characters, and customization features as you take down bosses and build your crew. <br />
+<br />
+Then, take your skills online for the ultimate test as you battle opponents around the world in 8-player online matches. Challenge your friends for leaderboard supremacy in the ghost-racing challenge mode.<br />
+<br />
+Featuring thrill-ride race tracks packed with shortcuts, secrets, and interactive obstacles, Riptide GP: Renegade is the action-arcade water racer for a new generation.<br />
+<br />
+<br />
+"Riptide GP Renegade delivers one of the best arcade racing experiences on iOS whether it’s on land, air, or sea making it a must have. " - AppleNApps (4.5/5)<br />
+<br />
+"Riptide GP Renegade is a really fast, fun, and robust racing game." - 148 Apps (4.5/5)<br />
+<br />
+<br />
+<br />
+• • FEATURES<br />
+<br />
+• Thrill-Ride Environments - Blast across floating factory platforms, brave hurricane-strength waves, and infiltrate a military base in the midst of battle. Every race track is packed with interactive set pieces, dynamic obstacles and secret shortcuts.<br />
+<br />
+• Deep Career Mode - Battle your way through a variety of races and boss fights to reach the top of the underground hydro jet racing circuit. Earn cash and experience to upgrade and customize your hydro jet, unlock new stunts, and increase your rider's performance.<br />
+<br />
+• Online Multiplayer - Compete online in thrilling 8 player matchups against the best players from around the world.<br />
+<br />
+• Challenge Mode - Take command of the leaderboards and test your skills against ghost recordings of your friends' best performances.<br />
+<br />
+• Transforming Vehicles - Collect and upgrade a garage full of blisteringly fast hydro jets that transform while you ride them. Win money to upgrade and customize each one.<br />
+<br />
+• State of the Art Water Racing - Riptide GP: Renegade brings dynamic water racing to a new level of excitement with breathtaking water physics, splash-tastic spray effects, and more! Every race is different because the surface you race on is always changing. <br />
+<br />
+• GameCenter and iCloud - Compete with your Game Center friends on leaderboards and unlock challenging achievements. Plus keep your game going from device to device with iCloud data syncing.</div>
+<p>
+<a href="#" onclick="if ($$('.desc').css('display') == 'none'){$$('.desc').css('display', 'inline'); this.innerHTML='Less...'} else {$$('.desc').css('display', 'none'); this.innerHTML='More...'}" class="">More...</a>
+</p>
+<br>
+<div id="ad_container"></div>
+<br>
+<h2 class="header">Information</h2>
+<div class="list-block inset" style="margin:0px;">
+<ul>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Seller</div>
+<div class="item-after header">Vectorunit</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Size</div>
+<div class="item-after header">94.29 MB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Categories</div>
+<div class="item-after header">Paid and Other Games</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Version</div>
+<div class="item-after header">1.2.1</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Report App</div>
+<div class="item-after header"><a class="email" title="email" href="#" onclick="javascript:window.location='mailto:report@appvalley.vip?subject=App Not Working&body=This app is not working: ' + document.getElementById('#appName').innerHTML;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVEhL7VJNKERRFH6xICsLKXsbC+Tdp4RIWYosZq0oysrCzsLKxkYW5t5nYzWpScpGFihSVhZTGt65T5MFSooSkZ/xnTuMmfdG0wxLt77eO98557vnnHus/5M9kXi6UkhvwpE6BsR/A6Fo2XF1pxEWUi84Sqf/CkLSq5B+l4Wbrh1Fb4WCysQToCxjSDqC+E6Os3RIesAo1oErFBvLCBtQAm2M4f/wmysOofQL8lzkT8G+N3y+MBN0i5kPtUt/GM6TPF8Qkt65Qlv5zaF3CgkbEgmS5hoXqcpR/jiCLoMxENqzo9Rhq2QD7P2gv7BwFrRlzaYrhHtRA6GZTDd0DMEB3qa2Ja/JzLNQ7k/CvDJocYRF25XXw0KtK6lavog7sZXuM/uv9Fqh/B9H4URpFMk27CRzqGy1JerXC/es+4vjZOGe1sG3YexchIRZVNIkHNPAc8B3F9x3VJzi6tHhZi4fEsYs5xG0ncsVA4+N83DxbpbPF6YDVHDzbZcKSkD83PxnhEmbEYQCSwdX//mds5yoHsQDPAaDygVEPX5o3iSLFx1zGhKujvwGjuv1966kqo3o/8kcy/oAk4ZYv9esbNMAAAAASUVORK5CYII="></a></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</center>
+</div>
+</div>

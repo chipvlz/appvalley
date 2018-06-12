@@ -1,0 +1,95 @@
+<div class="page" data-name="install" data-id="937" data-app-name="911 Operator">
+<div class="page-content">
+<center>
+<div class="content-block" style="width:100%;max-width:414px; text-align:left; margin-top:-16px; margin-bottom:0px;">
+<a href="#" class="back link"><i class="icon icon-back"></i><span> Back</span></a>
+<br><br>
+<div class="row">
+<div class="col-40">
+<img width="100%" style="border-radius:25%;" src="https://img.appvalley.vip/icon/937.png">
+</div>
+<div class="col-60">
+<h2 class="header" style="padding:0px;"><div id="#appName" style="overflow:hidden;">911 Operator</div><br><div style="margin-top:-35px; font-size:18px;"><small style="color:#6d6d72;">PLAYWAY SPOLKA AKCYJNA</small></div></h2>
+<a href="itms-services://?action=download-manifest&url=https://appvalley.vip/app/plists/926/install.plist" class="col button button-fill button-round external install"  data-id="937" data-app-name="911 Operator" style="background: #007AFF; color: #F0F1F6; font-weight:bold; width: 72px;">GET</a>
+</div>
+</div>
+</div>
+<div class="content-block" style="max-width:414px; text-align:left;">
+<h2 class="header">Preview</h2>
+<img style="border-radius:9px; max-width:414px;" src="https://img.appvalley.vip/screenshot/937.png" width="60%">
+<h2 class="header">Description</h2>In 911 OPERATOR, you take on t<div class="desc" style="display: none;">he role of an emergency dispatcher, who has to rapidly deal with the incoming reports. Your task is not just to pick up the calls, but also to react appropriately to the situation – sometimes giving first aid instructions is enough, at other times a police, fire department or paramedics’ intervention is a necessity. Keep in mind, that the person on the other side of the line might turn out to be a dying daughter’s father, an unpredictable terrorist, or just a prankster. Can you handle all of this?<br />
+<br />
+PLAY ON ANY CITY IN THE WORLD*<br />
+<br />
+Check out thousands of cities from all around the world. The Free Play mode lets you choose a city to play on - the game will download its map, along with real streets, addresses and the emergency infrastructure. You can also try the Career mode, which contains 6 cities with unique events – survive an earthquake in San Francisco and save Washington, D.C. from bomb attacks.<br />
+<br />
+MANAGE TEAMS<br />
+<br />
+A number of police, fire department and paramedic units are at your disposal. The forces may use a variety of vehicles (from common ambulances to police helicopters), essential equipment (e.g., bulletproof vests, first aid kits and technical tools) and consist of team members with different abilities.<br />
+<br />
+PEOPLE’S LIVES ARE IN YOUR HANDS!<br />
+<br />
+Main features:<br />
+<br />
+- Over 50 recorded dialogues inspired by real calls: serious and dramatic, but sometimes also funny or annoying.<br />
+- Real First Aid instructions.<br />
+- Opportunity to play on any city in the world!<br />
+- 6 selected cities in Career mode, featuring unique calls and events.<br />
+- More than 140 types of reports to encounter.<br />
+- 12 types of emergency vehicles (including helicopters, police cars and motorcycles).<br />
+</div>
+<p>
+<a href="#" onclick="if ($$('.desc').css('display') == 'none'){$$('.desc').css('display', 'inline'); this.innerHTML='Less...'} else {$$('.desc').css('display', 'none'); this.innerHTML='More...'}" class="">More...</a>
+</p>
+<br>
+<div id="ad_container"></div>
+<br>
+<h2 class="header">Information</h2>
+<div class="list-block inset" style="margin:0px;">
+<ul>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Seller</div>
+<div class="item-after header">PLAYWAY SPOLKA AKCYJNA</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Size</div>
+<div class="item-after header">52.03 MB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Categories</div>
+<div class="item-after header">Paid and Other Games</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Version</div>
+<div class="item-after header">2.05.25</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Report App</div>
+<div class="item-after header"><a class="email" title="email" href="#" onclick="javascript:window.location='mailto:report@appvalley.vip?subject=App Not Working&body=This app is not working: ' + document.getElementById('#appName').innerHTML;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVEhL7VJNKERRFH6xICsLKXsbC+Tdp4RIWYosZq0oysrCzsLKxkYW5t5nYzWpScpGFihSVhZTGt65T5MFSooSkZ/xnTuMmfdG0wxLt77eO98557vnnHus/5M9kXi6UkhvwpE6BsR/A6Fo2XF1pxEWUi84Sqf/CkLSq5B+l4Wbrh1Fb4WCysQToCxjSDqC+E6Os3RIesAo1oErFBvLCBtQAm2M4f/wmysOofQL8lzkT8G+N3y+MBN0i5kPtUt/GM6TPF8Qkt65Qlv5zaF3CgkbEgmS5hoXqcpR/jiCLoMxENqzo9Rhq2QD7P2gv7BwFrRlzaYrhHtRA6GZTDd0DMEB3qa2Ja/JzLNQ7k/CvDJocYRF25XXw0KtK6lavog7sZXuM/uv9Fqh/B9H4URpFMk27CRzqGy1JerXC/es+4vjZOGe1sG3YexchIRZVNIkHNPAc8B3F9x3VJzi6tHhZi4fEsYs5xG0ncsVA4+N83DxbpbPF6YDVHDzbZcKSkD83PxnhEmbEYQCSwdX//mds5yoHsQDPAaDygVEPX5o3iSLFx1zGhKujvwGjuv1966kqo3o/8kcy/oAk4ZYv9esbNMAAAAASUVORK5CYII="></a></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</center>
+</div>
+</div>

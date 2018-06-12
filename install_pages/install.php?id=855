@@ -1,0 +1,118 @@
+<div class="page" data-name="install" data-id="855" data-app-name="Muze-ic">
+<div class="page-content">
+<center>
+<div class="content-block" style="width:100%;max-width:414px; text-align:left; margin-top:-16px; margin-bottom:0px;">
+<a href="#" class="back link"><i class="icon icon-back"></i><span> Back</span></a>
+<br><br>
+<div class="row">
+<div class="col-40">
+<img width="100%" style="border-radius:25%;" src="https://img.appvalley.vip/icon/855.png">
+</div>
+<div class="col-60">
+<h2 class="header" style="padding:0px;"><div id="#appName" style="overflow:hidden;">Muze-ic</div><br><div style="margin-top:-35px; font-size:18px;"><small style="color:#6d6d72;">Livewire team</small></div></h2>
+<a href="itms-services://?action=download-manifest&url=https://appvalley.vip/app/plists/844/install.plist" class="col button button-fill button-round external install"  data-id="855" data-app-name="Muze-ic" style="background: #007AFF; color: #F0F1F6; font-weight:bold; width: 72px;">GET</a>
+</div>
+</div>
+</div>
+<div class="content-block" style="max-width:414px; text-align:left;">
+<h2 class="header">Preview</h2>
+<img style="border-radius:9px; max-width:414px;" src="https://img.appvalley.vip/screenshot/855.png" width="60%">
+<h2 class="header">Description</h2>Muze-ic is a full featured fre<div class="desc" style="display: none;">e music downloader & player that can also play music from your iTunes Music library, including iTunes Match cloud files and DRM (Digital Rights Management) protected music.<br />
+ Download Music from 100’s of sites offering free and legal music downloads direct to your iDevice.<br />
+ Edit or create album art for downloaded music files. <br />
+Share downloaded files with AirDrop, Email or send to other compatible apps.<br />
+ Create new playlists or play you iPod playlists. <br />
+<br />
+PLEASE NOTE: Muze-ic was not designed for, nor do we condone downloading of copyrighted files as this is illegal and doing so could result in legal action from the owners of the copyright.<br />
+<br />
+More Features Include:<br />
+<br />
+* Designed with two music players to ensure all downloaded & iTunes Music library music is played successfully.<br />
+<br />
+* Attractive Music Player with Shuffle, Repeat, Add to Playlists, Hi Speed Scrubbing, View Current Playing list and AirPlay. <br />
+<br />
+* Edit Downloaded Music’s MetaData (ID3 Tags) for Title, Artist, Album and Artwork. You can create you own artwork with the built-in image editing suite alternatively pick artwork from the internet or your photo library.<br />
+<br />
+* Full Featured Web Browser with Bookmarks, Web History, Set Home Page, Advert Blocker, Search & URL bar, Share web pages with AirDrop, Email, Twitter, Facebook or iMessage & SMS.<br />
+<br />
+* Share music using AirDrop, Email or send to other compatible.<br />
+<br />
+* Play iTunes Music library Songs, Albums or playlists.<br />
+<br />
+* Import/Export Music with other compatible apps or through iTunes.<br />
+<br />
+* Download Multiple files at once with the Download Manager.<br />
+<br />
+  * Works with Headphone, Dock Remote Controller.<br />
+<br />
+* Stream music to your Bluetooth device.<br />
+<br />
+* Stream your music to Apple TV using Apple Airplay Technology.<br />
+<br />
+* Supported Audio formats include mp3, m4a, wma & wav.<br />
+<br />
+* View Now Playing Song list without leaving the player.<br />
+<br />
+* Control your music from the lock screen.<br />
+<br />
+* Built-In ability to send support Email or feedback<br />
+<br />
+Muze-ic contains no In-App Purchases and is Ad-Free. <br />
+Muze-ic is optimised for iOS 7 and iPhone 5.<br />
+<br />
+We're always looking at ways to improve the User Experience so if you'd like to see a certain feature included in Muze-ic, Contact us using the Links in the App or in this Page Description.</div>
+<p>
+<a href="#" onclick="if ($$('.desc').css('display') == 'none'){$$('.desc').css('display', 'inline'); this.innerHTML='Less...'} else {$$('.desc').css('display', 'none'); this.innerHTML='More...'}" class="">More...</a>
+</p>
+<br>
+<div id="ad_container"></div>
+<br>
+<h2 class="header">Information</h2>
+<div class="list-block inset" style="margin:0px;">
+<ul>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Seller</div>
+<div class="item-after header">Livewire team</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Size</div>
+<div class="item-after header">6.93 MB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Categories</div>
+<div class="item-after header">Paid and Other Apps</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Version</div>
+<div class="item-after header">1.4</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Report App</div>
+<div class="item-after header"><a class="email" title="email" href="#" onclick="javascript:window.location='mailto:report@appvalley.vip?subject=App Not Working&body=This app is not working: ' + document.getElementById('#appName').innerHTML;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVEhL7VJNKERRFH6xICsLKXsbC+Tdp4RIWYosZq0oysrCzsLKxkYW5t5nYzWpScpGFihSVhZTGt65T5MFSooSkZ/xnTuMmfdG0wxLt77eO98557vnnHus/5M9kXi6UkhvwpE6BsR/A6Fo2XF1pxEWUi84Sqf/CkLSq5B+l4Wbrh1Fb4WCysQToCxjSDqC+E6Os3RIesAo1oErFBvLCBtQAm2M4f/wmysOofQL8lzkT8G+N3y+MBN0i5kPtUt/GM6TPF8Qkt65Qlv5zaF3CgkbEgmS5hoXqcpR/jiCLoMxENqzo9Rhq2QD7P2gv7BwFrRlzaYrhHtRA6GZTDd0DMEB3qa2Ja/JzLNQ7k/CvDJocYRF25XXw0KtK6lavog7sZXuM/uv9Fqh/B9H4URpFMk27CRzqGy1JerXC/es+4vjZOGe1sG3YexchIRZVNIkHNPAc8B3F9x3VJzi6tHhZi4fEsYs5xG0ncsVA4+N83DxbpbPF6YDVHDzbZcKSkD83PxnhEmbEYQCSwdX//mds5yoHsQDPAaDygVEPX5o3iSLFx1zGhKujvwGjuv1966kqo3o/8kcy/oAk4ZYv9esbNMAAAAASUVORK5CYII="></a></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</center>
+</div>
+</div>
