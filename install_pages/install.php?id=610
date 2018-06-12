@@ -1,0 +1,84 @@
+<div class="page" data-name="install" data-id="610" data-app-name="ПДД 2018: Учебник">
+<div class="page-content">
+<center>
+<div class="content-block" style="width:100%;max-width:414px; text-align:left; margin-top:-16px; margin-bottom:0px;">
+<a href="#" class="back link"><i class="icon icon-back"></i><span> Back</span></a>
+<br><br>
+<div class="row">
+<div class="col-40">
+<img width="100%" style="border-radius:25%;" src="https://img.appvalley.vip/icon/610.png">
+</div>
+<div class="col-60">
+<h2 class="header" style="padding:0px;"><div id="#appName" style="overflow:hidden;">ПДД 2018: Учебник</div><br><div style="margin-top:-35px; font-size:18px;"><small style="color:#6d6d72;">Mariia Ostrikova</small></div></h2>
+<a href="itms-services://?action=download-manifest&url=https://appvalley.vip/app/plists/604/install.plist" class="col button button-fill button-round external install"  data-id="610" data-app-name="ПДД 2018: Учебник" style="background: #007AFF; color: #F0F1F6; font-weight:bold; width: 72px;">GET</a>
+</div>
+</div>
+</div>
+<div class="content-block" style="max-width:414px; text-align:left;">
+<h2 class="header">Preview</h2>
+<img style="border-radius:9px; max-width:414px;" src="https://img.appvalley.vip/screenshot/610.png" width="60%">
+<h2 class="header">Description</h2>Никаких встроен�<div class="desc" style="display: none;">�ых покупок! Заплатив единожды, вы спокойно учитесь и больше не отвлекаетесь на дополнительные платежи.<br />
+<br />
+Здесь вы найдёте:<br />
+*** БОЛЕЕ 400 ИНТЕРАКТИВНЫХ ПРАКТИЧЕСКИХ ЗАДАЧ (жми кнопку прямо в тексте - открывается задача, которую нужно решить),<br />
+*** тысячи иллюстраций и фотографий,<br />
+*** подробно разжёванные комментарии ко всем пунктам ПДД,<br />
+*** анализ самых разных дорожных ситуаций,<br />
+*** Все 40 билетов (800 вопросов) для Экзамена БЕСПЛАТНО<br />
+<br />
+Наши приложения ПДД-серии - это уже знак качества для более чем 3.000.000 человек по всей России. Именно наши ПДД трижды становились Лучшими приложениями года по мнению Apple (2014, 2015, 2016). Теперь, аккумулировав весь предыдущий опыт, представляем вашему вниманию совершенно новый продукт, итог долгой и скрупулёзной работы - "Учебник ПДД 2018".</div>
+<p>
+<a href="#" onclick="if ($$('.desc').css('display') == 'none'){$$('.desc').css('display', 'inline'); this.innerHTML='Less...'} else {$$('.desc').css('display', 'none'); this.innerHTML='More...'}" class="">More...</a>
+</p>
+<br>
+<div id="ad_container"></div>
+<br>
+<h2 class="header">Information</h2>
+<div class="list-block inset" style="margin:0px;">
+<ul>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Seller</div>
+<div class="item-after header">Mariia Ostrikova</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Size</div>
+<div class="item-after header">74.35 MB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Categories</div>
+<div class="item-after header">Paid and Other Apps</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Version</div>
+<div class="item-after header">1.4.2</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Report App</div>
+<div class="item-after header"><a class="email" title="email" href="#" onclick="javascript:window.location='mailto:report@appvalley.vip?subject=App Not Working&body=This app is not working: ' + document.getElementById('#appName').innerHTML;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVEhL7VJNKERRFH6xICsLKXsbC+Tdp4RIWYosZq0oysrCzsLKxkYW5t5nYzWpScpGFihSVhZTGt65T5MFSooSkZ/xnTuMmfdG0wxLt77eO98557vnnHus/5M9kXi6UkhvwpE6BsR/A6Fo2XF1pxEWUi84Sqf/CkLSq5B+l4Wbrh1Fb4WCysQToCxjSDqC+E6Os3RIesAo1oErFBvLCBtQAm2M4f/wmysOofQL8lzkT8G+N3y+MBN0i5kPtUt/GM6TPF8Qkt65Qlv5zaF3CgkbEgmS5hoXqcpR/jiCLoMxENqzo9Rhq2QD7P2gv7BwFrRlzaYrhHtRA6GZTDd0DMEB3qa2Ja/JzLNQ7k/CvDJocYRF25XXw0KtK6lavog7sZXuM/uv9Fqh/B9H4URpFMk27CRzqGy1JerXC/es+4vjZOGe1sG3YexchIRZVNIkHNPAc8B3F9x3VJzi6tHhZi4fEsYs5xG0ncsVA4+N83DxbpbPF6YDVHDzbZcKSkD83PxnhEmbEYQCSwdX//mds5yoHsQDPAaDygVEPX5o3iSLFx1zGhKujvwGjuv1966kqo3o/8kcy/oAk4ZYv9esbNMAAAAASUVORK5CYII="></a></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</center>
+</div>
+</div>

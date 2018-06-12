@@ -1,0 +1,104 @@
+<div class="page" data-name="install" data-id="573" data-app-name="ArtStudio for iPad -Paint&Draw">
+<div class="page-content">
+<center>
+<div class="content-block" style="width:100%;max-width:414px; text-align:left; margin-top:-16px; margin-bottom:0px;">
+<a href="#" class="back link"><i class="icon icon-back"></i><span> Back</span></a>
+<br><br>
+<div class="row">
+<div class="col-40">
+<img width="100%" style="border-radius:25%;" src="https://img.appvalley.vip/icon/573.png">
+</div>
+<div class="col-60">
+<h2 class="header" style="padding:0px;"><div id="#appName" style="overflow:hidden;">ArtStudio for iPad -Paint&Draw</div><br><div style="margin-top:-35px; font-size:18px;"><small style="color:#6d6d72;">Iphoneclan</small></div></h2>
+<a href="itms-services://?action=download-manifest&url=https://appvalley.vip/app/plists/567/install.plist" class="col button button-fill button-round external install"  data-id="573" data-app-name="ArtStudio for iPad -Paint&Draw" style="background: #007AFF; color: #F0F1F6; font-weight:bold; width: 72px;">GET</a>
+</div>
+</div>
+</div>
+<div class="content-block" style="max-width:414px; text-align:left;">
+<h2 class="header">Preview</h2>
+<img style="border-radius:9px; max-width:414px;" src="https://img.appvalley.vip/screenshot/573.png" width="60%">
+<h2 class="header">Description</h2>ArtStudio is the most comprehe<div class="desc" style="display: none;">nsive, sketching, painting and photo editing tool in the App Store. Completely re-designed from the ground up the new ArtStudio features a beautiful new user interface and a powerful new graphics engine to make creating works of art faster, easier, and more fun! Using advanced drawing algorithms this is the fastest and most precise version of ArtStudio to date.<br />
+<br />
+FEATURES:<br />
+- flexible canvas size, max: 2048x1536(iPad 1), 2592x1936 (iPad 2), 2448x3264 (iPad 3rd or newer), 3024x4032 (iPad Air2, iPad Mini 4, iPad Pro)<br />
+- support for any device orientation<br />
+- 16 tools: select, pencil, wet paintbrush, dry paintbrush, spray, dots, eraser, smudge, bucket fill, gradient, text, clone, heal, blur/sharpen, dodge/burn, eyedropper<br />
+- 450 HIGH QUALITY BRUSHES (150 free, 300 paid) divided into 30 groups<br />
+- custom brushes, max size: 500x500px<br />
+- select tool: rect/ellipse/lasso/magic wand/by color, add/sub/intersect, contract/expand/round corners/border/...<br />
+- text tool: over 150 system fonts, support of external TTF fonts (just upload .ttf file in iTunes using File Sharing), special text layer to easy edit text<br />
+- palm rejection<br />
+- favorites list to quickly access user's favorite brush settings<br />
+- fully customizable stroke settings: blur, flip, size, opacity, spacing, fadeout, squeeze, angle, speed-size, speed-opacity, random flip, scatter, jitter-spacing, jitter-angle, jitter-size, jitter-squeeze, jitter-opacity, jitter-hue, jitter-saturation, jitter-lightness<br />
+- symmetric drawing<br />
+- guidelines, grid<br />
+- shapes: lines, rectangles, ellipses, polygons (open, closed)<br />
+- layer options: add, duplicate, merge down/visible, delete, lock alpha, show/hide, link, name, reorder, opacity, blending modes<br />
+- layer masks<br />
+- layer/selection transformations: move/scale/rotate with multi-touch, flip, rotate left/right, fill/erase<br />
+- distort (skew, perspective etc)<br />
+- 21 layer blending modes: normal, multiply, add, difference, screen, overlay, hue, saturation, color, value, ...<br />
+- import from 'Camera Roll', camera, iTunes, clipboard<br />
+- export as JPG/PNG/PSD to 'Camera Roll', email, clipboard, iTunes<br />
+- multi-touch navigation with unlimited zoom<br />
+- undo/redo with almost infinite number of steps<br />
+- image resize (none, bilinear, bicubic, lanczos interpolations) , change canvas size, crop<br />
+- 40 filters: gaussian/motion/radial blur, sharpen, unsharp mask, add noise, render clouds, edge detect, border/vignette and more<br />
+- Elastify filter used to make incredible distortions<br />
+- adjustments: brightness/contrast/exposure, hue/saturation/lightness, color balance, temperature, shadows/highlights, CURVES, auto contrast/colors/white balance and more<br />
+- video tutorials</div>
+<p>
+<a href="#" onclick="if ($$('.desc').css('display') == 'none'){$$('.desc').css('display', 'inline'); this.innerHTML='Less...'} else {$$('.desc').css('display', 'none'); this.innerHTML='More...'}" class="">More...</a>
+</p>
+<br>
+<div id="ad_container"></div>
+<br>
+<h2 class="header">Information</h2>
+<div class="list-block inset" style="margin:0px;">
+<ul>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Seller</div>
+<div class="item-after header">Iphoneclan</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Size</div>
+<div class="item-after header">25.93 MB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Categories</div>
+<div class="item-after header">Paid and Other Apps</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Version</div>
+<div class="item-after header">5.10003</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Report App</div>
+<div class="item-after header"><a class="email" title="email" href="#" onclick="javascript:window.location='mailto:report@appvalley.vip?subject=App Not Working&body=This app is not working: ' + document.getElementById('#appName').innerHTML;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVEhL7VJNKERRFH6xICsLKXsbC+Tdp4RIWYosZq0oysrCzsLKxkYW5t5nYzWpScpGFihSVhZTGt65T5MFSooSkZ/xnTuMmfdG0wxLt77eO98557vnnHus/5M9kXi6UkhvwpE6BsR/A6Fo2XF1pxEWUi84Sqf/CkLSq5B+l4Wbrh1Fb4WCysQToCxjSDqC+E6Os3RIesAo1oErFBvLCBtQAm2M4f/wmysOofQL8lzkT8G+N3y+MBN0i5kPtUt/GM6TPF8Qkt65Qlv5zaF3CgkbEgmS5hoXqcpR/jiCLoMxENqzo9Rhq2QD7P2gv7BwFrRlzaYrhHtRA6GZTDd0DMEB3qa2Ja/JzLNQ7k/CvDJocYRF25XXw0KtK6lavog7sZXuM/uv9Fqh/B9H4URpFMk27CRzqGy1JerXC/es+4vjZOGe1sG3YexchIRZVNIkHNPAc8B3F9x3VJzi6tHhZi4fEsYs5xG0ncsVA4+N83DxbpbPF6YDVHDzbZcKSkD83PxnhEmbEYQCSwdX//mds5yoHsQDPAaDygVEPX5o3iSLFx1zGhKujvwGjuv1966kqo3o/8kcy/oAk4ZYv9esbNMAAAAASUVORK5CYII="></a></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</center>
+</div>
+</div>

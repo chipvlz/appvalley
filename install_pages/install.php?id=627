@@ -1,0 +1,110 @@
+<div class="page" data-name="install" data-id="627" data-app-name="Zen Brush 2">
+<div class="page-content">
+<center>
+<div class="content-block" style="width:100%;max-width:414px; text-align:left; margin-top:-16px; margin-bottom:0px;">
+<a href="#" class="back link"><i class="icon icon-back"></i><span> Back</span></a>
+<br><br>
+<div class="row">
+<div class="col-40">
+<img width="100%" style="border-radius:25%;" src="https://img.appvalley.vip/icon/627.png">
+</div>
+<div class="col-60">
+<h2 class="header" style="padding:0px;"><div id="#appName" style="overflow:hidden;">Zen Brush 2</div><br><div style="margin-top:-35px; font-size:18px;"><small style="color:#6d6d72;">P SOFTHOUSE Co., Ltd.</small></div></h2>
+<a href="itms-services://?action=download-manifest&url=https://appvalley.vip/app/plists/621/install.plist" class="col button button-fill button-round external install"  data-id="627" data-app-name="Zen Brush 2" style="background: #007AFF; color: #F0F1F6; font-weight:bold; width: 72px;">GET</a>
+</div>
+</div>
+</div>
+<div class="content-block" style="max-width:414px; text-align:left;">
+<h2 class="header">Preview</h2>
+<img style="border-radius:9px; max-width:414px;" src="https://img.appvalley.vip/screenshot/627.png" width="60%">
+<h2 class="header">Description</h2>Zen Brush 2 is a drawing app f<div class="desc" style="display: none;">ocused on the strong yet beautiful feel of the East Asian ink brush.<br />
+<br />
+With a new drawing engine that brings to life a feeling of silky fluent painting and the delicacy of an ink brush, providing a simple and intuitive user interface imbued with the Zen spirit, this app is designed to be optimal for performing Zen art.<br />
+<br />
+Simply start the app and you are immediately ready to draw. Anyone can create superb Zen art anywhere and at any time with this app’s uniquely rich expressiveness. You can publish your work to Facebook and Twitter with the "Share" and "Open in" functions. You can also share or edit your images by opening them in other apps such as Instagram, WhatsApp, LINE, Photoshop Mix, etc.<br />
+<br />
+- The next step in the evolution of the Zen Brush app which achieved more than 1.5 million downloads on all platforms combined.<br />
+- Includes a new brush engine providing an even stronger, beautiful expressiveness.<br />
+- Includes a gallery feature that makes it possible to save your work in progress.<br />
+- Includes red ink in addition to the black ink (*).<br />
+- Ink dispersion effect enables a three-dimensional feeling of depth.<br />
+<br />
+* Actual colors vary depending on the template.<br />
+<br />
+Features:<br />
+- 92 background style templates.<br />
+- Simple brush size adjustment with slider.<br />
+- Simple main tools: Ink brush, red brush, eraser brush.<br />
+- 3 levels of ink dispersion.<br />
+- 3 levels of ink tone.<br />
+- Canvas zoom (zoom in and out with pinch gestures).<br />
+- Guide lines (9 types).<br />
+- Undo / redo (5 levels).<br />
+- Save your work to the photo library.<br />
+- Open in other apps (Formats: JPEG, PNG, transparent PNG (no background)).<br />
+- Share artwork (Facebook, Twitter, etc.).<br />
+- Simulated finger pressure.<br />
+- Support for pressure sensitive styluses.<br />
+* Apple Pencil / Wacom Intuos / Adonit / Scriba / SonarPen<br />
+- Support for iPad Pro.<br />
+- Support for 3D Touch.<br />
+- Adjustable brush pressure sensitivity (5 levels).<br />
+- Adjustable tilt sensitivity (5 levels). <br />
+* Requires a pen that supports tilt.<br />
+- Supports multitasking (Slide Over / Split View).<br />
+- Support for iMessage App.</div>
+<p>
+<a href="#" onclick="if ($$('.desc').css('display') == 'none'){$$('.desc').css('display', 'inline'); this.innerHTML='Less...'} else {$$('.desc').css('display', 'none'); this.innerHTML='More...'}" class="">More...</a>
+</p>
+<br>
+<div id="ad_container"></div>
+<br>
+<h2 class="header">Information</h2>
+<div class="list-block inset" style="margin:0px;">
+<ul>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Seller</div>
+<div class="item-after header">P SOFTHOUSE Co., Ltd.</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Size</div>
+<div class="item-after header">46.33 MB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Categories</div>
+<div class="item-after header">Paid and Other Apps</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Version</div>
+<div class="item-after header">1.21</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Report App</div>
+<div class="item-after header"><a class="email" title="email" href="#" onclick="javascript:window.location='mailto:report@appvalley.vip?subject=App Not Working&body=This app is not working: ' + document.getElementById('#appName').innerHTML;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVEhL7VJNKERRFH6xICsLKXsbC+Tdp4RIWYosZq0oysrCzsLKxkYW5t5nYzWpScpGFihSVhZTGt65T5MFSooSkZ/xnTuMmfdG0wxLt77eO98557vnnHus/5M9kXi6UkhvwpE6BsR/A6Fo2XF1pxEWUi84Sqf/CkLSq5B+l4Wbrh1Fb4WCysQToCxjSDqC+E6Os3RIesAo1oErFBvLCBtQAm2M4f/wmysOofQL8lzkT8G+N3y+MBN0i5kPtUt/GM6TPF8Qkt65Qlv5zaF3CgkbEgmS5hoXqcpR/jiCLoMxENqzo9Rhq2QD7P2gv7BwFrRlzaYrhHtRA6GZTDd0DMEB3qa2Ja/JzLNQ7k/CvDJocYRF25XXw0KtK6lavog7sZXuM/uv9Fqh/B9H4URpFMk27CRzqGy1JerXC/es+4vjZOGe1sG3YexchIRZVNIkHNPAc8B3F9x3VJzi6tHhZi4fEsYs5xG0ncsVA4+N83DxbpbPF6YDVHDzbZcKSkD83PxnhEmbEYQCSwdX//mds5yoHsQDPAaDygVEPX5o3iSLFx1zGhKujvwGjuv1966kqo3o/8kcy/oAk4ZYv9esbNMAAAAASUVORK5CYII="></a></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</center>
+</div>
+</div>

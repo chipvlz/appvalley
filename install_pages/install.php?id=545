@@ -1,0 +1,105 @@
+<div class="page" data-name="install" data-id="545" data-app-name="Beholder">
+<div class="page-content">
+<center>
+<div class="content-block" style="width:100%;max-width:414px; text-align:left; margin-top:-16px; margin-bottom:0px;">
+<a href="#" class="back link"><i class="icon icon-back"></i><span> Back</span></a>
+<br><br>
+<div class="row">
+<div class="col-40">
+<img width="100%" style="border-radius:25%;" src="https://img.appvalley.vip/icon/545.png">
+</div>
+<div class="col-60">
+<h2 class="header" style="padding:0px;"><div id="#appName" style="overflow:hidden;">Beholder</div><br><div style="margin-top:-35px; font-size:18px;"><small style="color:#6d6d72;">Osauhing Creative Mobile</small></div></h2>
+<a href="itms-services://?action=download-manifest&url=https://appvalley.vip/app/plists/539/install.plist" class="col button button-fill button-round external install"  data-id="545" data-app-name="Beholder" style="background: #007AFF; color: #F0F1F6; font-weight:bold; width: 72px;">GET</a>
+</div>
+</div>
+</div>
+<div class="content-block" style="max-width:414px; text-align:left;">
+<h2 class="header">Preview</h2>
+<img style="border-radius:9px; max-width:414px;" src="https://img.appvalley.vip/screenshot/545.png" width="60%">
+<h2 class="header">Description</h2>Welcome to a grim dystopian fu<div class="desc" style="display: none;">ture.<br />
+<br />
+A totalitarian State controls every aspect of private and public life. Laws are oppressive. Surveillance is total. Privacy is dead. You are the State-installed manager of an apartment building. Your daily routine involves making the building a sweet spot for tenants, who will come and go.<br />
+<br />
+However, that is simply a facade that hides your real mission.<br />
+<br />
+The State has appointed you to SPY ON YOUR TENANTS! Your primary task is to covertly watch your tenants and eavesdrop on their conversations. You must BUG their apartments while they're away, SEARCH their belongings for whatever can threaten the authority of the State, and PROFILE them for your superiors. You must also REPORT anyone capable of violating the laws or plotting subversive activities against the State to the authorities.<br />
+<br />
+Beholder is all about making choices - choices that matter!<br />
+What will you do with the information you collect? Will you report the suspicious activities of a father and orphan his children? Or will you withhold the details about his illegal activities and give him a chance to make things right? You may also choose to blackmail him to acquire the money your family desperately needs.<br />
+<br />
+Features:<br />
+- You decide what happens: Every decision you make affects the way the story unfolds.<br />
+- People aren't just objects: Each character you meet will have a thoroughly developed personality with his or her own past and present. <br />
+- No decision is easy: If you are given the power to destroy the privacy of another person, should you? Or should you treat those on which you are spying the way they deserve? <br />
+- You don't know where you'll end up: "Beholder" is a game of multiple endings. <br />
+<br />
+"Blissful Sleep" additional story is already available!**<br />
+<br />
+The Ministry of Introductions is honored to introduce Hector, the ex-landlord succeeded by Carl Shteyn. The time has come to tell the stories of:<br />
+- the one who has fallen a victim to a horrifying mistake, and is now desperately seeking for salvation;<br />
+- the ones who broke the law to find happiness and are now facing the consequences;<br />
+- the one who risked his life for the State but has been left behind;<br />
+- the one who had everything but lost it all; <br />
+- the one who mews!<br />
+Return to Krushvice 6 and serve the State and Wise Leader well!<br />
+** Available through in-app purchase<br />
+<br />
+• 3D Touch. Force touch will open the characters interaction menu.<br />
+• iCloud. Synchronize your game across all your devices.<br />
+• iMessage Stickers. Owning Beholder gives access to free pack of stickers.</div>
+<p>
+<a href="#" onclick="if ($$('.desc').css('display') == 'none'){$$('.desc').css('display', 'inline'); this.innerHTML='Less...'} else {$$('.desc').css('display', 'none'); this.innerHTML='More...'}" class="">More...</a>
+</p>
+<br>
+<div id="ad_container"></div>
+<br>
+<h2 class="header">Information</h2>
+<div class="list-block inset" style="margin:0px;">
+<ul>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Seller</div>
+<div class="item-after header">Osauhing Creative Mobile</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Size</div>
+<div class="item-after header">352.23 MB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Categories</div>
+<div class="item-after header">Paid and Other Games</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Version</div>
+<div class="item-after header">2.3</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Report App</div>
+<div class="item-after header"><a class="email" title="email" href="#" onclick="javascript:window.location='mailto:report@appvalley.vip?subject=App Not Working&body=This app is not working: ' + document.getElementById('#appName').innerHTML;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVEhL7VJNKERRFH6xICsLKXsbC+Tdp4RIWYosZq0oysrCzsLKxkYW5t5nYzWpScpGFihSVhZTGt65T5MFSooSkZ/xnTuMmfdG0wxLt77eO98557vnnHus/5M9kXi6UkhvwpE6BsR/A6Fo2XF1pxEWUi84Sqf/CkLSq5B+l4Wbrh1Fb4WCysQToCxjSDqC+E6Os3RIesAo1oErFBvLCBtQAm2M4f/wmysOofQL8lzkT8G+N3y+MBN0i5kPtUt/GM6TPF8Qkt65Qlv5zaF3CgkbEgmS5hoXqcpR/jiCLoMxENqzo9Rhq2QD7P2gv7BwFrRlzaYrhHtRA6GZTDd0DMEB3qa2Ja/JzLNQ7k/CvDJocYRF25XXw0KtK6lavog7sZXuM/uv9Fqh/B9H4URpFMk27CRzqGy1JerXC/es+4vjZOGe1sG3YexchIRZVNIkHNPAc8B3F9x3VJzi6tHhZi4fEsYs5xG0ncsVA4+N83DxbpbPF6YDVHDzbZcKSkD83PxnhEmbEYQCSwdX//mds5yoHsQDPAaDygVEPX5o3iSLFx1zGhKujvwGjuv1966kqo3o/8kcy/oAk4ZYv9esbNMAAAAASUVORK5CYII="></a></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</center>
+</div>
+</div>

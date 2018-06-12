@@ -1,0 +1,102 @@
+<div class="page" data-name="install" data-id="575" data-app-name="SatFinder">
+<div class="page-content">
+<center>
+<div class="content-block" style="width:100%;max-width:414px; text-align:left; margin-top:-16px; margin-bottom:0px;">
+<a href="#" class="back link"><i class="icon icon-back"></i><span> Back</span></a>
+<br><br>
+<div class="row">
+<div class="col-40">
+<img width="100%" style="border-radius:25%;" src="https://img.appvalley.vip/icon/575.png">
+</div>
+<div class="col-60">
+<h2 class="header" style="padding:0px;"><div id="#appName" style="overflow:hidden;">SatFinder</div><br><div style="margin-top:-35px; font-size:18px;"><small style="color:#6d6d72;">Ralf Andrae</small></div></h2>
+<a href="itms-services://?action=download-manifest&url=https://appvalley.vip/app/plists/569/install.plist" class="col button button-fill button-round external install"  data-id="575" data-app-name="SatFinder" style="background: #007AFF; color: #F0F1F6; font-weight:bold; width: 72px;">GET</a>
+</div>
+</div>
+</div>
+<div class="content-block" style="max-width:414px; text-align:left;">
+<h2 class="header">Preview</h2>
+<img style="border-radius:9px; max-width:414px;" src="https://img.appvalley.vip/screenshot/575.png" width="60%">
+<h2 class="header">Description</h2>With SatFinder, you can set up<div class="desc" style="display: none;"> your satellite antenna quickly and easily in four simple steps:<br />
+<br />
+STEP 1 – SELECT YOUR ANTENNA<br />
+Select one of the three types of antennas:<br />
+- Offset antennas (the most common is slightly oval, the LNB is not in the middle) <br />
+- Flat or planar antenna (small camping antennas)<br />
+- Parabolic antenna or satellite dish (rare, typically larger than 100 cm)<br />
+If you have an offset antenna, enter the height and width of the antenna.<br />
+If you know the exact name of your antenna, check to see whether it is already in the database.<br />
+<br />
+STEP 2 – SELECT YOUR SATELLITE<br />
+The quickest and easiest way to find a suitable satellite is to press the “AUTO” button. The SatFinder will automatically seek satellites in your range and that broadcast TV channels or radio stations in your language (according to the language settings of your iPhone). The number of stars in the chart (1-10) stand for the number of radio stations and TV channels offered as well as the reception at your current location.<br />
+If you would like to find a specific satellite, simply shut off “AUTO”. Now you can browse through the table and choose a satellite. An even faster way is with the search function – just enter the name or orbit position of your satellite. You can also reduce the number of entries in the chart by hiding the satellites that are not available at your location or do not broadcast content in your language.<br />
+Tip: Using the “Channel info” button, you can check which channels the selected satellite is currently broadcasting – including all channel parameters for your satellite receiver.<br />
+<br />
+STEP 3 – CHECK FOR OBSTRUCTIONS<br />
+To ensure smooth reception, there should not be any obstructions between the satellite and your satellite antenna. You can check using the “View” function. Simply point at the satellite and watch for the signs (GREEN – no obstructions, RED – caution, clear view may not be possible).<br />
+<br />
+STEP 4 – ADJUST THE ANTENNA<br />
+In the menu item “Align”, different images will appear depending on the type of antenna selected. If you are using an offset antenna, you have to set the azimuth and the elevation separately. For planar and parabolic antennas, both angles can be adjusted at once. Before you press the “Start” button, a video clip will show you how to position your iPhone on the antenna.<br />
+<br />
+THAT’S IT. YOU SHOULD NOW BE ABLE TO ENJOY UNDISTURBED SATELLITE RECEPTION…<br />
+<br />
+FINE TUNING: (only iPhone 5s or newer) If necessary, you can further optimize your satellite system. SatFinder provides the “FineTuning” function for this purpose. To use this function, you need an additional iOS device. One device serves as a camera; the other as a monitor. Simply place one iPhone in front of the reception screen and watch how the picture quality changes while you slightly turn or tilt your satellite antenna. With the FineTuning function, you thus have visual contact with a television, even if it’s not within sight.<br />
+<br />
+SENSOR CALIBRATION: SatFinder (version 4.0 and higher) has a very efficient and highly accurate sensor calibration procedure. Whenever the sensors in your iOS device transmit implausible signals (such as those caused by vibrations or magnetic fields), the automatic sensor calibration is activated (the calibration screen will appear). Simply hold your device still and in a horizontal position in your hand and wait a few seconds until the calibration notice disappears.<br />
+<br />
+Note: The automatic sensor calibration is only available in iOS devices with Motion Coprocessor M9, M10, or newer. These coprocessors are currently used in the iPhone 6s, iPhone 6s Plus, iPhone 7, iPhone SE, iPad Pro 9.7, and iPad Pro 12.9.</div>
+<p>
+<a href="#" onclick="if ($$('.desc').css('display') == 'none'){$$('.desc').css('display', 'inline'); this.innerHTML='Less...'} else {$$('.desc').css('display', 'none'); this.innerHTML='More...'}" class="">More...</a>
+</p>
+<br>
+<div id="ad_container"></div>
+<br>
+<h2 class="header">Information</h2>
+<div class="list-block inset" style="margin:0px;">
+<ul>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Seller</div>
+<div class="item-after header">Ralf Andrae</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Size</div>
+<div class="item-after header">63.94 MB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Categories</div>
+<div class="item-after header">Paid and Other Apps</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Version</div>
+<div class="item-after header">4.2.1</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Report App</div>
+<div class="item-after header"><a class="email" title="email" href="#" onclick="javascript:window.location='mailto:report@appvalley.vip?subject=App Not Working&body=This app is not working: ' + document.getElementById('#appName').innerHTML;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVEhL7VJNKERRFH6xICsLKXsbC+Tdp4RIWYosZq0oysrCzsLKxkYW5t5nYzWpScpGFihSVhZTGt65T5MFSooSkZ/xnTuMmfdG0wxLt77eO98557vnnHus/5M9kXi6UkhvwpE6BsR/A6Fo2XF1pxEWUi84Sqf/CkLSq5B+l4Wbrh1Fb4WCysQToCxjSDqC+E6Os3RIesAo1oErFBvLCBtQAm2M4f/wmysOofQL8lzkT8G+N3y+MBN0i5kPtUt/GM6TPF8Qkt65Qlv5zaF3CgkbEgmS5hoXqcpR/jiCLoMxENqzo9Rhq2QD7P2gv7BwFrRlzaYrhHtRA6GZTDd0DMEB3qa2Ja/JzLNQ7k/CvDJocYRF25XXw0KtK6lavog7sZXuM/uv9Fqh/B9H4URpFMk27CRzqGy1JerXC/es+4vjZOGe1sG3YexchIRZVNIkHNPAc8B3F9x3VJzi6tHhZi4fEsYs5xG0ncsVA4+N83DxbpbPF6YDVHDzbZcKSkD83PxnhEmbEYQCSwdX//mds5yoHsQDPAaDygVEPX5o3iSLFx1zGhKujvwGjuv1966kqo3o/8kcy/oAk4ZYv9esbNMAAAAASUVORK5CYII="></a></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</center>
+</div>
+</div>

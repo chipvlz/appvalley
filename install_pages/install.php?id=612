@@ -1,0 +1,107 @@
+<div class="page" data-name="install" data-id="612" data-app-name="Sygic Europe & Russia">
+<div class="page-content">
+<center>
+<div class="content-block" style="width:100%;max-width:414px; text-align:left; margin-top:-16px; margin-bottom:0px;">
+<a href="#" class="back link"><i class="icon icon-back"></i><span> Back</span></a>
+<br><br>
+<div class="row">
+<div class="col-40">
+<img width="100%" style="border-radius:25%;" src="https://img.appvalley.vip/icon/612.png">
+</div>
+<div class="col-60">
+<h2 class="header" style="padding:0px;"><div id="#appName" style="overflow:hidden;">Sygic Europe & Russia</div><br><div style="margin-top:-35px; font-size:18px;"><small style="color:#6d6d72;">Sygic</small></div></h2>
+<a href="itms-services://?action=download-manifest&url=https://appvalley.vip/app/plists/606/install.plist" class="col button button-fill button-round external install"  data-id="612" data-app-name="Sygic Europe & Russia" style="background: #007AFF; color: #F0F1F6; font-weight:bold; width: 72px;">GET</a>
+</div>
+</div>
+</div>
+<div class="content-block" style="max-width:414px; text-align:left;">
+<h2 class="header">Preview</h2>
+<img style="border-radius:9px; max-width:414px;" src="https://img.appvalley.vip/screenshot/612.png" width="60%">
+<h2 class="header">Description</h2>The World’s Most Advanced Na<div class="desc" style="display: none;">vigation app, trusted by 200 million drivers.<br />
+Sygic: GPS Navigation, Maps, Traffic, Speed Cameras<br />
+Whether you are travelling, commuting to work, or driving professionally Sygic GPS Navigation & Maps is your one map for everything.<br />
+_______________________________________ <br />
+FEATURES <br />
+• High quality TomTom* maps stored on your device<br />
+• Voice guided navigation with spoken street names (TTS)<br />
+• Offline navigation without internet connection<br />
+• Free map updates multiple times per year<br />
+• Live Traffic service finds faster route, avoids traffic jams<br />
+• Mobile speed camera / radar warnings<br />
+• Head-up Display (HUD) projects GPS navigation onto your windshield <br />
+• Dynamic Lane Guidance & Junction View for safe lane changes<br />
+• Parking suggestions with info about availability & price<br />
+• Find cheapest gas based on your gas type<br />
+• Safety warnings about sharp turns and railway crossings<br />
+• Speed Limit warnings on map <br />
+• Fixed speed camera warnings<br />
+• Alternative Routes & Multiple waypoints on route<br />
+• Address/GPS coordinates entry by copy & paste<br />
+• Avoid Toll Roads in one country or entire route<br />
+• Pedestrian Navigation & Tourist attractions<br />
+• Millions of points of interest (POI)<br />
+• Car Audio Integration – Bluetooth or cable<br />
+• Dashcam that records even while you are navigating<br />
+_______________________________________<br />
+Europe Countries included: Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech republic, Denmark, Estonia, Finland, France, Germany, Gibraltar, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, Norway, Poland, Portugal, Romania, Russian Federation, San Marino, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, Ukraine, United Kingdom, Vatican City State (Holy See)<br />
+Transit roads only: Albania, Belarus, Bosnia and Herzegovina, The Former Yugoslav Republic of Macedonia<br />
+<br />
+Please note that some features may not be available in all territories. Maps from TomTom and other providers.<br />
+Need help? Please visit sygic.com/support we are here for you 7 days a week.<br />
+If you love our app, please leave a review. You will let others know how the app is, motivate our developers and help us improve our work. Thank you for your support.<br />
+Note: Continued use of GPS running in the background can dramatically decrease battery life. Sharing videos from Dashcam is forbidden by law in following countries: Austria, Belgium, Luxembourg, Switzerland, Slovakia, Spain.</div>
+<p>
+<a href="#" onclick="if ($$('.desc').css('display') == 'none'){$$('.desc').css('display', 'inline'); this.innerHTML='Less...'} else {$$('.desc').css('display', 'none'); this.innerHTML='More...'}" class="">More...</a>
+</p>
+<br>
+<div id="ad_container"></div>
+<br>
+<h2 class="header">Information</h2>
+<div class="list-block inset" style="margin:0px;">
+<ul>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Seller</div>
+<div class="item-after header">Sygic</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Size</div>
+<div class="item-after header">35.2 MB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Categories</div>
+<div class="item-after header">Paid and Other Apps</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Version</div>
+<div class="item-after header">17.3.0</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Report App</div>
+<div class="item-after header"><a class="email" title="email" href="#" onclick="javascript:window.location='mailto:report@appvalley.vip?subject=App Not Working&body=This app is not working: ' + document.getElementById('#appName').innerHTML;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVEhL7VJNKERRFH6xICsLKXsbC+Tdp4RIWYosZq0oysrCzsLKxkYW5t5nYzWpScpGFihSVhZTGt65T5MFSooSkZ/xnTuMmfdG0wxLt77eO98557vnnHus/5M9kXi6UkhvwpE6BsR/A6Fo2XF1pxEWUi84Sqf/CkLSq5B+l4Wbrh1Fb4WCysQToCxjSDqC+E6Os3RIesAo1oErFBvLCBtQAm2M4f/wmysOofQL8lzkT8G+N3y+MBN0i5kPtUt/GM6TPF8Qkt65Qlv5zaF3CgkbEgmS5hoXqcpR/jiCLoMxENqzo9Rhq2QD7P2gv7BwFrRlzaYrhHtRA6GZTDd0DMEB3qa2Ja/JzLNQ7k/CvDJocYRF25XXw0KtK6lavog7sZXuM/uv9Fqh/B9H4URpFMk27CRzqGy1JerXC/es+4vjZOGe1sG3YexchIRZVNIkHNPAc8B3F9x3VJzi6tHhZi4fEsYs5xG0ncsVA4+N83DxbpbPF6YDVHDzbZcKSkD83PxnhEmbEYQCSwdX//mds5yoHsQDPAaDygVEPX5o3iSLFx1zGhKujvwGjuv1966kqo3o/8kcy/oAk4ZYv9esbNMAAAAASUVORK5CYII="></a></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</center>
+</div>
+</div>

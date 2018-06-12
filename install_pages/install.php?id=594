@@ -1,0 +1,103 @@
+<div class="page" data-name="install" data-id="594" data-app-name="Toca Dance">
+<div class="page-content">
+<center>
+<div class="content-block" style="width:100%;max-width:414px; text-align:left; margin-top:-16px; margin-bottom:0px;">
+<a href="#" class="back link"><i class="icon icon-back"></i><span> Back</span></a>
+<br><br>
+<div class="row">
+<div class="col-40">
+<img width="100%" style="border-radius:25%;" src="https://img.appvalley.vip/icon/594.png">
+</div>
+<div class="col-60">
+<h2 class="header" style="padding:0px;"><div id="#appName" style="overflow:hidden;">Toca Dance</div><br><div style="margin-top:-35px; font-size:18px;"><small style="color:#6d6d72;">Toca Boca AB</small></div></h2>
+<a href="itms-services://?action=download-manifest&url=https://appvalley.vip/app/plists/588/install.plist" class="col button button-fill button-round external install"  data-id="594" data-app-name="Toca Dance" style="background: #007AFF; color: #F0F1F6; font-weight:bold; width: 72px;">GET</a>
+</div>
+</div>
+</div>
+<div class="content-block" style="max-width:414px; text-align:left;">
+<h2 class="header">Preview</h2>
+<img style="border-radius:9px; max-width:414px;" src="https://img.appvalley.vip/screenshot/594.png" width="60%">
+<h2 class="header">Description</h2>Start warming up - it's time f<div class="desc" style="display: none;">or Toca Dance!<br />
+<br />
+Whether you’re a dance master or you have two left feet, with Toca Dance you’re a star choreographer ready to create routines for your dancers! In this full version of Toca Dance you get more characters, more costumes, more songs and more fun! <br />
+<br />
+Choose your dancers to form your team, then dress them for their performance. Teach them the moves by swiping your fingers. Set the stage using special effects and watch it all unfold. Record your music video so you can share it with your friends! Start warming up — it’s time for Toca Dance! <br />
+<br />
+CHOOSE YOUR DANCERS & COSTUMES<br />
+There are 10 eager dancers, but only three will make your team. Choose your dance stars and send them to wardrobe! Customize your dancers’ looks with 80 items: spandex suits, silly costumes, hats, glasses and more! For an eye-catching look, try on the neon suits and watch your dancers glow!<br />
+<br />
+REHEARSE YOUR DANCE<br />
+Select the perfect song and teach your dancers their moves with the swipe of your finger. When you’ve finished your routine, send your team to the stage to perform.<br />
+<br />
+SET THE STAGE<br />
+Pick a cool backdrop, adjust your lighting and add special effects like pyrotechnics, confetti and raining money. You can even dance in the dark — the better to see your neon glow! Check out the items you can throw: roses, tomatoes, shoes and a few unexpected surprises.<br />
+<br />
+RECORD YOUR MUSIC VIDEO<br />
+When you’re ready to start the show, press play! Record your own music video to remember your stellar routine. Want an encore performance? Save it to your camera roll and show it off to your family and friends.<br />
+<br />
+FEATURES<br />
+- Choose from 10 quirky characters.<br />
+- Try on outfits with different themes: glowing neon, sparkles, superheroes, animals and more!<br />
+- Experiment with special effects and lighting: Turn the lights down so your neon will really glow!<br />
+- Dance to eight soundtracks.<br />
+- Make your own music video!<br />
+- Fun original graphics<br />
+- Open gameplay with no rules or stress<br />
+- Kid-friendly interface<br />
+- No third-party advertising<br />
+- No in-app purchases</div>
+<p>
+<a href="#" onclick="if ($$('.desc').css('display') == 'none'){$$('.desc').css('display', 'inline'); this.innerHTML='Less...'} else {$$('.desc').css('display', 'none'); this.innerHTML='More...'}" class="">More...</a>
+</p>
+<br>
+<div id="ad_container"></div>
+<br>
+<h2 class="header">Information</h2>
+<div class="list-block inset" style="margin:0px;">
+<ul>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Seller</div>
+<div class="item-after header">Toca Boca AB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Size</div>
+<div class="item-after header">70.63 MB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Categories</div>
+<div class="item-after header">Paid and Other Apps</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Version</div>
+<div class="item-after header">1.1.1</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Report App</div>
+<div class="item-after header"><a class="email" title="email" href="#" onclick="javascript:window.location='mailto:report@appvalley.vip?subject=App Not Working&body=This app is not working: ' + document.getElementById('#appName').innerHTML;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVEhL7VJNKERRFH6xICsLKXsbC+Tdp4RIWYosZq0oysrCzsLKxkYW5t5nYzWpScpGFihSVhZTGt65T5MFSooSkZ/xnTuMmfdG0wxLt77eO98557vnnHus/5M9kXi6UkhvwpE6BsR/A6Fo2XF1pxEWUi84Sqf/CkLSq5B+l4Wbrh1Fb4WCysQToCxjSDqC+E6Os3RIesAo1oErFBvLCBtQAm2M4f/wmysOofQL8lzkT8G+N3y+MBN0i5kPtUt/GM6TPF8Qkt65Qlv5zaF3CgkbEgmS5hoXqcpR/jiCLoMxENqzo9Rhq2QD7P2gv7BwFrRlzaYrhHtRA6GZTDd0DMEB3qa2Ja/JzLNQ7k/CvDJocYRF25XXw0KtK6lavog7sZXuM/uv9Fqh/B9H4URpFMk27CRzqGy1JerXC/es+4vjZOGe1sG3YexchIRZVNIkHNPAc8B3F9x3VJzi6tHhZi4fEsYs5xG0ncsVA4+N83DxbpbPF6YDVHDzbZcKSkD83PxnhEmbEYQCSwdX//mds5yoHsQDPAaDygVEPX5o3iSLFx1zGhKujvwGjuv1966kqo3o/8kcy/oAk4ZYv9esbNMAAAAASUVORK5CYII="></a></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</center>
+</div>
+</div>

@@ -1,0 +1,90 @@
+<div class="page" data-name="install" data-id="579" data-app-name="Never Alone: Ki Edition">
+<div class="page-content">
+<center>
+<div class="content-block" style="width:100%;max-width:414px; text-align:left; margin-top:-16px; margin-bottom:0px;">
+<a href="#" class="back link"><i class="icon icon-back"></i><span> Back</span></a>
+<br><br>
+<div class="row">
+<div class="col-40">
+<img width="100%" style="border-radius:25%;" src="https://img.appvalley.vip/icon/579.png">
+</div>
+<div class="col-60">
+<h2 class="header" style="padding:0px;"><div id="#appName" style="overflow:hidden;">Never Alone: Ki Edition</div><br><div style="margin-top:-35px; font-size:18px;"><small style="color:#6d6d72;">E-Line Ventures</small></div></h2>
+<a href="itms-services://?action=download-manifest&url=https://appvalley.vip/app/plists/573/install.plist" class="col button button-fill button-round external install"  data-id="579" data-app-name="Never Alone: Ki Edition" style="background: #007AFF; color: #F0F1F6; font-weight:bold; width: 72px;">GET</a>
+</div>
+</div>
+</div>
+<div class="content-block" style="max-width:414px; text-align:left;">
+<h2 class="header">Preview</h2>
+<img style="border-radius:9px; max-width:414px;" src="https://img.appvalley.vip/screenshot/579.png" width="60%">
+<h2 class="header">Description</h2>“Ki” is the Iñupiaq word <div class="desc" style="display: none;">for “Let’s Go!”, and now you can play the award-winning indie hit on the go with Never Alone: Ki Edition.<br />
+You'll explore awe-inspiring environments, perform heroic deeds and meet legendary characters from Iñupiaq stories — all narrated by a master storyteller in the spoken Iñupiaq language.<br />
+<br />
+Features<br />
+<br />
+Reimagined for mobile -- Never Alone: Ki Edition includes every level and all the excitement of the original game enjoyed by millions of PC and console players around the world. We’ve updated the game for mobile devices, adding brand-new touch controls, menus and hints along with optimized graphics and AI that bring the beauty of Never Alone’s ethereal, arctic environments to phones and tablets.<br />
+<br />
+Play as both Nuna and Fox — switch between the two companions at any time as you rely on the unique skills of each character to succeed in your quest. Nuna can climb ladders and ropes, move heavy obstacles, and throw her bola at targets to solve puzzles. Fox can fit through small areas that Nuna can't reach, scramble up walls, and jump to great heights. <br />
+<br />
+Explore the harsh world of the Arctic — run under, through, and atop the unstable structures of an abandoned coastal village. Explore the eerily quiet treetops of a mysterious, frozen forest. Brave the fierce winds of the eternal blizzard. Only with the aid of Helping Spirits will Nuna and Fox have any chance of survival in a land where survival seems impossible. <br />
+<br />
+Unlock fascinating video insights — Elders, storytellers, and other members of the Alaska Native community share stories and wisdom about their culture, values and the amazing Arctic world encountered by players in over 30 minutes of interviews.<br />
+<br />
+Customizable controls — Adjust the sensitivity or select an alternate layout for the game’s onscreen controls. For those who prefer a physical controller, the game also supports MFi devices.<br />
+<br />
+Support for 17 languages — Chinese (Simplified), Danish, Dutch, English, Finnish, French, German, Italian, Japanese, Korean, Norwegian, Polish, Portuguese (Brazil), Russian, Spanish (European/Latin America) and Swedish.</div>
+<p>
+<a href="#" onclick="if ($$('.desc').css('display') == 'none'){$$('.desc').css('display', 'inline'); this.innerHTML='Less...'} else {$$('.desc').css('display', 'none'); this.innerHTML='More...'}" class="">More...</a>
+</p>
+<br>
+<div id="ad_container"></div>
+<br>
+<h2 class="header">Information</h2>
+ <div class="list-block inset" style="margin:0px;">
+<ul>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Seller</div>
+<div class="item-after header">E-Line Ventures</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Size</div>
+<div class="item-after header">322.24 MB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Categories</div>
+<div class="item-after header">Paid and Other Games</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Version</div>
+<div class="item-after header">1.1.30713</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Report App</div>
+<div class="item-after header"><a class="email" title="email" href="#" onclick="javascript:window.location='mailto:report@appvalley.vip?subject=App Not Working&body=This app is not working: ' + document.getElementById('#appName').innerHTML;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVEhL7VJNKERRFH6xICsLKXsbC+Tdp4RIWYosZq0oysrCzsLKxkYW5t5nYzWpScpGFihSVhZTGt65T5MFSooSkZ/xnTuMmfdG0wxLt77eO98557vnnHus/5M9kXi6UkhvwpE6BsR/A6Fo2XF1pxEWUi84Sqf/CkLSq5B+l4Wbrh1Fb4WCysQToCxjSDqC+E6Os3RIesAo1oErFBvLCBtQAm2M4f/wmysOofQL8lzkT8G+N3y+MBN0i5kPtUt/GM6TPF8Qkt65Qlv5zaF3CgkbEgmS5hoXqcpR/jiCLoMxENqzo9Rhq2QD7P2gv7BwFrRlzaYrhHtRA6GZTDd0DMEB3qa2Ja/JzLNQ7k/CvDJocYRF25XXw0KtK6lavog7sZXuM/uv9Fqh/B9H4URpFMk27CRzqGy1JerXC/es+4vjZOGe1sG3YexchIRZVNIkHNPAc8B3F9x3VJzi6tHhZi4fEsYs5xG0ncsVA4+N83DxbpbPF6YDVHDzbZcKSkD83PxnhEmbEYQCSwdX//mds5yoHsQDPAaDygVEPX5o3iSLFx1zGhKujvwGjuv1966kqo3o/8kcy/oAk4ZYv9esbNMAAAAASUVORK5CYII="></a></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</center>
+</div>
+</div>

@@ -1,0 +1,97 @@
+<div class="page" data-name="install" data-id="614" data-app-name="Touchgrind Skate 2">
+<div class="page-content">
+<center>
+<div class="content-block" style="width:100%;max-width:414px; text-align:left; margin-top:-16px; margin-bottom:0px;">
+<a href="#" class="back link"><i class="icon icon-back"></i><span> Back</span></a>
+<br><br>
+<div class="row">
+<div class="col-40">
+<img width="100%" style="border-radius:25%;" src="https://img.appvalley.vip/icon/614.png">
+</div>
+<div class="col-60">
+<h2 class="header" style="padding:0px;"><div id="#appName" style="overflow:hidden;">Touchgrind Skate 2</div><br><div style="margin-top:-35px; font-size:18px;"><small style="color:#6d6d72;">Illusion Labs AB</small></div></h2>
+<a href="itms-services://?action=download-manifest&url=https://appvalley.vip/app/plists/608/install.plist" class="col button button-fill button-round external install"  data-id="614" data-app-name="Touchgrind Skate 2" style="background: #007AFF; color: #F0F1F6; font-weight:bold; width: 72px;">GET</a>
+</div>
+</div>
+</div>
+<div class="content-block" style="max-width:414px; text-align:left;">
+<h2 class="header">Preview</h2>
+<img style="border-radius:9px; max-width:414px;" src="https://img.appvalley.vip/screenshot/614.png" width="60%">
+<h2 class="header">Description</h2>Skate like a pro in the most r<div class="desc" style="display: none;">ealistic multi-touch skateboarding game ever!<br />
+<br />
+Just like in real skateboarding or fingerboarding, Touchgrind Skate 2 is a game of skill that takes 10 minutes to understand but a lifetime to master. Learn the tricks, complete challenges, and unlock new skateboard parts.<br />
+<br />
+Get the highest score in time-limited Competition mode, rip freely and complete challenges in Jam Session mode, challenge your friends in the turn-based multiplayer Game of S.K.A.T.E or export video clips and show off your best lines.<br />
+<br />
+True innovative finger controls together with real physics simulation let you pull off tricks like ollies, pop shuvits, kickflips, heelflips, impossibles, powerslides, lip tricks, stalls, drops, 5-0’s, 50-50’s, crooks, tailslides, bluntslides, darkslides etc in endless combinations, or why not do them in nollie, fakie or switch? - Only your skill and imagination set the limit!<br />
+<br />
+Get a maximized experience with a real skateboarding feeling - Skate like in real life on your iOS device!<br />
+<br />
+FEATURES<br />
+- Realistic physics and stunning 3D graphics<br />
+- 4 free roam game modes: Training, Competition, Jam Session, Game of S.K.A.T.E turn-based multiplayer<br />
+- Tutorial videos - watch and try yourself!<br />
+- Natural multi-touch controls, evolved from Touchgrind and Touchgrind BMX<br />
+- Tilted camera view, similar to Touchgrind BMX<br />
+- Three different skateparks with bowls, ramps, curbs, boxes and over 2.000 meters of rails<br />
+- Complete the 100 challenges to unlock all skateparks, game modes, decks, wheels, grip tapes and stickers<br />
+- Record your runs and create replay videos to impress your friends<br />
+- True skating experience <br />
+- Game Center achievements and leaderboards<br />
+- Trick name detection<br />
+- Advanced OpenGL ES 3.0 effects</div>
+<p>
+<a href="#" onclick="if ($$('.desc').css('display') == 'none'){$$('.desc').css('display', 'inline'); this.innerHTML='Less...'} else {$$('.desc').css('display', 'none'); this.innerHTML='More...'}" class="">More...</a>
+</p>
+<br>
+<div id="ad_container"></div>
+<br>
+<h2 class="header">Information</h2>
+<div class="list-block inset" style="margin:0px;">
+<ul>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Seller</div>
+<div class="item-after header">Illusion Labs AB</div>
+</div>
+</div>
+</li>
+ <li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Size</div>
+<div class="item-after header">111.58 MB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Categories</div>
+<div class="item-after header">Paid and Other Games</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Version</div>
+<div class="item-after header">1.5</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Report App</div>
+<div class="item-after header"><a class="email" title="email" href="#" onclick="javascript:window.location='mailto:report@appvalley.vip?subject=App Not Working&body=This app is not working: ' + document.getElementById('#appName').innerHTML;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVEhL7VJNKERRFH6xICsLKXsbC+Tdp4RIWYosZq0oysrCzsLKxkYW5t5nYzWpScpGFihSVhZTGt65T5MFSooSkZ/xnTuMmfdG0wxLt77eO98557vnnHus/5M9kXi6UkhvwpE6BsR/A6Fo2XF1pxEWUi84Sqf/CkLSq5B+l4Wbrh1Fb4WCysQToCxjSDqC+E6Os3RIesAo1oErFBvLCBtQAm2M4f/wmysOofQL8lzkT8G+N3y+MBN0i5kPtUt/GM6TPF8Qkt65Qlv5zaF3CgkbEgmS5hoXqcpR/jiCLoMxENqzo9Rhq2QD7P2gv7BwFrRlzaYrhHtRA6GZTDd0DMEB3qa2Ja/JzLNQ7k/CvDJocYRF25XXw0KtK6lavog7sZXuM/uv9Fqh/B9H4URpFMk27CRzqGy1JerXC/es+4vjZOGe1sG3YexchIRZVNIkHNPAc8B3F9x3VJzi6tHhZi4fEsYs5xG0ncsVA4+N83DxbpbPF6YDVHDzbZcKSkD83PxnhEmbEYQCSwdX//mds5yoHsQDPAaDygVEPX5o3iSLFx1zGhKujvwGjuv1966kqo3o/8kcy/oAk4ZYv9esbNMAAAAASUVORK5CYII="></a></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</center>
+</div>
+</div>

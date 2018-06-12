@@ -1,0 +1,145 @@
+<div class="page" data-name="install" data-id="533" data-app-name="Cancer Staging Calculator TNM8">
+<div class="page-content">
+<center>
+<div class="content-block" style="width:100%;max-width:414px; text-align:left; margin-top:-16px; margin-bottom:0px;">
+<a href="#" class="back link"><i class="icon icon-back"></i><span> Back</span></a>
+<br><br>
+<div class="row">
+<div class="col-40">
+<img width="100%" style="border-radius:25%;" src="https://img.appvalley.vip/icon/533.png">
+</div>
+<div class="col-60">
+<h2 class="header" style="padding:0px;"><div id="#appName" style="overflow:hidden;">Cancer Staging Calculator TNM8</div><br><div style="margin-top:-35px; font-size:18px;"><small style="color:#6d6d72;">Integrated Cancer Research Limited</small></div></h2>
+<a href="itms-services://?action=download-manifest&url=https://appvalley.vip/app/plists/527/install.plist" class="col button button-fill button-round external install"  data-id="533" data-app-name="Cancer Staging Calculator TNM8" style="background: #007AFF; color: #F0F1F6; font-weight:bold; width: 72px;">GET</a>
+</div>
+</div>
+</div>
+<div class="content-block" style="max-width:414px; text-align:left;">
+<h2 class="header">Preview</h2>
+<img style="border-radius:9px; max-width:414px;" src="https://img.appvalley.vip/screenshot/533.png" width="60%">
+<h2 class="header">Description</h2>Perfect for physicians, surgeo<div class="desc" style="display: none;">ns, radiologists, physician assistants, nurses, medical students, trial managers, research and any healthcare professional in the field of oncology.<br />
+<br />
+Designed by cancer specialists for cancer specialists.<br />
+<br />
+Includes the following cancer types:<br />
+● Adrenal Cortical Carcinoma<br />
+● Ampulla of Vater<br />
+● Anus<br />
+● Appendix<br />
+● Bone<br />
+● Breast Cancer<br />
+● Cervix<br />
+● Colon & Rectum<br />
+● Corpus Uteri - Carcinoma & Carcinosarcoma<br />
+● Corpus Uteri - Sarcoma<br />
+● Distal Bile Ducts<br />
+● Esophagus & Esophagogastric Junction<br />
+● Eyelid Carcinoma<br />
+● Gallbladder<br />
+● Gastrointestinal Stromal Tumour<br />
+● Intraphepatic Bile Ducts<br />
+● Kidney<br />
+● Larynx (Subglottis, Glottis, Supraglottis)<br />
+● Lip & Oral Cavity<br />
+● Liver <br />
+● Lung Cancer<br />
+● Major Salivary Glands<br />
+● Malignant Pleural Mesothelioma<br />
+● Melanoma (Skin Cancer)<br />
+● Merkel Cell Carcinoma (Skin Cancer)<br />
+● Mucosal Melanoma of the Head and Neck<br />
+● Nasal Cavity<br />
+● Nasopharynx<br />
+● Neuroendocrine Tumour of the Appendix<br />
+● Neuroendocrine Tumour of the Colon and Rectum<br />
+● Neuroendocrine Tumour of the Duodenum and Ampulla of Vater<br />
+● Neuroendocrine Tumour of the Jejunum and Ilum<br />
+● Neuroendocrine Tumour of the Pancreas<br />
+● Neuroendocrine Tumour of the Stomach<br />
+● Neuroendocrine Tumour - Adrenal<br />
+● Oropharyngeal Cancer HPV-Mediated (p16+)<br />
+● Oropharyngeal Cancer (p16-)<br />
+● Ovary, Fallopain Tube and Primary Peritoneal Carcinoma<br />
+● Pancreas (Pancreatic Cancer)<br />
+● Parathyroid<br />
+● Penis<br />
+● Perihilar Bile Ducts<br />
+● Primary Cutaneous Lymphoma (MF/SS)<br />
+● Prostate Cancer<br />
+● Renal Pelivs and Ureter<br />
+● Retinoblastoma<br />
+● Small Intestine<br />
+● Soft Tissue Sarcoma of the Retroperitoneum<br />
+● Soft Tissue Sarcoma of Trunk and Extremeties<br />
+● Squamous Cell (Head & Neck)<br />
+● Stomach<br />
+● Testis (Testicular Cancer)<br />
+● Thymus<br />
+● Thyroid - Carcinoma<br />
+● Thyroid - Medullary<br />
+● Urethra<br />
+● Urinary Bladder<br />
+● Uveal Melanoma<br />
+● Vagina<br />
+● Vulva<br />
+<br />
+With the permission of the American Joint Committee on Cancer (AJCC)<br />
+<br />
+Overall stages derived from the AJCC Cancer Staging Manual - Eighth Edition. <br />
+<br />
+©App is copyright of Integrated Cancer Research Limited. Definitions is copyright by the AJCC.</div>
+<p>
+<a href="#" onclick="if ($$('.desc').css('display') == 'none'){$$('.desc').css('display', 'inline'); this.innerHTML='Less...'} else {$$('.desc').css('display', 'none'); this.innerHTML='More...'}" class="">More...</a>
+</p>
+<br>
+<div id="ad_container"></div>
+<br>
+<h2 class="header">Information</h2>
+<div class="list-block inset" style="margin:0px;">
+<ul>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Seller</div>
+<div class="item-after header">Integrated Cancer Research Limited</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Size</div>
+<div class="item-after header">8.69 MB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Categories</div>
+<div class="item-after header">Paid and Other Apps</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Version</div>
+<div class="item-after header">16</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Report App</div>
+<div class="item-after header"><a class="email" title="email" href="#" onclick="javascript:window.location='mailto:report@appvalley.vip?subject=App Not Working&body=This app is not working: ' + document.getElementById('#appName').innerHTML;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVEhL7VJNKERRFH6xICsLKXsbC+Tdp4RIWYosZq0oysrCzsLKxkYW5t5nYzWpScpGFihSVhZTGt65T5MFSooSkZ/xnTuMmfdG0wxLt77eO98557vnnHus/5M9kXi6UkhvwpE6BsR/A6Fo2XF1pxEWUi84Sqf/CkLSq5B+l4Wbrh1Fb4WCysQToCxjSDqC+E6Os3RIesAo1oErFBvLCBtQAm2M4f/wmysOofQL8lzkT8G+N3y+MBN0i5kPtUt/GM6TPF8Qkt65Qlv5zaF3CgkbEgmS5hoXqcpR/jiCLoMxENqzo9Rhq2QD7P2gv7BwFrRlzaYrhHtRA6GZTDd0DMEB3qa2Ja/JzLNQ7k/CvDJocYRF25XXw0KtK6lavog7sZXuM/uv9Fqh/B9H4URpFMk27CRzqGy1JerXC/es+4vjZOGe1sG3YexchIRZVNIkHNPAc8B3F9x3VJzi6tHhZi4fEsYs5xG0ncsVA4+N83DxbpbPF6YDVHDzbZcKSkD83PxnhEmbEYQCSwdX//mds5yoHsQDPAaDygVEPX5o3iSLFx1zGhKujvwGjuv1966kqo3o/8kcy/oAk4ZYv9esbNMAAAAASUVORK5CYII="></a></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</center>
+</div>
+</div>

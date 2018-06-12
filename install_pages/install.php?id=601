@@ -1,0 +1,155 @@
+<div class="page" data-name="install" data-id="601" data-app-name="SomaFM Radio Player">
+<div class="page-content">
+<center>
+<div class="content-block" style="width:100%;max-width:414px; text-align:left; margin-top:-16px; margin-bottom:0px;">
+<a href="#" class="back link"><i class="icon icon-back"></i><span> Back</span></a>
+<br><br>
+<div class="row">
+<div class="col-40">
+<img width="100%" style="border-radius:25%;" src="https://img.appvalley.vip/icon/601.png">
+</div>
+<div class="col-60">
+<h2 class="header" style="padding:0px;"><div id="#appName" style="overflow:hidden;">SomaFM Radio Player</div><br><div style="margin-top:-35px; font-size:18px;"><small style="color:#6d6d72;">SomaFM.com, LLC</small></div></h2>
+<a href="itms-services://?action=download-manifest&url=https://appvalley.vip/app/plists/595/install.plist" class="col button button-fill button-round external install"  data-id="601" data-app-name="SomaFM Radio Player" style="background: #007AFF; color: #F0F1F6; font-weight:bold; width: 72px;">GET</a>
+</div>
+</div>
+</div>
+<div class="content-block" style="max-width:414px; text-align:left;">
+<h2 class="header">Preview</h2>
+<img style="border-radius:9px; max-width:414px;" src="https://img.appvalley.vip/screenshot/601.png" width="60%">
+<h2 class="header">Description</h2>SomaFM's official app, giving <div class="desc" style="display: none;">you access to over 30 year-round channels of listener-supported, commercial-free, underground/alternative radio, with all music hand-picked our award-winning DJs and music directors.<br />
+<br />
+Lifehacker.com calls SomaFM one of the "Five Best Internet Radio Services" and says "completely user and listener-supported, which means no ads or commercials during your broadcasts, and the channels and programs aired at SomaFM are rarely heard anywhere else."<br />
+<br />
+Features include:<br />
+<br />
+- No registration required; no additional purchases required!<br />
+<br />
+- View stations by Popularity, Genre or your favorites<br />
+<br />
+- Shows name and artist of currently playing song and history of songs played.<br />
+<br />
+- Bookmark, Share title and search iTunes for the playing song<br />
+<br />
+- Background streaming: use other apps while listening.<br />
+<br />
+- Stream to AppleTV & Airplay devices; Qualcomm® AllPlay™ compatible speakers; Chromecast<br />
+<br />
+- Integration with many car stereo units via Dock Connector or Bluetooth<br />
+<br />
+- Remote control: Pause and restart playing as well as skip between favorite channels from your headphone remote, lock screen controls.<br />
+<br />
+- High and low bandwidth streaming: 128k MP3 and 64-80kb AAC-HE (high); great-sounding 32kb AAC-HE and good-quality 40kb MP3 (low).<br />
+<br />
+- AAC-HE support for highest quality audio even at the lowest bitrates.<br />
+<br />
+Never listened to SomaFM before? Here's our lineup, which are all commercial free:<br />
+<br />
+Groove Salad: A nicely chilled plate of ambient/downtempo beats and grooves.<br />
+Downtempo electronica, mostly instrumental. Great for work.<br />
+<br />
+Secret Agent: The soundtrack for your stylish, mysterious, dangerous life. For Spies and P.I.s too!<br />
+An eclectic blend of cinematic downtempo, stylish lounge, sambas and easy-tempo with an adventurous flair.<br />
+<br />
+Drone Zone: Served best chilled, safe with most medications. Atmospheric textures with minimal beats.<br />
+<br />
+Fluid: Drown in the electronic sound of instrumental hiphop, future soul and liquid trap.<br />
+<br />
+Indie Pop Rocks!: New and classic favorite indie pop tracks.<br />
+<br />
+Left Coast 70s: NEW! Mellow album rock from the Seventies. Yacht friendly.<br />
+The mid/late 70s sound that blossomed out of Los Angeles and spread up and down the west coast.<br />
+<br />
+cliqhop idm: Blips'n'beeps backed mostly w/beats. Intelligent Dance Music.<br />
+<br />
+Beat Blender: A late night blend of deep-house and downtempo chill.<br />
+<br />
+Dub Step Beyond: Dubstep, Dub and Deep Bass. The place for Bass Music!<br />
+<br />
+The Trip: Progressive house / trance. Tip top tunes.<br />
+<br />
+Illinois Street Lounge: Classic bachelor pad, playful exotica and vintage music of tomorrow.<br />
+<br />
+Space Station Soma: Tune in, turn on, space out. Spaced-out ambient and mid-tempo electronica.<br />
+<br />
+Doomed: Dark industrial/ambient music for tortured souls. <br />
+<br />
+Boot Liquor: Americana Roots music for Cowhands, Cowpokes and Cowtippers<br />
+<br />
+Lush: Sensuous and mellow vocals, mostly female, with an electronic influence.<br />
+<br />
+Digitalis: Digitally affected analog rock to calm the agitated heart.<br />
+<br />
+Suburbs of Goa: Desi-influenced Asian world beats and beyond.<br />
+<br />
+ThistleRadio: Exploring music from Celtic roots and branches<br />
+Crafted by Fiona Ritchie, award-winning host and curator of NPR's syndicated Thistle and Shamrock radio show.<br />
+<br />
+Underground 80s: Early 80s UK Synthpop and a bit of New Wave, with rarities you forgot you remembered.<br />
+<br />
+Sonic Universe: Transcending the world of jazz with eclectic, avant-garde takes on tradition.<br />
+NuJazz/Avant Garde/Euro-jazz.<br />
+<br />
+PopTron: Electropop and indie dance rock with sparkle and pop.<br />
+Less guitars, more synths.<br />
+<br />
+Metal Detector: From black to doom, prog to sludge, thrash to post, stoner to crossover, punk to industrial. <br />
+<br />
+Mission Control: Ambient and experimental music mixed with the historical sounds of the space program.<br />
+<br />
+SomaFM SF 10-33: Live San Francisco Fire and Police radio with an electronic music soundtrack.</div>
+<p>
+<a href="#" onclick="if ($$('.desc').css('display') == 'none'){$$('.desc').css('display', 'inline'); this.innerHTML='Less...'} else {$$('.desc').css('display', 'none'); this.innerHTML='More...'}" class="">More...</a>
+</p>
+<br>
+<div id="ad_container"></div>
+<br>
+<h2 class="header">Information</h2>
+<div class="list-block inset" style="margin:0px;">
+<ul>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Seller</div>
+<div class="item-after header">SomaFM.com, LLC</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Size</div>
+<div class="item-after header">19.12 MB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Categories</div>
+<div class="item-after header">Paid and Other Apps</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Version</div>
+<div class="item-after header">1.9.0</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Report App</div>
+<div class="item-after header"><a class="email" title="email" href="#" onclick="javascript:window.location='mailto:report@appvalley.vip?subject=App Not Working&body=This app is not working: ' + document.getElementById('#appName').innerHTML;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVEhL7VJNKERRFH6xICsLKXsbC+Tdp4RIWYosZq0oysrCzsLKxkYW5t5nYzWpScpGFihSVhZTGt65T5MFSooSkZ/xnTuMmfdG0wxLt77eO98557vnnHus/5M9kXi6UkhvwpE6BsR/A6Fo2XF1pxEWUi84Sqf/CkLSq5B+l4Wbrh1Fb4WCysQToCxjSDqC+E6Os3RIesAo1oErFBvLCBtQAm2M4f/wmysOofQL8lzkT8G+N3y+MBN0i5kPtUt/GM6TPF8Qkt65Qlv5zaF3CgkbEgmS5hoXqcpR/jiCLoMxENqzo9Rhq2QD7P2gv7BwFrRlzaYrhHtRA6GZTDd0DMEB3qa2Ja/JzLNQ7k/CvDJocYRF25XXw0KtK6lavog7sZXuM/uv9Fqh/B9H4URpFMk27CRzqGy1JerXC/es+4vjZOGe1sG3YexchIRZVNIkHNPAc8B3F9x3VJzi6tHhZi4fEsYs5xG0ncsVA4+N83DxbpbPF6YDVHDzbZcKSkD83PxnhEmbEYQCSwdX//mds5yoHsQDPAaDygVEPX5o3iSLFx1zGhKujvwGjuv1966kqo3o/8kcy/oAk4ZYv9esbNMAAAAASUVORK5CYII="></a></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</center>
+</div>
+</div>

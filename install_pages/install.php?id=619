@@ -1,0 +1,129 @@
+<div class="page" data-name="install" data-id="619" data-app-name="Prof. Hornet Pro">
+<div class="page-content">
+<center>
+<div class="content-block" style="width:100%;max-width:414px; text-align:left; margin-top:-16px; margin-bottom:0px;">
+<a href="#" class="back link"><i class="icon icon-back"></i><span> Back</span></a>
+<br><br>
+<div class="row">
+<div class="col-40">
+<img width="100%" style="border-radius:25%;" src="https://img.appvalley.vip/icon/619.png">
+</div>
+<div class="col-60">
+<h2 class="header" style="padding:0px;"><div id="#appName" style="overflow:hidden;">Prof. Hornet Pro</div><br><div style="margin-top:-35px; font-size:18px;"><small style="color:#6d6d72;">Alvaro Garcia Ojea</small></div></h2>
+<a href="itms-services://?action=download-manifest&url=https://appvalley.vip/app/plists/613/install.plist" class="col button button-fill button-round external install"  data-id="619" data-app-name="Prof. Hornet Pro" style="background: #007AFF; color: #F0F1F6; font-weight:bold; width: 72px;">GET</a>
+</div>
+</div>
+</div>
+<div class="content-block" style="max-width:414px; text-align:left;">
+<h2 class="header">Preview</h2>
+<img style="border-radius:9px; max-width:414px;" src="https://img.appvalley.vip/screenshot/619.png" width="60%">
+<h2 class="header">Description</h2>Perfect for any situation: You<div class="desc" style="display: none;">tube videos, business or school presentations, video journalism, video production work, keynote addresses, wedding toasts.. or any kind of event!<br />
+<br />
+Use your teleprompter wherever you are.<br />
+<br />
+Used by vloggers, teachers, keynote speakers, singers, businessmen, broadcasters, students...<br />
+<br />
+Import your script (or create a new one in the app) and play the text for your presentation, speech, toast, youtube video... this is a top-quality teleprompter! <br />
+<br />
+**This app does not include in-app purchases. Download once and enjoy all the features**<br />
+<br />
+Our autocue-app includes a number of innovative features:<br />
+<br />
+• Create your own scripts or import them from other apps such as Google Drive, Email, Box..<br />
+• Use the 'Open with' option that is available, for example, in iOS mail apps.<br />
+• Files accepted are: .txt, .rtf, .doc and .docx. <br />
+• Enter in edit mode and configure the script: <br />
+- Font family: Arial, Times New Roman, Courier, Helvetica, Verdana and much more.<br />
+- Font size: 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 130 and 150px.<br />
+- Font color: black, white and any rgb color<br />
+- Font weight: bold - light <br />
+- Highlight your keywords: underline, italic, strike..<br />
+- Text alignment<br />
+- Background color...<br />
+The format is up to you. Customize your readings. (Tip: Choose 'Recommended font and size')<br />
+• Configure your read:<br />
+- Speed in words per minute - from 25 wpm to 300 wpm<br />
+- Mirror mode - Mirror text for use with teleprompter glass rigs<br />
+- Background color<br />
+- Autostart timer - countdown<br />
+- Video-view size<br />
+- Select your teleprompter guide<br />
+• Your script will automatically scroll closely to the camera, so it always looks like you’re looking directly at the lens.<br />
+• Landscape and portrait mode.<br />
+• Remote control independent app.<br />
+• Apple Watch remote controller app.<br />
+• Add notes, comments, indexes or anything you need to remember during your speech.<br />
+• Drag and drop elements in the player - move your notes, video-view and play-pause button.<br />
+• Estimated remaining time and elapsed time on the screen (mm:ss).<br />
+• Record yourself and save your videos to your camera roll (Video and audio recording)<br />
+• Reading guide and line indicator to help keep your place.<br />
+• Move up and down easily.<br />
+• Configure the environment.<br />
+• Share your scripts with your teammates and friends.<br />
+• Customer support messaging system - Are you having issues? need help? we will help you as soon as possible.<br />
+<br />
+All you need to make your read very comfortable.<br />
+<br />
+**What users say about us:<br />
+- "This is a lovely autocue app."<br />
+- "The clarity of the display while reading is fantastic."<br />
+- "The best value for money Teleprompter for iPad/iPhone in the AppStore."<br />
+- "I always feeling nervous when having speech, that's why I need to write it down. This app is more than a note function, the words can move automatically, you can control how fast or how slow it moves per second."<br />
+- "Nice app! Nicely done and easy to use super awesome! Love this application very much!"<br />
+- "The perfect and cheapest teleprompter"<br />
+</div>
+<p>
+<a href="#" onclick="if ($$('.desc').css('display') == 'none'){$$('.desc').css('display', 'inline'); this.innerHTML='Less...'} else {$$('.desc').css('display', 'none'); this.innerHTML='More...'}" class="">More...</a>
+</p>
+<br>
+<div id="ad_container"></div>
+<br>
+<h2 class="header">Information</h2>
+<div class="list-block inset" style="margin:0px;">
+<ul>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Seller</div>
+<div class="item-after header">Alvaro Garcia Ojea</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Size</div>
+<div class="item-after header">22.32 MB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Categories</div>
+<div class="item-after header">Paid and Other Apps</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Version</div>
+<div class="item-after header">4.2.2</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Report App</div>
+<div class="item-after header"><a class="email" title="email" href="#" onclick="javascript:window.location='mailto:report@appvalley.vip?subject=App Not Working&body=This app is not working: ' + document.getElementById('#appName').innerHTML;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVEhL7VJNKERRFH6xICsLKXsbC+Tdp4RIWYosZq0oysrCzsLKxkYW5t5nYzWpScpGFihSVhZTGt65T5MFSooSkZ/xnTuMmfdG0wxLt77eO98557vnnHus/5M9kXi6UkhvwpE6BsR/A6Fo2XF1pxEWUi84Sqf/CkLSq5B+l4Wbrh1Fb4WCysQToCxjSDqC+E6Os3RIesAo1oErFBvLCBtQAm2M4f/wmysOofQL8lzkT8G+N3y+MBN0i5kPtUt/GM6TPF8Qkt65Qlv5zaF3CgkbEgmS5hoXqcpR/jiCLoMxENqzo9Rhq2QD7P2gv7BwFrRlzaYrhHtRA6GZTDd0DMEB3qa2Ja/JzLNQ7k/CvDJocYRF25XXw0KtK6lavog7sZXuM/uv9Fqh/B9H4URpFMk27CRzqGy1JerXC/es+4vjZOGe1sG3YexchIRZVNIkHNPAc8B3F9x3VJzi6tHhZi4fEsYs5xG0ncsVA4+N83DxbpbPF6YDVHDzbZcKSkD83PxnhEmbEYQCSwdX//mds5yoHsQDPAaDygVEPX5o3iSLFx1zGhKujvwGjuv1966kqo3o/8kcy/oAk4ZYv9esbNMAAAAASUVORK5CYII="></a></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</center>
+</div>
+</div>

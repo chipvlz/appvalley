@@ -1,0 +1,127 @@
+<div class="page" data-name="install" data-id="637" data-app-name="Female Fitness: Best Exercises">
+<div class="page-content">
+<center>
+<div class="content-block" style="width:100%;max-width:414px; text-align:left; margin-top:-16px; margin-bottom:0px;">
+<a href="#" class="back link"><i class="icon icon-back"></i><span> Back</span></a>
+<br><br>
+<div class="row">
+<div class="col-40">
+<img width="100%" style="border-radius:25%;" src="https://img.appvalley.vip/icon/637.png">
+</div>
+<div class="col-60">
+<h2 class="header" style="padding:0px;"><div id="#appName" style="overflow:hidden;">Female Fitness: Best Exercises</div><br><div style="margin-top:-35px; font-size:18px;"><small style="color:#6d6d72;">VGFIT LLC</small></div></h2>
+<a href="itms-services://?action=download-manifest&url=https://appvalley.vip/app/plists/635/install.plist" class="col button button-fill button-round external install"  data-id="637" data-app-name="Female Fitness: Best Exercises" style="background: #007AFF; color: #F0F1F6; font-weight:bold; width: 72px;">GET</a>
+</div>
+</div>
+</div>
+<div class="content-block" style="max-width:414px; text-align:left;">
+<h2 class="header">Preview</h2>
+<img style="border-radius:9px; max-width:414px;" src="https://img.appvalley.vip/screenshot/637.png" width="60%">
+<h2 class="header">Description</h2>Female Fitness - The Best Exer<div class="desc" style="display: none;">cises for LOWER BODY (Thighs and Butt) is a brand new application on App Store developed by a professional team of developers, assisted by certified trainers specializing in women’s fitness and strength training. The application is specially created for women of all body shapes, who are looking to set a new life standard and want to shape their body. Female Fitness app comes with a nice and simple to use interface. making it a reliable assistant during your workouts. Another key factor that assures the quality of this application is the model from the pictures and videos who performs the exercises - european bodyfitness champion - Victoria Ciudesnaia. <br />
+<br />
+Main Features:<br />
+- More than 60 exercises with high-quality video support for every workout.<br />
+- List of most often used fitness exercises for each major muscle group.<br />
+- A text instruction with pictures for each exercise. <br />
+- An exercise database that extends after each update, and improves the app.<br />
+- “Download all videos” button or download videos one by one if you have a network with limited traffic or slow internet connection. <br />
+- Ability to keep and track data about your weights and repetitions for each performed exercise. <br />
+- Interactive graphs for your workouts progress, by: performance, weights and repetitions. <br />
+- Ability to keep the history of all your performed exercises. <br />
+- Built-in timer with audio support, and intervals of: 30s, 45s, 60s, 90s, 120s, 180s. <br />
+- Built-in calendar, that automatically marks all your workout days. <br />
+- Ability to add photos to custom exercises from your gallery. <br />
+- Ability to delete photos from a custom exercise and change them. <br />
+- Ability to choose between pounds and kilograms. <br />
+- The application is localized in the following languages: English, French, Italian, German, Spanish, Portuguese, Russian, Swedish, Dutch, Turkish, Thai, Japanese, Traditional Chinese, Simplified Chinese and Korean, by name, content, menus,settings and description <br />
+- Fully compatible with iOS 7.<br />
+<br />
+Female Fitness’s interface has three main categories to assist your workouts:<br />
+- EXERCISES, with most relevant and effective workouts for your body.<br />
+- WORKOUTS, with ideal pre-set plans for 2 days, 3 days, and 4 days per week.<br />
+- CUSTOM, workouts that you can add by yourself, if you have personal preferences. <br />
+<br />
+Women’s major muscle groups:<br />
+- Abdominals<br />
+- Back<br />
+- Biceps<br />
+- Buttocks <br />
+- Chest<br />
+- Legs<br />
+- Shoulders<br />
+- Triceps<br />
+<br />
+Pre-set plans according to each body shape:<br />
+- Hourglass <br />
+- Apple<br />
+- Reversed Triangle <br />
+- Banana<br />
+- Pear<br />
+<br />
+Custom workout plans:<br />
+- Set your daily workout plan <br />
+- Add workouts<br />
+- Add own exercises to workouts<br />
+- Sort workouts as you want<br />
+<br />
+Compatibilities:<br />
+* Fully supports iOS 5 and later versions, up to 7.0.3<br />
+* Compatible with iPhone 3G/3GS/4/4S/5/5c/5s, iPod Touch 2/3/4/5<br />
+* First applications with most effective exercises for every body shape of a woman.<br />
+* Female Fitness - The Best Exercises for LOWER BODY (Thighs and Butt) will be your best assistant in shaping a perfect body.<br />
+</div>
+<p>
+<a href="#" onclick="if ($$('.desc').css('display') == 'none'){$$('.desc').css('display', 'inline'); this.innerHTML='Less...'} else {$$('.desc').css('display', 'none'); this.innerHTML='More...'}" class="">More...</a>
+</p>
+<br>
+<div id="ad_container"></div>
+<br>
+<h2 class="header">Information</h2>
+<div class="list-block inset" style="margin:0px;">
+<ul>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Seller</div>
+<div class="item-after header">VGFIT LLC</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Size</div>
+<div class="item-after header">33.69 MB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Categories</div>
+<div class="item-after header">Paid and Other Apps</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Version</div>
+<div class="item-after header">4.8</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Report App</div>
+<div class="item-after header"><a class="email" title="email" href="#" onclick="javascript:window.location='mailto:report@appvalley.vip?subject=App Not Working&body=This app is not working: ' + document.getElementById('#appName').innerHTML;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVEhL7VJNKERRFH6xICsLKXsbC+Tdp4RIWYosZq0oysrCzsLKxkYW5t5nYzWpScpGFihSVhZTGt65T5MFSooSkZ/xnTuMmfdG0wxLt77eO98557vnnHus/5M9kXi6UkhvwpE6BsR/A6Fo2XF1pxEWUi84Sqf/CkLSq5B+l4Wbrh1Fb4WCysQToCxjSDqC+E6Os3RIesAo1oErFBvLCBtQAm2M4f/wmysOofQL8lzkT8G+N3y+MBN0i5kPtUt/GM6TPF8Qkt65Qlv5zaF3CgkbEgmS5hoXqcpR/jiCLoMxENqzo9Rhq2QD7P2gv7BwFrRlzaYrhHtRA6GZTDd0DMEB3qa2Ja/JzLNQ7k/CvDJocYRF25XXw0KtK6lavog7sZXuM/uv9Fqh/B9H4URpFMk27CRzqGy1JerXC/es+4vjZOGe1sG3YexchIRZVNIkHNPAc8B3F9x3VJzi6tHhZi4fEsYs5xG0ncsVA4+N83DxbpbPF6YDVHDzbZcKSkD83PxnhEmbEYQCSwdX//mds5yoHsQDPAaDygVEPX5o3iSLFx1zGhKujvwGjuv1966kqo3o/8kcy/oAk4ZYv9esbNMAAAAASUVORK5CYII="></a></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</center>
+</div>
+</div>

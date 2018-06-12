@@ -1,0 +1,139 @@
+<div class="page" data-name="install" data-id="558" data-app-name="CamScanner">
+<div class="page-content">
+<center>
+<div class="content-block" style="width:100%;max-width:414px; text-align:left; margin-top:-16px; margin-bottom:0px;">
+<a href="#" class="back link"><i class="icon icon-back"></i><span> Back</span></a>
+<br><br>
+<div class="row">
+<div class="col-40">
+<img width="100%" style="border-radius:25%;" src="https://img.appvalley.vip/icon/558.png">
+</div>
+<div class="col-60">
+<h2 class="header" style="padding:0px;"><div id="#appName" style="overflow:hidden;">CamScanner</div><br><div style="margin-top:-35px; font-size:18px;"><small style="color:#6d6d72;">Shanghai Linguan Data Co.,Ltd</small></div></h2>
+<a href="itms-services://?action=download-manifest&url=https://appvalley.vip/app/plists/552/install.plist" class="col button button-fill button-round external install"  data-id="558" data-app-name="CamScanner" style="background: #007AFF; color: #F0F1F6; font-weight:bold; width: 72px;">GET</a>
+</div>
+</div>
+</div>
+<div class="content-block" style="max-width:414px; text-align:left;">
+<h2 class="header">Preview</h2>
+<img style="border-radius:9px; max-width:414px;" src="https://img.appvalley.vip/screenshot/558.png" width="60%">
+<h2 class="header">Description</h2>----Paid App Features----<br />
+* A<div class="desc" style="display: none;">ll features that the free version has<br />
+* Recognize and extract texts from a single page<br />
+* Larger cloud space of 400M (200M for free version)<br />
+* Export PDFs without watermark "Scanned by CamScanner"<br />
+* Ad-free<br />
+<br />
+<br />
+Features:<br />
+<br />
+*Mobile Scanner<br />
+Use your phone camera to scan receipts, notes, invoices, whiteboard discussions, business cards, certificates, etc. <br />
+<br />
+*Optimize Scan Quality<br />
+Smart cropping and auto enhancing make the texts and graphics look clear and sharp. <br />
+<br />
+*Extract Texts from Image<br />
+OCR (optical character recognition) feature extracts texts from single page for further editing or sharing. (Paid app only)<br />
+<br />
+*Share PDF/JPEG Files<br />
+Easily share documents in PDF or JPEG format with others via social media, email attachment or sending the doc link. <br />
+<br />
+*AirPrint & Fax Documents<br />
+Instantly print out docs in CamScanner with nearby printer via AirPrint; directly fax docs to over 30 countries from the app.<br />
+<br />
+*Collaboration<br />
+Invite friends or colleagues to view and comment on your scans in a group. (Registrants only)<br />
+<br />
+*Advanced Editing<br />
+Making annotations or adding customized watermark on docs are made available for you.<br />
+<br />
+*Secure Important Docs<br />
+Set passcode for viewing important docs; meanwhile, when sending doc link, you can set password to protect it.<br />
+<br />
+*Sync across Platforms<br />
+Sign up to sync documents on the go. Just sign in to any smartphone, tablet or computer (visit CamScanner website) you own and you can view, edit and share any document. <br />
+<br />
+Premium Subscription Service:<br />
+1. Edit OCR results and notes of the entire doc, exporting as .txt file<br />
+2. Create Doc Collage for multiple pages<br />
+3. Add 10G cloud space<br />
+4. Add 40 extra collaborators<br />
+5. Send doc link with password protection and expiration date<br />
+6. Auto upload docs to Box, Google Drive, Dropbox, Evernote and OneDrive<br />
+7. Batch download PDF files in web app<br />
+8. Every benefit registrants enjoys<br />
+9. Everything paid app offers<br />
+<br />
+Payment models for Premium subscription:<br />
+-4.99 USD/month<br />
+-49.99 USD/year<br />
+<br />
+Please note the subscription is automatically renewed within 24 hours by the end of the period unless you choose to cancel the subscription. Subscriptions may be managed by going to your iTunes Account Settings after purchase.<br />
+For Privacy Policy, please visit: https://www.camscanner.com/app/privacy<br />
+For Terms of use, please visit:<br />
+https://www.camscanner.com/app/registration<br />
+<br />
+CamScanner users scan and manage <br />
+* Bill, Invoice, Contract, Tax Roll, Business Card…<br />
+* Whiteboard, Memo, Script, Letter…<br />
+* Blackboard, Note, PPT, Book, Article…<br />
+* Credential, Certificate, Identity Documents…<br />
+<br />
+3rd Party Cloud Storage Services Supported:<br />
+-Box, Google Drive, Evernote, Dropbox, OneDrive</div>
+<p>
+<a href="#" onclick="if ($$('.desc').css('display') == 'none'){$$('.desc').css('display', 'inline'); this.innerHTML='Less...'} else {$$('.desc').css('display', 'none'); this.innerHTML='More...'}" class="">More...</a>
+</p>
+<br>
+<div id="ad_container"></div>
+<br>
+<h2 class="header">Information</h2>
+<div class="list-block inset" style="margin:0px;">
+<ul>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Seller</div>
+<div class="item-after header">Shanghai Linguan Data Co.,Ltd</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Size</div>
+<div class="item-after header">59.18 MB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Categories</div>
+<div class="item-after header">Paid and Other Apps</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Version</div>
+<div class="item-after header">5.5.2</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Report App</div>
+<div class="item-after header"><a class="email" title="email" href="#" onclick="javascript:window.location='mailto:report@appvalley.vip?subject=App Not Working&body=This app is not working: ' + document.getElementById('#appName').innerHTML;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVEhL7VJNKERRFH6xICsLKXsbC+Tdp4RIWYosZq0oysrCzsLKxkYW5t5nYzWpScpGFihSVhZTGt65T5MFSooSkZ/xnTuMmfdG0wxLt77eO98557vnnHus/5M9kXi6UkhvwpE6BsR/A6Fo2XF1pxEWUi84Sqf/CkLSq5B+l4Wbrh1Fb4WCysQToCxjSDqC+E6Os3RIesAo1oErFBvLCBtQAm2M4f/wmysOofQL8lzkT8G+N3y+MBN0i5kPtUt/GM6TPF8Qkt65Qlv5zaF3CgkbEgmS5hoXqcpR/jiCLoMxENqzo9Rhq2QD7P2gv7BwFrRlzaYrhHtRA6GZTDd0DMEB3qa2Ja/JzLNQ7k/CvDJocYRF25XXw0KtK6lavog7sZXuM/uv9Fqh/B9H4URpFMk27CRzqGy1JerXC/es+4vjZOGe1sG3YexchIRZVNIkHNPAc8B3F9x3VJzi6tHhZi4fEsYs5xG0ncsVA4+N83DxbpbPF6YDVHDzbZcKSkD83PxnhEmbEYQCSwdX//mds5yoHsQDPAaDygVEPX5o3iSLFx1zGhKujvwGjuv1966kqo3o/8kcy/oAk4ZYv9esbNMAAAAASUVORK5CYII="></a></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</center>
+</div>
+</div>

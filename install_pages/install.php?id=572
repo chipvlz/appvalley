@@ -1,0 +1,113 @@
+<div class="page" data-name="install" data-id="572" data-app-name="Loopy HD">
+<div class="page-content">
+<center>
+<div class="content-block" style="width:100%;max-width:414px; text-align:left; margin-top:-16px; margin-bottom:0px;">
+<a href="#" class="back link"><i class="icon icon-back"></i><span> Back</span></a>
+<br><br>
+<div class="row">
+<div class="col-40">
+<img width="100%" style="border-radius:25%;" src="https://img.appvalley.vip/icon/572.png">
+</div>
+<div class="col-60">
+<h2 class="header" style="padding:0px;"><div id="#appName" style="overflow:hidden;">Loopy HD</div><br><div style="margin-top:-35px; font-size:18px;"><small style="color:#6d6d72;">A Tasty Pixel</small></div></h2>
+<a href="itms-services://?action=download-manifest&url=https://appvalley.vip/app/plists/566/install.plist" class="col button button-fill button-round external install"  data-id="572" data-app-name="Loopy HD" style="background: #007AFF; color: #F0F1F6; font-weight:bold; width: 72px;">GET</a>
+</div>
+</div>
+</div>
+<div class="content-block" style="max-width:414px; text-align:left;">
+<h2 class="header">Preview</h2>
+<img style="border-radius:9px; max-width:414px;" src="https://img.appvalley.vip/screenshot/572.png" width="60%">
+<h2 class="header">Description</h2>Now compatible with Ableton Li<div class="desc" style="display: none;">nk, a new technology that synchronises beat, phase and tempo. It works between Ableton Live and Link-enabled iOS apps over a wireless network, or iOS apps on the same device. Just turn it on in Settings to get started! http://ableton.com/link<br />
+<br />
+Compatible with the Audiobus app: Now you can receive live audio directly from other Audiobus-compatible apps!<br />
+<br />
+While other music creation apps tend to be either powerful but difficult to learn, or easy to use but limited in features, Loopy doesn't compromise. Loopy offers a sleek, expressive, instantly understandable interface that beginners can start using effectively straight away. It's fun, right from the start. <br />
+<br />
+More advanced users, however, will not be disappointed by Loopy's rich feature set, with extra features many other loopers just don't have. Plus, a sophisticated interactive tutorial system lets users discover Loopy's more advanced features at their own pace. <br />
+<br />
+RECORD & LAYER<br />
+<br />
+- Six, nine, or twelve beautifully rendered circular loops, with simple yet powerful controls. <br />
+- Count-in, count-out and record chaining lets you keep your hands free to play an instrument.<br />
+- MIDI control, to control Loopy via foot pedal or other controller.<br />
+- Overdub, to build beautiful, complex soundscapes from many layers. <br />
+- Support for tracks of any multiple or fraction of a beat, for flexible and expressive looping. <br />
+- Sophisticated audio or visual metronome to keep you in time - no matter what time signature you choose. <br />
+- Perfectly synchronized, low latency audio engine. <br />
+<br />
+IMPORT & CONSTRUCT <br />
+<br />
+- Import loops from your computer via iTunes, with support for AIFF, WAV, MP3, M4A, CAF and more. <br />
+- Bring in audio from many other audio apps with integrated audio copy and paste. <br />
+- Imported loops are automatically fit to your beat, no matter what tempo. <br />
+<br />
+MANIPULATE & TWEAK <br />
+<br />
+- Full stereo audio, with pan controls for each track to create custom stereoscapes. <br />
+- Fix up timing by twisting tracks around to line up the beat, or make funky sound effects with dynamic time shifting. <br />
+- Drag a track onto another track to merge tracks, and clear up a space. <br />
+- Live, dynamic tempo adjustment to speed up or slow down your creations, without altering the pitch. <br />
+- MIDI clock sync, to play in time with other MIDI-capable devices or apps.<br />
+<br />
+PERFORM & SHARE <br />
+<br />
+- Record whole performances with in-app session recording facilities. <br />
+- Upload performances or single loops straight to SoundCloud, and post to Twitter or Facebook.<br />
+- Email audio clips.<br />
+- Share audio with many other audio apps with audio copy and paste. <br />
+- Transfer loops or performances to your computer via iTunes. </div>
+<p>
+<a href="#" onclick="if ($$('.desc').css('display') == 'none'){$$('.desc').css('display', 'inline'); this.innerHTML='Less...'} else {$$('.desc').css('display', 'none'); this.innerHTML='More...'}" class="">More...</a>
+</p>
+<br>
+<div id="ad_container"></div>
+<br>
+<h2 class="header">Information</h2>
+<div class="list-block inset" style="margin:0px;">
+<ul>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Seller</div>
+<div class="item-after header">A Tasty Pixel</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Size</div>
+<div class="item-after header">15.55 MB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Categories</div>
+<div class="item-after header">Paid and Other Apps</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Version</div>
+<div class="item-after header">1.6.8</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Report App</div>
+<div class="item-after header"><a class="email" title="email" href="#" onclick="javascript:window.location='mailto:report@appvalley.vip?subject=App Not Working&body=This app is not working: ' + document.getElementById('#appName').innerHTML;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVEhL7VJNKERRFH6xICsLKXsbC+Tdp4RIWYosZq0oysrCzsLKxkYW5t5nYzWpScpGFihSVhZTGt65T5MFSooSkZ/xnTuMmfdG0wxLt77eO98557vnnHus/5M9kXi6UkhvwpE6BsR/A6Fo2XF1pxEWUi84Sqf/CkLSq5B+l4Wbrh1Fb4WCysQToCxjSDqC+E6Os3RIesAo1oErFBvLCBtQAm2M4f/wmysOofQL8lzkT8G+N3y+MBN0i5kPtUt/GM6TPF8Qkt65Qlv5zaF3CgkbEgmS5hoXqcpR/jiCLoMxENqzo9Rhq2QD7P2gv7BwFrRlzaYrhHtRA6GZTDd0DMEB3qa2Ja/JzLNQ7k/CvDJocYRF25XXw0KtK6lavog7sZXuM/uv9Fqh/B9H4URpFMk27CRzqGy1JerXC/es+4vjZOGe1sG3YexchIRZVNIkHNPAc8B3F9x3VJzi6tHhZi4fEsYs5xG0ncsVA4+N83DxbpbPF6YDVHDzbZcKSkD83PxnhEmbEYQCSwdX//mds5yoHsQDPAaDygVEPX5o3iSLFx1zGhKujvwGjuv1966kqo3o/8kcy/oAk4ZYv9esbNMAAAAASUVORK5CYII="></a></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</center>
+</div>
+</div>
