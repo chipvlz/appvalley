@@ -1,0 +1,109 @@
+<div class="page" data-name="install" data-id="845" data-app-name="Rummy +">
+<div class="page-content">
+<center>
+<div class="content-block" style="width:100%;max-width:414px; text-align:left; margin-top:-16px; margin-bottom:0px;">
+<a href="#" class="back link"><i class="icon icon-back"></i><span> Back</span></a>
+<br><br>
+<div class="row">
+<div class="col-40">
+<img width="100%" style="border-radius:25%;" src="https://img.appvalley.vip/icon/845.png">
+</div>
+<div class="col-60">
+<h2 class="header" style="padding:0px;"><div id="#appName" style="overflow:hidden;">Rummy +</div><br><div style="margin-top:-35px; font-size:18px;"><small style="color:#6d6d72;">Eryodsoft</small></div></h2>
+<a href="itms-services://?action=download-manifest&url=https://appvalley.vip/app/plists/834/install.plist" class="col button button-fill button-round external install"  data-id="845" data-app-name="Rummy +" style="background: #007AFF; color: #F0F1F6; font-weight:bold; width: 72px;">GET</a>
+</div>
+</div>
+</div>
+<div class="content-block" style="max-width:414px; text-align:left;">
+<h2 class="header">Preview</h2>
+<img style="border-radius:9px; max-width:414px;" src="https://img.appvalley.vip/screenshot/845.png" width="60%">
+<h2 class="header">Description</h2>Play the famous game of Rummy <div class="desc" style="display: none;">on your iPhone, iPod, or iPad!! <br />
+<br />
+Play rummy with 2, 3, or 4 players either with a group of friends or using simulated opponents playing with high-level artificial intelligence. <br />
+There are a number of rules that can be modified, making this game very faithful to the original. <br />
+<br />
+*** SEVERAL GAME MODES - MULTIPLAYER ***<br />
+<br />
+- From 2 to 4 players. <br />
+- Play against simulated opponents with advanced artificial intelligence. <br />
+- Play with your friends in local multiplayer mode through Wi-Fi or Bluetooth. <br />
+- Play online with your friends or against players the Game Center will find automatically. <br />
+- Play as a pair on the same device, taking turns. <br />
+<br />
+*** SEVERAL VARIATIONS INCLUDED *** <br />
+<br />
+Several rummy variations are included in the application: <br />
+<br />
+- Choose the AI level of opponents. <br />
+- Number of cards dealt to each player (from 7 to 14). <br />
+- Number of jokers (from 0 to 4). <br />
+- Number of turns before being able to lay down a combination. <br />
+- Number of points required for the first meld. <br />
+- Sequence required or not for the first meld. <br />
+- Card taken from discard pile has to be played or can be kept. <br />
+- Final card to be discarded or played. <br />
+- And several other variations... <br />
+<br />
+*** A VERY THOROUGH APPLICATION *** <br />
+<br />
+- Easy to learn, smooth game play, card animations for a more realistic game experience.<br />
+- Opponents endowed with advanced AI. <br />
+- Statistics on games played. <br />
+- Game rules included in the application. <br />
+- Back-up of current game in case the application closes. <br />
+- Game Center: Multi-player, rankings, and achievements. </div>
+<p>
+<a href="#" onclick="if ($$('.desc').css('display') == 'none'){$$('.desc').css('display', 'inline'); this.innerHTML='Less...'} else {$$('.desc').css('display', 'none'); this.innerHTML='More...'}" class="">More...</a>
+</p>
+<br>
+<div id="ad_container"></div>
+<br>
+<h2 class="header">Information</h2>
+<div class="list-block inset" style="margin:0px;">
+<ul>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Seller</div>
+<div class="item-after header">Eryodsoft</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Size</div>
+ <div class="item-after header">37.21 MB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Categories</div>
+<div class="item-after header">Paid and Other Games</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Version</div>
+<div class="item-after header">3.6.2</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Report App</div>
+<div class="item-after header"><a class="email" title="email" href="#" onclick="javascript:window.location='mailto:report@appvalley.vip?subject=App Not Working&body=This app is not working: ' + document.getElementById('#appName').innerHTML;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVEhL7VJNKERRFH6xICsLKXsbC+Tdp4RIWYosZq0oysrCzsLKxkYW5t5nYzWpScpGFihSVhZTGt65T5MFSooSkZ/xnTuMmfdG0wxLt77eO98557vnnHus/5M9kXi6UkhvwpE6BsR/A6Fo2XF1pxEWUi84Sqf/CkLSq5B+l4Wbrh1Fb4WCysQToCxjSDqC+E6Os3RIesAo1oErFBvLCBtQAm2M4f/wmysOofQL8lzkT8G+N3y+MBN0i5kPtUt/GM6TPF8Qkt65Qlv5zaF3CgkbEgmS5hoXqcpR/jiCLoMxENqzo9Rhq2QD7P2gv7BwFrRlzaYrhHtRA6GZTDd0DMEB3qa2Ja/JzLNQ7k/CvDJocYRF25XXw0KtK6lavog7sZXuM/uv9Fqh/B9H4URpFMk27CRzqGy1JerXC/es+4vjZOGe1sG3YexchIRZVNIkHNPAc8B3F9x3VJzi6tHhZi4fEsYs5xG0ncsVA4+N83DxbpbPF6YDVHDzbZcKSkD83PxnhEmbEYQCSwdX//mds5yoHsQDPAaDygVEPX5o3iSLFx1zGhKujvwGjuv1966kqo3o/8kcy/oAk4ZYv9esbNMAAAAASUVORK5CYII="></a></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</center>
+</div>
+</div>

@@ -1,0 +1,111 @@
+<div class="page" data-name="install" data-id="790" data-app-name="Paul Pixel - The Awakening">
+<div class="page-content">
+<center>
+<div class="content-block" style="width:100%;max-width:414px; text-align:left; margin-top:-16px; margin-bottom:0px;">
+<a href="#" class="back link"><i class="icon icon-back"></i><span> Back</span></a>
+<br><br>
+<div class="row">
+<div class="col-40">
+<img width="100%" style="border-radius:25%;" src="https://img.appvalley.vip/icon/790.png">
+</div>
+<div class="col-60">
+<h2 class="header" style="padding:0px;"><div id="#appName" style="overflow:hidden;">Paul Pixel - The Awakening</div><br><div style="margin-top:-35px; font-size:18px;"><small style="color:#6d6d72;">Xoron GmbH</small></div></h2>
+<a href="itms-services://?action=download-manifest&url=https://appvalley.vip/app/plists/779/install.plist" class="col button button-fill button-round external install"  data-id="790" data-app-name="Paul Pixel - The Awakening" style="background: #007AFF; color: #F0F1F6; font-weight:bold; width: 72px;">GET</a>
+</div>
+</div>
+</div>
+<div class="content-block" style="max-width:414px; text-align:left;">
+<h2 class="header">Preview</h2>
+<img style="border-radius:9px; max-width:414px;" src="https://img.appvalley.vip/screenshot/790.png" width="60%">
+<h2 class="header">Description</h2>An ordinary guy forced to defe<div class="desc" style="display: none;">nd the world from an alien invasion of infectious zombies. A point-and-click adventure with beautiful pixel art and bombastic retro sound. <br />
+<br />
+"It looks great, it controls wonderfully, and it's got a cheeky sense of humor" - Pocket Gamer: 8/10<br />
+<br />
+"Without a doubt a graveyard smash" - Keen Gamer: 8/10<br />
+<br />
+Featured in App Store section "New Games We Love".<br />
+<br />
+Top 100 of App Store games in 15 countries!<br />
+<br />
+<br />
+The Gameplay<br />
+<br />
+Gameplay is similar to old games like Maniac Mansion, Zac McKraken, Beneath A Steel Sky and Monkey Island, but the game has a unique interface that is optimized for touch. Unlike most other point-and-click adventures the player actually holds the current item in his hand.<br />
+<br />
+<br />
+The Graphics<br />
+<br />
+All handcrafted pixel art.<br />
+<br />
+<br />
+The Music<br />
+<br />
+All game music only uses original Commodore C64 SID chip sounds, but polyphonic and with professional effects. The main theme of the Paul Pixel game was composed by the Pixel Lover Orchestra and is called "They Want To Get Us". Other chiptune highlights are "The Awakening" by the underground duo Retro Arcade Boys and "The Giant Meteor" by 8-Bit Factory.<br />
+<br />
+<br />
+The Story<br />
+<br />
+An average guy called Paul Pixel discovers that the part of the city where he lives was put in quarantine. Apparently there has been a zombie outbreak. He needs to get out...<br />
+<br />
+Of course, a short time later he needs to save the whole earth from this zombie apocalypse.<br />
+<br />
+Playtime: 2.5 - 3 hours<br />
+<br />
+Supported Languages<br />
+<br />
+English, German, French, Russian</div>
+<p>
+<a href="#" onclick="if ($$('.desc').css('display') == 'none'){$$('.desc').css('display', 'inline'); this.innerHTML='Less...'} else {$$('.desc').css('display', 'none'); this.innerHTML='More...'}" class="">More...</a>
+</p>
+<br>
+<div id="ad_container"></div>
+<br>
+<h2 class="header">Information</h2>
+<div class="list-block inset" style="margin:0px;">
+<ul>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Seller</div>
+<div class="item-after header">Xoron GmbH</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Size</div>
+ <div class="item-after header">77.55 MB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Categories</div>
+<div class="item-after header">Paid and Other Games</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Version</div>
+<div class="item-after header">2.3</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Report App</div>
+<div class="item-after header"><a class="email" title="email" href="#" onclick="javascript:window.location='mailto:report@appvalley.vip?subject=App Not Working&body=This app is not working: ' + document.getElementById('#appName').innerHTML;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVEhL7VJNKERRFH6xICsLKXsbC+Tdp4RIWYosZq0oysrCzsLKxkYW5t5nYzWpScpGFihSVhZTGt65T5MFSooSkZ/xnTuMmfdG0wxLt77eO98557vnnHus/5M9kXi6UkhvwpE6BsR/A6Fo2XF1pxEWUi84Sqf/CkLSq5B+l4Wbrh1Fb4WCysQToCxjSDqC+E6Os3RIesAo1oErFBvLCBtQAm2M4f/wmysOofQL8lzkT8G+N3y+MBN0i5kPtUt/GM6TPF8Qkt65Qlv5zaF3CgkbEgmS5hoXqcpR/jiCLoMxENqzo9Rhq2QD7P2gv7BwFrRlzaYrhHtRA6GZTDd0DMEB3qa2Ja/JzLNQ7k/CvDJocYRF25XXw0KtK6lavog7sZXuM/uv9Fqh/B9H4URpFMk27CRzqGy1JerXC/es+4vjZOGe1sG3YexchIRZVNIkHNPAc8B3F9x3VJzi6tHhZi4fEsYs5xG0ncsVA4+N83DxbpbPF6YDVHDzbZcKSkD83PxnhEmbEYQCSwdX//mds5yoHsQDPAaDygVEPX5o3iSLFx1zGhKujvwGjuv1966kqo3o/8kcy/oAk4ZYv9esbNMAAAAASUVORK5CYII="></a></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</center>
+</div>
+</div>

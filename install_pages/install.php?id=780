@@ -1,0 +1,113 @@
+<div class="page" data-name="install" data-id="780" data-app-name="SuperimposeX">
+<div class="page-content">
+<center>
+<div class="content-block" style="width:100%;max-width:414px; text-align:left; margin-top:-16px; margin-bottom:0px;">
+<a href="#" class="back link"><i class="icon icon-back"></i><span> Back</span></a>
+<br><br>
+<div class="row">
+<div class="col-40">
+<img width="100%" style="border-radius:25%;" src="https://img.appvalley.vip/icon/780.png">
+</div>
+<div class="col-60">
+<h2 class="header" style="padding:0px;"><div id="#appName" style="overflow:hidden;">SuperimposeX</div><br><div style="margin-top:-35px; font-size:18px;"><small style="color:#6d6d72;">Superimposeapp</small></div></h2>
+<a href="itms-services://?action=download-manifest&url=https://appvalley.vip/app/plists/769/install.plist" class="col button button-fill button-round external install"  data-id="780" data-app-name="SuperimposeX" style="background: #007AFF; color: #F0F1F6; font-weight:bold; width: 72px;">GET</a>
+</div>
+</div>
+</div>
+<div class="content-block" style="max-width:414px; text-align:left;">
+<h2 class="header">Preview</h2>
+<img style="border-radius:9px; max-width:414px;" src="https://img.appvalley.vip/screenshot/780.png" width="60%">
+<h2 class="header">Description</h2>Turn your ideas into magnifice<div class="desc" style="display: none;">nt piece of artwork with Superimpose X, the next generation of the Superimpose app.<br />
+<br />
+Packed with wide range of editing capabilities from multiple layers, blending modes, masking, adjustments, brushes, smudge, warp, effects, clarity to casting shadows, Superimpose X is a modern tool for creating your photo contents.<br />
+<br />
+Whether you are a professional or an amateur, you will be amazed by the power Superimpose X gives to your finger tips. Composing images with multiple layers, double exposure, superimposing is easier than ever.<br />
+<br />
+All your projects are saved in beautifully designed session area. So, you do not have to lose your current project if you want to move to another one in the middle.<br />
+<br />
+And of course Superimpose X comes with Masking Library, where you can save all your masked images, like stickers for later use.<br />
+<br />
+And all of this, packed in a beautifully designed interface that does not intimidate you, despite the amount of capabilities it comes with.<br />
+<br />
+To list out a few features...<br />
+<br />
+• Multiple layers. (Up to 8 on iPhone 7 and above).<br />
+• Blending modes, 18 of them.<br />
+• Opacity control.<br />
+• Numerous masking tools. From Magic Wand to Magic Lasso to predefined shapes.<br />
+• Filling of a layer directly from camera, with real time rendering with its mask and blending modes.<br />
+• Built-in shadow creation tool.<br />
+• Masking Library to store your masked images.<br />
+• Session Library, that automatically stores all your projects.<br />
+• Non destructive adjustments and layer blur.<br />
+• Non destructive beautiful photo effects (63 of them).<br />
+• An amazing Clarity tool.<br />
+• Advanced adjustment tools.<br />
+• Tools like Text, Selective Blur, Motion, Zoom and Spin Blur, Gradient and more.<br />
+• Number of distorting tools like Warp, Perspective transform and more.<br />
+• Numerous paint and effect brushes and option to customize them.<br />
+• Smudge brush<br />
+<br />
+...and more.<br />
+<br />
+And if you are already using the classic Superimpose app, you can seamlessly transfer all your masks into the new Superimpose X. This is how you could transfer the masks...<br />
+<br />
+1. Open the original Superimpose app.<br />
+2. Press the "?" button on the top right corner of the "Home" screen.<br />
+3. There you should see an option called "Transfer masks to Superimpose X".<br />
+4. Press that and your masks should be available in Superimpose X.</div>
+<p>
+<a href="#" onclick="if ($$('.desc').css('display') == 'none'){$$('.desc').css('display', 'inline'); this.innerHTML='Less...'} else {$$('.desc').css('display', 'none'); this.innerHTML='More...'}" class="">More...</a>
+</p>
+<br>
+<div id="ad_container"></div>
+<br>
+<h2 class="header">Information</h2>
+<div class="list-block inset" style="margin:0px;">
+<ul>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Seller</div>
+<div class="item-after header">Superimposeapp</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Size</div>
+<div class="item-after header">27.64 MB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Categories</div>
+<div class="item-after header">Paid and Other Apps</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Version</div>
+<div class="item-after header">1.5.1</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Report App</div>
+<div class="item-after header"><a class="email" title="email" href="#" onclick="javascript:window.location='mailto:report@appvalley.vip?subject=App Not Working&body=This app is not working: ' + document.getElementById('#appName').innerHTML;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVEhL7VJNKERRFH6xICsLKXsbC+Tdp4RIWYosZq0oysrCzsLKxkYW5t5nYzWpScpGFihSVhZTGt65T5MFSooSkZ/xnTuMmfdG0wxLt77eO98557vnnHus/5M9kXi6UkhvwpE6BsR/A6Fo2XF1pxEWUi84Sqf/CkLSq5B+l4Wbrh1Fb4WCysQToCxjSDqC+E6Os3RIesAo1oErFBvLCBtQAm2M4f/wmysOofQL8lzkT8G+N3y+MBN0i5kPtUt/GM6TPF8Qkt65Qlv5zaF3CgkbEgmS5hoXqcpR/jiCLoMxENqzo9Rhq2QD7P2gv7BwFrRlzaYrhHtRA6GZTDd0DMEB3qa2Ja/JzLNQ7k/CvDJocYRF25XXw0KtK6lavog7sZXuM/uv9Fqh/B9H4URpFMk27CRzqGy1JerXC/es+4vjZOGe1sG3YexchIRZVNIkHNPAc8B3F9x3VJzi6tHhZi4fEsYs5xG0ncsVA4+N83DxbpbPF6YDVHDzbZcKSkD83PxnhEmbEYQCSwdX//mds5yoHsQDPAaDygVEPX5o3iSLFx1zGhKujvwGjuv1966kqo3o/8kcy/oAk4ZYv9esbNMAAAAASUVORK5CYII="></a></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</center>
+</div>
+</div>

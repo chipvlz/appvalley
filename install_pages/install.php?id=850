@@ -1,0 +1,96 @@
+<div class="page" data-name="install" data-id="850" data-app-name="Battle Fleet 2">
+<div class="page-content">
+<center>
+<div class="content-block" style="width:100%;max-width:414px; text-align:left; margin-top:-16px; margin-bottom:0px;">
+<a href="#" class="back link"><i class="icon icon-back"></i><span> Back</span></a>
+<br><br>
+<div class="row">
+<div class="col-40">
+<img width="100%" style="border-radius:25%;" src="https://img.appvalley.vip/icon/850.png">
+</div>
+<div class="col-60">
+<h2 class="header" style="padding:0px;"><div id="#appName" style="overflow:hidden;">Battle Fleet 2</div><br><div style="margin-top:-35px; font-size:18px;"><small style="color:#6d6d72;">Mythical City Games Inc.</small></div></h2>
+<a href="itms-services://?action=download-manifest&url=https://appvalley.vip/app/plists/839/install.plist" class="col button button-fill button-round external install"  data-id="850" data-app-name="Battle Fleet 2" style="background: #007AFF; color: #F0F1F6; font-weight:bold; width: 72px;">GET</a>
+</div>
+</div>
+</div>
+<div class="content-block" style="max-width:414px; text-align:left;">
+<h2 class="header">Preview</h2>
+<img style="border-radius:9px; max-width:414px;" src="https://img.appvalley.vip/screenshot/850.png" width="60%">
+<h2 class="header">Description</h2>* Not recommended for iPad 2 o<div class="desc" style="display: none;">r original iPad Mini *<br />
+<br />
+"Battle Fleet 2 stacks up very nicely." 8/10 - Pocket Gamer <br />
+"Overall, this is a great app" 4.5/5 - AppAdvice<br />
+"I could get on board with this" - Rock, Paper, Shotgun <br />
+"Naval Combat Simulator with Depth" - IGM <br />
+"Battle Fleet 2 is a boat load of fun." 80/100 - Mouse n Joypad<br />
+<br />
+Welcome Admiral! Your mission is to select a fleet of warships, arm them by selecting their weapons, assign captains and destroy the enemy fleet. You'll have complete control of this mission, all the way down to what angle and how much power should be put into each shot. Battle Fleet 2 is at your command, Admiral! <br />
+<br />
+Battle Fleet 2 is the radically improved sequel to the original and has kept the “Worms” / “Scorched Earth” style angle+power mechanic, but now features full 3D modeling of terrain, ships, and ship hit locations. Hit the the engines and cripple the enemy's maneuverability, or aim for the command center and disable the ship for an entire turn. Ships are more realistic in which weapon compliments they can carry, and ship control is more intuitive. Battle Fleet 2 also now features Fog of War, allowing for stealth tactics and surprise attacks to be a viable strategy as well as adding the importance of using ships and aircraft for recon as well as attacks. With a full featured campaign and a variety of single play scenarios, Battle Fleet 2 will keep even the saltiest of sea-dogs satisfied. <br />
+<br />
+Feature List <br />
+- Build your fleet from 7 different ship classes each with different hardpoint locations for mounting different weapons, different mobility, and different hit locations. <br />
+- Use small caliber guns to pinpoint your shot and switch to devastating salvo mode, forcing all available guns to fire at the same location. <br />
+- Equip your ships with a wide variety of weapons including AA guns, torpedoes, and different caliber naval artillery. <br />
+- Utilize or neutralize bombers and recon planes launched from island bases, aircraft carriers, or cruisers. <br />
+- Assign captains to each ship to determine the ship's turn order<br />
+- Play the strategic campaign mode, random skirmish mode, full cross platform multiplayer, or even hotseat multiplayer. <br />
+- Use recon to clear Fog of War and defeat enemy ground based airfields and coastal artillery. <br />
+- Deploy Strategic Command Cards to surprise your enemies with special actions like deploying mines, sabotage, enhanced aiming, airstrikes and more! <br />
+- Battle Fleet 2 features full 3D models of WW2 era ships. </div>
+<p>
+<a href="#" onclick="if ($$('.desc').css('display') == 'none'){$$('.desc').css('display', 'inline'); this.innerHTML='Less...'} else {$$('.desc').css('display', 'none'); this.innerHTML='More...'}" class="">More...</a>
+</p>
+<br>
+<div id="ad_container"></div>
+<br>
+<h2 class="header">Information</h2>
+<div class="list-block inset" style="margin:0px;">
+<ul>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Seller</div>
+<div class="item-after header">Mythical City Games Inc.</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Size</div>
+<div class="item-after header">123.1 MB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Categories</div>
+<div class="item-after header">Paid and Other Games</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Version</div>
+<div class="item-after header">1.422</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Report App</div>
+<div class="item-after header"><a class="email" title="email" href="#" onclick="javascript:window.location='mailto:report@appvalley.vip?subject=App Not Working&body=This app is not working: ' + document.getElementById('#appName').innerHTML;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVEhL7VJNKERRFH6xICsLKXsbC+Tdp4RIWYosZq0oysrCzsLKxkYW5t5nYzWpScpGFihSVhZTGt65T5MFSooSkZ/xnTuMmfdG0wxLt77eO98557vnnHus/5M9kXi6UkhvwpE6BsR/A6Fo2XF1pxEWUi84Sqf/CkLSq5B+l4Wbrh1Fb4WCysQToCxjSDqC+E6Os3RIesAo1oErFBvLCBtQAm2M4f/wmysOofQL8lzkT8G+N3y+MBN0i5kPtUt/GM6TPF8Qkt65Qlv5zaF3CgkbEgmS5hoXqcpR/jiCLoMxENqzo9Rhq2QD7P2gv7BwFrRlzaYrhHtRA6GZTDd0DMEB3qa2Ja/JzLNQ7k/CvDJocYRF25XXw0KtK6lavog7sZXuM/uv9Fqh/B9H4URpFMk27CRzqGy1JerXC/es+4vjZOGe1sG3YexchIRZVNIkHNPAc8B3F9x3VJzi6tHhZi4fEsYs5xG0ncsVA4+N83DxbpbPF6YDVHDzbZcKSkD83PxnhEmbEYQCSwdX//mds5yoHsQDPAaDygVEPX5o3iSLFx1zGhKujvwGjuv1966kqo3o/8kcy/oAk4ZYv9esbNMAAAAASUVORK5CYII="></a></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</center>
+</div>
+</div>

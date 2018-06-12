@@ -1,0 +1,117 @@
+<div class="page" data-name="install" data-id="852" data-app-name="EXIF Viewer by Fluntro">
+<div class="page-content">
+<center>
+<div class="content-block" style="width:100%;max-width:414px; text-align:left; margin-top:-16px; margin-bottom:0px;">
+<a href="#" class="back link"><i class="icon icon-back"></i><span> Back</span></a>
+<br><br>
+<div class="row">
+<div class="col-40">
+<img width="100%" style="border-radius:25%;" src="https://img.appvalley.vip/icon/852.png">
+</div>
+<div class="col-60">
+<h2 class="header" style="padding:0px;"><div id="#appName" style="overflow:hidden;">EXIF Viewer by Fluntro</div><br><div style="margin-top:-35px; font-size:18px;"><small style="color:#6d6d72;">Fluntro</small></div></h2>
+<a href="itms-services://?action=download-manifest&url=https://appvalley.vip/app/plists/841/install.plist" class="col button button-fill button-round external install"  data-id="852" data-app-name="EXIF Viewer by Fluntro" style="background: #007AFF; color: #F0F1F6; font-weight:bold; width: 72px;">GET</a>
+</div>
+</div>
+</div>
+<div class="content-block" style="max-width:414px; text-align:left;">
+<h2 class="header">Preview</h2>
+<img style="border-radius:9px; max-width:414px;" src="https://img.appvalley.vip/screenshot/852.png" width="60%">
+<h2 class="header">Description</h2>*** Featured by Apple on US an<div class="desc" style="display: none;">d Canada Appstore ***<br />
+EXIF Viewer is beautiful App along with Photos Extension, Recent Photo's EXIF Widget and iMessage App. It is well crafted app for professional photographers who are serious about their work. It's an universal app, buy once, use on all your iOS devices (iPhone, iPad, iPod Touch).<br />
+<br />
+WHAT ARE FEATURES IN APP?<br />
+▸ App allows you to remove EXIF metadata including Photos GPS location known as Geotagging of photos.<br />
+▸ App displays EXIF metadata of any photo on your iOS device(s), Photo Stream or iCloud.<br />
+▸ Display EXIF tags like ISO,Shutter Speed,Focal length,Camera Model,Lens Model,Time stamp,Aperture,Shutter Count<br />
+▸ Ability to Zoom in photos,even with large size like 80 MB without loosing clarity / resolution.<br />
+▸ Re-order EXIF tags in the way you prefer & ability to hide EXIF tags that you don't want to see.<br />
+▸ Select your preferred date formats (eg 1 day ago vs August 24th 2014 vs 24-08-2016 etc).<br />
+▸ You can optionally hide photos without EXIF metadata.<br />
+▸ Navigate quickly between next and previous photos in Exif detail screen by swiping right or left.<br />
+▸ App works great on landscape and portrait mode on iPads.<br />
+▸ App is optimised for all latest iOS Devices including iPhone 5SE,iPhone 8,iPhone X,iPad Mini,iPad air,iPad Pro.<br />
+▸ App also support 3D Touch on iPhone 8 and iPhone 8 Plus (or newer device with 3D Touch support). Including Appshortcut to access "Favorites","Photostreams","Albums","All photos" quickly. Also Peek and POP functionality on ExifCards and photos in grid view.<br />
+▸ Ability to share Image with or without EXIF Metadata.<br />
+▸ Copy EXIF data to Clipboard (So that you can paste & share EXIF data as text in any other app).<br />
+▸ Most Messaging and Social networking apps remove EXIF Metadata from photos you send/receive. However, sending photos using Mail/ AirDrop retains or SD Card reader/Camera connection kit etc retains EXIF metadata.<br />
+<br />
+HOW TO REMOVE EXIF METADATA on iPhone or iPad using Exif Viewer app by Fluntro<br />
+You have option to remove EXIF data in two different ways<br />
+1) Overwrite newly created photo without EXIF data on original image (However other apps can revert back to original photo if needed)<br />
+2) Create duplicate copy of photo without EXIF details. (We also have option to remove original photo after duplicated copy is created)<br />
+<br />
+DIFFERENT TYPES OF VIEWS AVAILABLE ON EXIF VIEWER APP<br />
+1) EXIF Cards List view (as shown in screenshot), swipe to flip cards for Quick EXIF Details<br />
+2) Grid view<br />
+3) Map view shows cluster of photos on the map and view EXIF Details by tapping on photo (Satellite & Standard view)<br />
+<br />
+HOW TO REORDER OR HIDE EXIF TAGS IN EXIF VIEWER APP?<br />
+Go to Settings > Manage & reorder Exif data tags.Drag and drop items you want to reorder. Turn off EXIF tags you don't want to see on EXIF Detail screen.<br />
+<br />
+HOW TO VIEW EXIF DATA USING EXIF VIEWER PHOTOS EXTENSION?<br />
+1) Open Native Photos App (or any other 3rd Party apps). Select desired photo (s) and tap on Share/Action button. Select ExifViewer app extension<br />
+2) Exif Viewer App extension with all EXIF details would be displayed.<br />
+3) Share photos with or without EXIF metadata or copy EXIF details to clipboard within Photos Extension.<br />
+<br />
+▸ No in-app purchases will be added to this app in a future update. So all upcoming features will be free of cost.<br />
+<br />
+FAQ<br />
+Q1)What is EXIF Metadata?<br />
+EXIF “EXchangeable Image File Format”.<br />
+We quite often take pictures with our digital camera or phone. It always records and store a considerable amount of exif data within each image you take, which contains a lot information about your camera settings ( ISO, aperture, focal length, image size, shutter speed, camera model, lens model, GPS) date, time, location and many more.Viewing EXIF metadata tags is important for beginners and professional photographers alike, to understand and review what camera settings or softwares were used to create and edit photo.</div>
+<p>
+<a href="#" onclick="if ($$('.desc').css('display') == 'none'){$$('.desc').css('display', 'inline'); this.innerHTML='Less...'} else {$$('.desc').css('display', 'none'); this.innerHTML='More...'}" class="">More...</a>
+</p>
+<br>
+<div id="ad_container"></div>
+<br>
+<h2 class="header">Information</h2>
+<div class="list-block inset" style="margin:0px;">
+<ul>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Seller</div>
+<div class="item-after header">Fluntro</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Size</div>
+<div class="item-after header">22.31 MB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Categories</div>
+<div class="item-after header">Paid and Other Apps</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Version</div>
+<div class="item-after header">5.1</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Report App</div>
+<div class="item-after header"><a class="email" title="email" href="#" onclick="javascript:window.location='mailto:report@appvalley.vip?subject=App Not Working&body=This app is not working: ' + document.getElementById('#appName').innerHTML;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVEhL7VJNKERRFH6xICsLKXsbC+Tdp4RIWYosZq0oysrCzsLKxkYW5t5nYzWpScpGFihSVhZTGt65T5MFSooSkZ/xnTuMmfdG0wxLt77eO98557vnnHus/5M9kXi6UkhvwpE6BsR/A6Fo2XF1pxEWUi84Sqf/CkLSq5B+l4Wbrh1Fb4WCysQToCxjSDqC+E6Os3RIesAo1oErFBvLCBtQAm2M4f/wmysOofQL8lzkT8G+N3y+MBN0i5kPtUt/GM6TPF8Qkt65Qlv5zaF3CgkbEgmS5hoXqcpR/jiCLoMxENqzo9Rhq2QD7P2gv7BwFrRlzaYrhHtRA6GZTDd0DMEB3qa2Ja/JzLNQ7k/CvDJocYRF25XXw0KtK6lavog7sZXuM/uv9Fqh/B9H4URpFMk27CRzqGy1JerXC/es+4vjZOGe1sG3YexchIRZVNIkHNPAc8B3F9x3VJzi6tHhZi4fEsYs5xG0ncsVA4+N83DxbpbPF6YDVHDzbZcKSkD83PxnhEmbEYQCSwdX//mds5yoHsQDPAaDygVEPX5o3iSLFx1zGhKujvwGjuv1966kqo3o/8kcy/oAk4ZYv9esbNMAAAAASUVORK5CYII="></a></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</center>
+</div>
+</div>

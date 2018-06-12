@@ -1,0 +1,97 @@
+<div class="page" data-name="install" data-id="784" data-app-name="Yomiwa Japanese Dictionary">
+<div class="page-content">
+<center>
+<div class="content-block" style="width:100%;max-width:414px; text-align:left; margin-top:-16px; margin-bottom:0px;">
+<a href="#" class="back link"><i class="icon icon-back"></i><span> Back</span></a>
+<br><br>
+<div class="row">
+<div class="col-40">
+<img width="100%" style="border-radius:25%;" src="https://img.appvalley.vip/icon/784.png">
+</div>
+<div class="col-60">
+<h2 class="header" style="padding:0px;"><div id="#appName" style="overflow:hidden;">Yomiwa Japanese Dictionary</div><br><div style="margin-top:-35px; font-size:18px;"><small style="color:#6d6d72;">Vivien Seguy</small></div></h2>
+<a href="itms-services://?action=download-manifest&url=https://appvalley.vip/app/plists/773/install.plist" class="col button button-fill button-round external install"  data-id="784" data-app-name="Yomiwa Japanese Dictionary" style="background: #007AFF; color: #F0F1F6; font-weight:bold; width: 72px;">GET</a>
+</div>
+</div>
+</div>
+<div class="content-block" style="max-width:414px; text-align:left;">
+<h2 class="header">Preview</h2>
+<img style="border-radius:9px; max-width:414px;" src="https://img.appvalley.vip/screenshot/784.png" width="60%">
+<h2 class="header">Description</h2>Optical Character Recognition <div class="desc" style="display: none;">(OCR) algorithms have been developed in-house and continuously improved over the past 6 years in order to run efficiently on any iOS device without requiring an internet connection.<br />
+<br />
+Features:<br />
+• A complete and powerful built-in dictionary with full informations about words, kanjis (on-yomi, kun-yomi, meaning, stroke order etc.) and example sentences. <br />
+• Several target languages available: English, French, German, Spanish, Russian, Hungarian, Dutch, Slovene, Swedish and Hungarian.<br />
+• Search definitions from any kind of alphabet: Kanjis / Hiraganas / Katakanas / Romajis. You can search from Japanese words or from foreign words.<br />
+• Input characters by: Drawing / Radical search / Keyboard<br />
+• A powerful Optical Character Recognition (OCR) engine which lets you translate Japanese characters with your camera or from your camera roll pictures<br />
+• Furiganas with the Text Analyzer: Paste some text, or import it from the OCR modes, into the text analyzer to get furiganas and definitions of each word in the text<br />
+• A proper names database (such as people names, places, locations...)<br />
+• Japanese pronunciation of words in roman letters (romaji) or hiragana / katakana.<br />
+• Draw characters on the screen to translate them and practice writing Japanese<br />
+• Read either horizontal or vertical Japanese text<br />
+• Build vocabulary lists of Japanese words and Kanjis (which you can share as files or text in may ways!)<br />
+• Get help from the user community by sharing pictures on the Yomiwa Wall<br />
+<br />
+Yomiwa is perfect for:<br />
+• Use as a dictionary<br />
+• Read and understand Japanese text (newspaper, manga, books,...)<br />
+• Learn and study Japanese Kanjis (meaning, reading, drawing, writing)<br />
+• Translate Japanese words in everyday life situations<br />
+• Instant on-the-go translation when travelling in Japan<br />
+• Overcome the language barrier!</div>
+<p>
+<a href="#" onclick="if ($$('.desc').css('display') == 'none'){$$('.desc').css('display', 'inline'); this.innerHTML='Less...'} else {$$('.desc').css('display', 'none'); this.innerHTML='More...'}" class="">More...</a>
+</p>
+<br>
+<div id="ad_container"></div>
+<br>
+<h2 class="header">Information</h2>
+<div class="list-block inset" style="margin:0px;">
+<ul>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Seller</div>
+<div class="item-after header">Vivien Seguy</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Size</div>
+<div class="item-after header">63.27 MB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Categories</div>
+<div class="item-after header">Paid and Other Apps</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Version</div>
+<div class="item-after header">3.5.8</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Report App</div>
+<div class="item-after header"><a class="email" title="email" href="#" onclick="javascript:window.location='mailto:report@appvalley.vip?subject=App Not Working&body=This app is not working: ' + document.getElementById('#appName').innerHTML;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVEhL7VJNKERRFH6xICsLKXsbC+Tdp4RIWYosZq0oysrCzsLKxkYW5t5nYzWpScpGFihSVhZTGt65T5MFSooSkZ/xnTuMmfdG0wxLt77eO98557vnnHus/5M9kXi6UkhvwpE6BsR/A6Fo2XF1pxEWUi84Sqf/CkLSq5B+l4Wbrh1Fb4WCysQToCxjSDqC+E6Os3RIesAo1oErFBvLCBtQAm2M4f/wmysOofQL8lzkT8G+N3y+MBN0i5kPtUt/GM6TPF8Qkt65Qlv5zaF3CgkbEgmS5hoXqcpR/jiCLoMxENqzo9Rhq2QD7P2gv7BwFrRlzaYrhHtRA6GZTDd0DMEB3qa2Ja/JzLNQ7k/CvDJocYRF25XXw0KtK6lavog7sZXuM/uv9Fqh/B9H4URpFMk27CRzqGy1JerXC/es+4vjZOGe1sG3YexchIRZVNIkHNPAc8B3F9x3VJzi6tHhZi4fEsYs5xG0ncsVA4+N83DxbpbPF6YDVHDzbZcKSkD83PxnhEmbEYQCSwdX//mds5yoHsQDPAaDygVEPX5o3iSLFx1zGhKujvwGjuv1966kqo3o/8kcy/oAk4ZYv9esbNMAAAAASUVORK5CYII="></a></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</center>
+</div>
+</div>

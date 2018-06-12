@@ -1,0 +1,112 @@
+<div class="page" data-name="install" data-id="755" data-app-name="NAVIGON Russia">
+<div class="page-content">
+<center>
+<div class="content-block" style="width:100%;max-width:414px; text-align:left; margin-top:-16px; margin-bottom:0px;">
+<a href="#" class="back link"><i class="icon icon-back"></i><span> Back</span></a>
+<br><br>
+<div class="row">
+<div class="col-40">
+<img width="100%" style="border-radius:25%;" src="https://img.appvalley.vip/icon/755.png">
+</div>
+<div class="col-60">
+<h2 class="header" style="padding:0px;"><div id="#appName" style="overflow:hidden;">NAVIGON Russia</div><br><div style="margin-top:-35px; font-size:18px;"><small style="color:#6d6d72;">Navigon</small></div></h2>
+<a href="itms-services://?action=download-manifest&url=https://appvalley.vip/app/plists/744/install.plist" class="col button button-fill button-round external install"  data-id="755" data-app-name="NAVIGON Russia" style="background: #007AFF; color: #F0F1F6; font-weight:bold; width: 72px;">GET</a>
+</div>
+</div>
+</div>
+<div class="content-block" style="max-width:414px; text-align:left;">
+<h2 class="header">Preview</h2>
+<img style="border-radius:9px; max-width:414px;" src="https://img.appvalley.vip/screenshot/755.png" width="60%">
+<h2 class="header">Description</h2>With NAVIGON you can turn your<div class="desc" style="display: none;"> iPhone or iPad into a fully functional mobile navigation system. Thanks to a faithful adaptation of the menu functions, the app fits in seamlessly with the iOS operating concept.<br />
+<br />
+<br />
+*** Range of functions ***<br />
+<br />
+- Simple, intuitive user interface  <br />
+- Can be used in portrait and landscape format  <br />
+- Precise spoken announcements  <br />
+- Intelligent address entry  <br />
+- Lane Assistant Pro  <br />
+- Real Road Sign  <br />
+- Speed Assistant with adjustable audio-visual warning  <br />
+- NAVIGON MyRoutes  <br />
+- Day and night modes for map display (automatic switching)<br />
+ - 2D and 3D map display (bird’s-eye view)  <br />
+- Route planning function <br />
+- Text-to-Speech (voice playback of street names)<br />
+ - Extended Pedestrian Navigation using the iPhone’s internal compass<br />
+ - Local Search <br />
+- Reality Scanner for POI searches with Augmented Reality <br />
+- Coordinate entry <br />
+- SOS Emergency Help <br />
+<br />
+The latest NAVTEQ map material with coverage for:<br />
+Russia<br />
+<br />
+Latest Map Guarantee:<br />
+Guarantees you the most up-date maps at all times! After installing the app, you will automatically have access to the latest maps from the market leaders NAVTEQ <br />
+<br />
+Please note the following: <br />
+Positioning your iPhone correctly in the vehicle is very important to ensure optimal GPS reception! We recommend that you use the NAVIGON Design Car Kit for the iPhone, which includes both a designer suction pad holder and a car charger, enabling you to charge your iPhone during the journey. Available from specialist retailers or from the NAVIGON shop directly at www.navigon.com!<br />
+<br />
+Should you experience GPS reception problems with your iPhone, please refer to the FAQ on our website:www.navigon.com. <br />
+<br />
+Allowing GPS to run in the background for extended periods can lead to a significant reduction in battery life.<br />
+<br />
+Whether in the car, by bike or on foot, NAVIGON hopes you have fun navigating.<br />
+</div>
+<p>
+<a href="#" onclick="if ($$('.desc').css('display') == 'none'){$$('.desc').css('display', 'inline'); this.innerHTML='Less...'} else {$$('.desc').css('display', 'none'); this.innerHTML='More...'}" class="">More...</a>
+</p>
+<br>
+<div id="ad_container"></div>
+<br>
+<h2 class="header">Information</h2>
+<div class="list-block inset" style="margin:0px;">
+<ul>
+<li>
+<div class="item-content">
+ <div class="item-inner">
+<div class="item-title">Seller</div>
+<div class="item-after header">Navigon</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Size</div>
+<div class="item-after header">97.01 MB</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Categories</div>
+<div class="item-after header">Paid and Other Apps</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Version</div>
+<div class="item-after header">3.0.1</div>
+</div>
+</div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-inner">
+<div class="item-title">Report App</div>
+<div class="item-after header"><a class="email" title="email" href="#" onclick="javascript:window.location='mailto:report@appvalley.vip?subject=App Not Working&body=This app is not working: ' + document.getElementById('#appName').innerHTML;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG5SURBVEhL7VJNKERRFH6xICsLKXsbC+Tdp4RIWYosZq0oysrCzsLKxkYW5t5nYzWpScpGFihSVhZTGt65T5MFSooSkZ/xnTuMmfdG0wxLt77eO98557vnnHus/5M9kXi6UkhvwpE6BsR/A6Fo2XF1pxEWUi84Sqf/CkLSq5B+l4Wbrh1Fb4WCysQToCxjSDqC+E6Os3RIesAo1oErFBvLCBtQAm2M4f/wmysOofQL8lzkT8G+N3y+MBN0i5kPtUt/GM6TPF8Qkt65Qlv5zaF3CgkbEgmS5hoXqcpR/jiCLoMxENqzo9Rhq2QD7P2gv7BwFrRlzaYrhHtRA6GZTDd0DMEB3qa2Ja/JzLNQ7k/CvDJocYRF25XXw0KtK6lavog7sZXuM/uv9Fqh/B9H4URpFMk27CRzqGy1JerXC/es+4vjZOGe1sG3YexchIRZVNIkHNPAc8B3F9x3VJzi6tHhZi4fEsYs5xG0ncsVA4+N83DxbpbPF6YDVHDzbZcKSkD83PxnhEmbEYQCSwdX//mds5yoHsQDPAaDygVEPX5o3iSLFx1zGhKujvwGjuv1966kqo3o/8kcy/oAk4ZYv9esbNMAAAAASUVORK5CYII="></a></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</center>
+</div>
+</div>
