@@ -83,28 +83,6 @@ $$(document).on('page:init', '.page[data-name="install"]', function (e) {
 	});
 })
 
-
-$$(document).on('page:init', '.page[data-name="install"]', function(e){
-	window.google_ad_client = "ca-pub-4937367116541461";
-	window.google_ad_slot = "9058741767";
-	window.google_ad_width = 320;
-	window.google_ad_height = 100;
-
-	// container is where you want the ad to be inserted
-	var container = document.getElementById('ad_container');
-	var w = document.write;
-	document.write = function (content) {
-		container.innerHTML = content;
-		//document.write = w;
-	};
-
-	var script = document.createElement('script');
-	script.type = 'text/javascript';
-	script.src = 'http://pagead2.googlesyndication.com/pagead/show_ads.js';
-	document.getElementsByTagName("head")[0].appendChild(script);
-})
-
-
 $$(document).on('click', '.install', function(e){
 	window.clearTimeout(window.installTimer);
 	if ($(e.target).data('app-name')&&$(e.target).data('id'))
